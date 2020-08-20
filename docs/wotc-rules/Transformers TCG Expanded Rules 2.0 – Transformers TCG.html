@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v18340 -->
+
+  <title>Transformers TCG: Expanded Rules 2.0 &ndash; Transformers TCG</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:2jEtMrkidyxaldZATRkhtEPgSi+kpTRcvHcUYZZLLb0qHB76AJx3WuJZLiiyfBO7oqJPcrd+0edPRN7aIYHGpw==" />
+
+  <meta name="description" content="Updated 12/5/2019   Introduction These expanded rules give you a detailed look inside some parts of the Transformers TCG. While they are..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1990310/8b1eae5220fec6267f1be62b58b00c4db2f0dd31.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Transformers TCG" />
+<meta property="og:title" content="Transformers TCG: Expanded Rules 2.0" />
+<meta property="og:description" content="Updated 12/5/2019
+ 
+Introduction
+These expanded rules give you a detailed look inside some parts of the Transformers TCG. While they are not comprehensive rules, and they may not address every situ..." />
+<meta property="og:url" content="http://transformerstcg-support.wizards.com/hc/en-us/articles/360035661992" />
+<link rel="canonical" href="https://transformerstcg-support.wizards.com/hc/en-us/articles/360035661992-Transformers-TCG-Expanded-Rules-2-0" />
+<link rel="alternate" hreflang="en" href="https://transformerstcg-support.wizards.com/hc/en-us/articles/360035661992-Transformers-TCG-Expanded-Rules-2-0" />
+
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-ebbf4a70487f9466c9be47bf4b6055f6.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-7eacdab8920220a42cfc91404f4ed182.css" />
+  <link rel="stylesheet" type="text/css" href="//p20.zdassets.com/hc/theming_assets/1990310/360000041466/style.css?digest=360520465411" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1990310/191ff9385e5fe26946024ac04ae8d5d2ac56cb0f.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-124342621-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <!-- START PRODUCT REPLACEMENT CHAT WIDGET -->
+<script>
+  // This stores all of the allowed article id's for the chat widget to appear on
+  // To add a new entry append a comma after the last " and add two "" and put the id within
+  var allowedIds = ["360001338603", "360001340583", "360035815612"];
+  
+  // Should the widget be shown at all?
+  // If this is false the widget will not be shown on any pages no matter what
+  var active = true;
+</script>
+<!-- END PRODUCT REPLACEMENT CHAT WIDGET -->
+
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<script>
+    //We just need to keep adding key, values for every dynamic content that we need to have
+  //access to from within script.js since it isn't able to understand the templates
+	
+	// =================== IMPORTANT ===================
+	//When setting up the dyanmic content if you include the " character make sure to escape it like \" 
+	//Line breaks also seem to be not allowed and will break the script. You should use <br> instead
+	//Otherwise things will break!
+	//This only applies to dynamic content you define below
+  	var dc = {
+  	 		conduct_form_privacy_policy: "Please bear in mind that per our privacy policy we cannot discuss disciplinary action taken against other individuals. Depending on the circumstances and results of the investigation a person may receive a warning or suspension. In some cases, legal action may be pursued.",
+			conduct_form_incident_at_event: "If this incident occurred during an event, please provide as much of the following information as you can.",
+			conduct_form_provide_behavior: "Please provide a description of the behavior that you would like to report. If you are reporting something that occurred online, please attach any relevant screenshots and provide information regarding the sources of all images.",
+			conduct_form_report_early_release: "If you are reporting the early release of a product, please attach images of any documentation, such as receipts, showing the early sales.",
+			conduct_form_describe_incident: "Please describe the incident you have encountered, taking care to include any details you have about the date of the incident and the user(s) involved.",
+			conduct_form_provide_game_numbers: "Providing game numbers or attaching screen shot images can go a long way toward assisting our conduct team’s investigation.",
+			conduct_form_wizards_encourages_friendly: "Wizards of the Coast encourages a friendly and safe atmosphere in live events and on our digital platforms. If you've witnessed a violation of the Wizards <a href=\"http://company.wizards.com/legal/code-conduct\">Code of Conduct</a> we would like to hear about any details you are able to provide.",
+			conduct_form_thanks: "Thank you for your report. We take all reports seriously and investigate them thoroughly.",
+			conduct_form_provide_info_store_event: "Please provide the following information so that we can start with our investigation.",
+			conduct_form_provide_info_ipi: "Please provide the following information if relevant to your report.",
+  		ticket_field_what_contact_about: "What would you like to contact us about?",
+			helpcenter_return_to_homepage: "Return to Homepage",
+			brand_search_no_search_results: "No results for \"{{search}}\"",
+			brand_search_one_plus_search_results: "{{count}} results for \"{{search}}\"",
+  		gdpr_further_concerns: "If you have any further concerns regarding your request, you can contact our Data Protection Officer at DPO@Hasbro.com, or your local data protection authority.",
+      gdpr_form_text: "If you need help with a password reset, account recovery, or a similar request, please use <a href=/hc/en-us/requests/new?ticket_form_id=360000024086>this form</a> instead.",
+      request_a_copy: "Request a Copy of My Personal Data",
+  		delete_my_data: "Delete My Personal Information",
+      submit: "Submit",
+  		product_code_transformers: "This code should be available on the product's packaging - <a href=\"https://transformerstcg-support.wizards.com/hc/en-us/articles/360001340583\">click here to see examples</a>. Leave this field blank if the code is unavailable.",
+			
+			//English and Simplified Chinese
+			help_center_age_gate: "Due to the nature of the personal and contact information we need to collect to provide the best possible online customer service, please ask a parent or guardian to submit a question for you.<br><br>And, remember: Never give out your name, address, phone number or e-mail address online without your parents' permission because that stuff is yours and it's private!",
+  
+  			//ENGLISH ONLY
+  			attachment_help_text: "To submit an error log, follow the instructions in this <a href=\"https://mtgarena-support.wizards.com/hc/en-us/articles/360000726823-Creating-Log-Files\" target=\"_blank\">article</a>.",
+			dci_help: "Do you need help with a DCI number? If so, click <a href=\"https://magic-support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000005023\">here</s>.",
+  	};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pikaday@1.7.0/pikaday.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pikaday@1.7.0/plugins/pikaday.jquery.js"></script>
+
+<!-- Start of Zendesk Chat Widget script -->
+<script type="text/javascript">
+window.zESettings = {
+  webWidget: {
+  	launcher: {
+  		setHideWhenChatOffline: false,
+  		label: {
+  			'*': "Product Support"
+  		}
+  	},
+    chat: {
+  		// Suppress chat if it is not supposed to be active
+  		suppress: !active,
+  		hideWhenOffline: false,
+      departments: {
+        enabled: [],
+  			select: 'product replacement'
+      }
+    }
+  }
+};
+</script>
+<!-- Start of transformerstcg-support Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=ad85b55d-8852-40a2-bfbe-8b99f1be7a27"> </script>
+<!-- End of transformerstcg-support Zendesk Widget script -->
+<script>
+  zE('webWidget:on', 'chat:status', (status) => {
+      if(status == "offline"){
+        zE('webWidget', 'hide');
+      }
+  	});
+  
+  // Hide the web widget if the PR department is offline
+  zE('webWidget:on', 'chat:departmentStatus', function(dept) {
+  	if(dept.id === 2147592063 && dept.status === "offline") {
+  		zE(function() {
+          zE.hide();
+      });
+  	}
+  });
+  
+  zE('webWidget:on', 'chat:connected', function() {
+    var isChatting = zE('webWidget:get', 'chat:isChatting');
+  
+    if(!active) {
+      // If not active then hide the widget and don't run any other code
+      if(!isChatting) {
+        zE(function() {
+          zE.hide();
+        });
+      }
+    } else {
+      try {
+        var articleId = window.location.href.split("articles/")[1].split("-")[0];
+
+        // If the article id is not within the array hide the widget
+        if(!allowedIds.includes(articleId) && !isChatting){
+          zE(function() {
+            zE.hide();
+          });
+        }
+
+      // If anything errors out hide the chat widget because it isn't a article page
+      } catch(err) {
+        if(!isChatting) {
+          zE(function() {
+            zE.hide();
+          });
+        }	
+      }
+    }
+  });
+</script>
+<!-- End of Zendesk Chat Widget script -->
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <script type="text/javascript" src="//p20.zdassets.com/hc/theming_assets/1990310/360000041466/script.js?digest=360520465411"></script>
+</head>
+<body class="">
+  
+  
+
+  <a class="skip-navigation" tabindex="1" href="#main-content">Skip to main content</a>
+
+<!-- Message Banner -->
+<div class="sticky-banner">
+</div>
+
+<header class="header">
+  <div class="header-meta">
+    <a class="back-to-home" href="https://support.wizards.com/hc/en-us">
+      <?xml version="1.0" encoding="utf-8"?>
+  <!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 16.8 16.8" style="enable-background:new 0 0 16.8 16.8;" xml:space="preserve">
+  <style type="text/css">
+    .st0{fill-rule:evenodd;clip-rule:evenodd;}
+    .st1{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+  </style>
+  <g id="interface_-_house_home_4_">
+    <g>
+      <path class="st0" d="M16.3,8.6l-7.5-8C8.7,0.4,8.5,0.4,8.4,0.4c-0.1,0-0.3,0-0.4,0.1l-7.5,8c-0.2,0.2-0.2,0.5,0,0.7
+        c0.2,0.2,0.5,0.2,0.7,0L3.4,7v9c0,0.3,0.2,0.5,0.5,0.5H13c0.3,0,0.5-0.2,0.5-0.5V7l2.1,2.3c0.2,0.2,0.5,0.2,0.7,0
+        C16.5,9.1,16.5,8.8,16.3,8.6z M12.4,6.4v9.1h-8V6.4c0-0.1-0.1-0.3-0.1-0.4l4.2-4.4l4.2,4.5C12.5,6.2,12.4,6.3,12.4,6.4z"/>
+    </g>
+    <g>
+      <path class="st1" d="M16.3,8.6l-7.5-8C8.7,0.4,8.5,0.4,8.4,0.4c-0.1,0-0.3,0-0.4,0.1l-7.5,8c-0.2,0.2-0.2,0.5,0,0.7
+        c0.2,0.2,0.5,0.2,0.7,0L3.4,7v9c0,0.3,0.2,0.5,0.5,0.5H13c0.3,0,0.5-0.2,0.5-0.5V7l2.1,2.3c0.2,0.2,0.5,0.2,0.7,0
+        C16.5,9.1,16.5,8.8,16.3,8.6z M12.4,6.4v9.1h-8V6.4c0-0.1-0.1-0.3-0.1-0.4l4.2-4.4l4.2,4.5C12.5,6.2,12.4,6.3,12.4,6.4z"/>
+    </g>
+  </g>
+  </svg>
+      <span>Support Home</span>
+    </a>
+    <div class="logo">
+      <a title="Home" href="/hc/en-us">
+        <img src="//theme.zdassets.com/theme_assets/1990310/8b1eae5220fec6267f1be62b58b00c4db2f0dd31.png" alt="Transformers TCG Help Center home page" style="max-height:31px;">
+      </a>
+    </div>
+  </div> 
+  <div class="nav-wrapper">
+    <button class="menu-button" aria-controls="user-nav" aria-expanded="false" aria-label="Toggle navigation menu">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+        <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13" />
+      </svg>
+    </button>
+    <nav class="user-nav" id="user-nav">
+      <a class="btn" href="/requests/">My Requests</a>
+      <a class="btn" href="/hc/en-us/requests/new">Submit a Request</a>
+      <div class="language-selector hideDesktop">
+        
+          <div class="dropdown language-selector">
+            <button class="dropdown-toggle" aria-haspopup="true">
+              English (US)
+              <svg class="ui-arrow" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 8.7 14.5" style="enable-background:new 0 0 8.7 14.5;" xml:space="preserve">
+                <polyline class="st0" points="1.4,13.1 7.3,7.2 1.4,1.4 " style="fill:none;stroke:#7889C3;stroke-width:2.752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" />
+              </svg>
+            </button>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn" dir="ltr" rel="nofollow" role="menuitem">
+                  简体中文
+                </a>
+              
+            </span>
+          </div>
+        
+    	</div>
+    </nav>
+    <div class="language-selector hideMobile">
+      
+        <div class="dropdown language-selector">
+          <button class="dropdown-toggle" aria-haspopup="true">
+            English (US)
+            <svg class="ui-arrow" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 8.7 14.5" style="enable-background:new 0 0 8.7 14.5;" xml:space="preserve">
+              <polyline class="st0" points="1.4,13.1 7.3,7.2 1.4,1.4 " style="fill:none;stroke:#7889C3;stroke-width:2.752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" />
+            </svg>
+          </button>
+          <span class="dropdown-menu dropdown-menu-end" role="menu">
+            
+              <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn" dir="ltr" rel="nofollow" role="menuitem">
+                简体中文
+              </a>
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <a class="sign-in" rel="nofollow" href="/hc/en-us/signin?return_to=https%3A%2F%2Ftransformerstcg-support.wizards.com%2Fhc%2Fen-us%2Farticles%2F360035661992-Transformers-TCG-Expanded-Rules-2-0">
+      Sign in
+      </a>
+    
+  </div>
+</header>
+
+
+  <main role="main">
+    <div class="interior-page ">
+  <nav class="sub-nav">
+    <div class="container">
+      <div class="search-container">
+        <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="search" name="query" id="query" placeholder="Search" autocomplete="off" aria-label="Search" />
+<input type="submit" name="commit" value="Search" /></form>
+      </div>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="breadcrumbs-container"><ol class="breadcrumbs">
+  
+    <li title="Transformers TCG">
+      
+        <a href="/hc/en-us">Transformers TCG</a>
+      
+    </li>
+  
+    <li title="Rules, FAQs, &amp; Account Support">
+      
+        <a href="/hc/en-us/categories/360002108952-Rules-FAQs-Account-Support">Rules, FAQs, &amp; Account Support</a>
+      
+    </li>
+  
+    <li title="Rules Roundups &amp; FAQs">
+      
+        <a href="/hc/en-us/sections/360006518052-Rules-Roundups-FAQs">Rules Roundups &amp; FAQs</a>
+      
+    </li>
+  
+</ol>
+</div>
+  </div>
+  <div class="container">
+    <div class="article-container" id="article-container">
+      <aside class="article-sidebar" aria-labelledby="section-articles-title">
+        
+          <div class="collapsible-sidebar">
+            <button type="button" class="collapsible-sidebar-toggle" aria-labelledby="section-articles-title" aria-expanded="false">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true" class="collapsible-sidebar-toggle-icon chevron-icon">
+                <path fill="none" stroke="currentColor" stroke-linecap="round" d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5" />
+              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true" class="collapsible-sidebar-toggle-icon x-icon">
+                <path stroke="currentColor" stroke-linecap="round" d="M3 9l6-6m0 6L3 3" />
+              </svg>
+            </button>
+            <span id="section-articles-title" class="collapsible-sidebar-title sidenav-title">
+             Related articles
+            </span>
+            <div class="collapsible-sidebar-body">
+              <ul>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360046086692-Titan-Masters-Attack-is-the-Transformers-TCG-Final-Release" class="sidenav-item ">Titan Masters Attack is the Transformers TCG Final Release</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360043689672-Titan-Masters-Attack-FAQ" class="sidenav-item ">Titan Masters Attack FAQ</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360035661992-Transformers-TCG-Expanded-Rules-2-0" class="sidenav-item current-article">Transformers TCG: Expanded Rules 2.0</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360048255491-Signing-into-the-Customer-Service-Site-" class="sidenav-item ">Signing into the Customer Service Site </a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360044806431-Titan-Masters-Attack-Rules-Roundup-06-10-20" class="sidenav-item ">Titan Masters Attack Rules Roundup: 06/10/20</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360037899771-Transformers-TCG-Rules-Questions" class="sidenav-item ">Transformers TCG Rules Questions</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360036215412-Rules-Roundup-11-22-19" class="sidenav-item ">Rules Roundup: 11/22/19</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360036119852-Floor-Rules-Update-11-22-19" class="sidenav-item ">Floor Rules Update: 11/22/19</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360035662892-War-for-Cybertron-Siege-II-FAQ-and-Rules-Roundup" class="sidenav-item ">War for Cybertron: Siege II FAQ and Rules Roundup</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360035195972-Rules-Roundup-10-25-19" class="sidenav-item ">Rules Roundup: 10/25/19</a>
+                  </li>
+                
+              </ul>
+              
+                <a href="/hc/en-us/sections/360006518052-Rules-Roundups-FAQs" class="article-sidebar-item">See more</a>
+              
+            </div>
+          </div>
+        
+      </aside>
+      <article id="main-content" class="article">
+        <div class="decorative-border"></div>
+        <header class="article-header">
+          <h1 title="Transformers TCG: Expanded Rules 2.0" class="article-title">
+            Transformers TCG: Expanded Rules 2.0
+            
+          </h1>
+          <div class="article-author">
+            
+            
+          </div>
+          
+            <div class="article-subscribe"><a class="article-subscribe" title="Opens a sign-in dialog" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/en-us/articles/360035661992-Transformers-TCG-Expanded-Rules-2-0/subscription.html">Follow</a></div>
+          
+        </header>
+        <section class="article-info">
+          <div class="article-content">
+            <div class="article-body"><p class="wysiwyg-text-align-center"><img src="/hc/article_attachments/360044869432/Rules_Roundup_header_banner.jpg" alt="Rules_Roundup_header_banner.jpg" /></p>
+<p><em>Updated 12/5/2019</em></p>
+<p>&nbsp;</p>
+<h1><strong>Introduction</strong></h1>
+<p>These expanded rules give you a detailed look inside some parts of the Transformers TCG. While they are not comprehensive rules, and they may not address every situation that may arise during gameplay, they can be used together with the previous Rule sets to handle most situations. For questions concerning tournament operations (and not gameplay), please see the Transformers TCG Floor Rules.</p>
+<p>&nbsp;</p>
+<h1><strong>Turn Sequence</strong></h1>
+<p>There’s a lot of action (not to mention Actions) packed into each turn during a game. In this section, we’ll review the parts of a turn and what can happen during a turn. Remember, if a card’s instructions ever contradict these rules, what the card says takes precedence. The turn is divided into five phases, with most phases further divided into steps taken in a set order.</p>
+<h2><br /><strong>1. Start of the Turn</strong></h2>
+<p>The following things happen at the start of every turn:</p>
+<p>a) The player whose turn it is draws a card.</p>
+<p>b) Any abilities that happen “at the start of your turn” (or “at the start of every turn” or similar) resolve.</p>
+<p>&nbsp;</p>
+<h2><strong>2. Main Phase</strong></h2>
+<p>The player whose turn it is may do each of the following during this phase, in any order:</p>
+<ul>
+<li>Flip one of their characters from alt mode to bot mode, or vice versa; or from Alt Mode 1 to one of their other modes in the case of Triple Changers.</li>
+<li>Play an Action card from their hand (including Secret Actions).</li>
+<li>Play an Upgrade card from their hand.</li>
+<li>Use the tap ability of one of their untapped characters.</li>
+</ul>
+<p>On the first turn of the game, the player going first can’t play any cards from their hand. They may flip one of their characters and use a tap ability, if possible. On the second turn of the game, the other player may play an Action OR an Upgrade, but not both.</p>
+<h2><br /><strong>3. Attack</strong></h2>
+<p>The attack is divided into three steps.</p>
+<h3><br />A. Choose Combatants</h3>
+<p>1. If the attacking player’s characters are all tapped, the attack immediately ends and the game proceeds to the Post-Attack phase.</p>
+<p>2. The attacking player choose one of their untapped characters and taps it. For this combat, that character is the attacker.</p>
+<p>3. Any ability that happens “after [a player] chooses an attacker and before they choose a defender” resolves.</p>
+<p>4. The attacking player chooses one of the defending player’s tapped characters. If the defending player’s characters are all untapped, the attacking player chooses any of the defending player’s characters. That character is the defender.</p>
+<p>5. Any ability that triggers “when this attacks,” “when this defends,” “when this battles,” or similar and doesn’t refer to the results of battle cards being flipped resolves.</p>
+<h3><br />B. Flip Battle Cards</h3>
+<p>1. Any abilities that happen “before flipping battling cards,” like Focus, resolve.</p>
+<p>2. Each player determines how many battle cards they will flip during this combat. By default, this number is two, although abilities like Bold and Tough can change this number. This number is locked in at this time. A character gaining or losing such an ability after this point won’t affect how many battle cards will be flipped.</p>
+<p>3. The attacking player flips battle cards. To flip a battle card, the player takes the top card of their deck and puts it face up into their played area.</p>
+<ul>
+<li>After the attacking player flips a card, the attacker gets +1 attack for each orange battle icon on that card. Similarly, the attacker gets Pierce 1 for each black battle icon that card. These bonuses are applied immediately, before the next card is flipped.</li>
+<li>If the attacking player flips a white battle icon, they flip two additional cards. There is no additional bonus for additional white battle icons beyond the first.</li>
+</ul>
+<p>4. Any abilities belonging to the attacking player that happen “after you flip battle cards and before defense flips” resolve, as well as any abilities that happen “when this attacks/battles” and refer to the results of the attacking player flipping battle cards.</p>
+<p>5. The defending player flips battle cards, including the white battle icon “bonus flip,” if applicable.</p>
+<ul>
+<li>After the defending player flips a card, the defender gets +1 defense for each blue battle icon on that card. This bonus is applied immediately, before the next card is flipped.</li>
+</ul>
+<p>6. Any abilities that happen “when this attacks/defends/battles” and refer to the results of the defending player flipping battle cards or refer to the results of both players flipping battle cards.</p>
+<p>&nbsp;</p>
+<h3>C. Attack Damage</h3>
+<p>1. If the defender’s defense value is the same or larger than the attacker’s attack value, no attack damage is done (unless the attacker has Pierce, see below).</p>
+<p>2. If the attack value is larger, the attacker does attack damage to the defender equal to the difference.</p>
+<p>o Pierce</p>
+<ul>
+<li>If the attacker has Pierce and wouldn’t otherwise do attack damage, it does attack damage equal to the pierce number or equal to its attack value, whichever is smaller.</li>
+<li>If the attacker has Pierce and would do attack damage less than its pierce number, the amount of attack damage is raised to its pierce number or to its attack value, whichever is smaller.</li>
+<li>If the attacker has Pierce but would do as much as or more attack damage than its pierce number, Pierce has no effect during that attack.</li>
+</ul>
+<p>3. Apply any effects that modify the amount of attack damage that would be done (such as the effect of Force Field). If multiple effects could modify this damage, apply the attacking player’s effects first, one at a time in an order of their choice. Then apply the defending player’s effects one at a time in an order of that player’s choice.</p>
+<p>4. Once the amount of attack damage is calculated, the defending player puts that many damage counters on the defender. If this causes the total number of damage counters on the defender to be equal to or greater than the character’s health, the character is KO’d.</p>
+<p>&nbsp;</p>
+<h2><strong>4. Post-Attack</strong></h2>
+<p>1. After damage is done, any ability that happens “after the attack” happens, including the effects of green battle icons.</p>
+<p>2. If the defending player has any untapped characters, the game proceeds to the “5. Ending the Turn” phase, below.</p>
+<p>3. If the defending player has no untapped characters, and the attacking player has at least one untapped character, the attacking player gets an additional attack. The game returns to the “3. Attack” phase, above. The attacking player may receive multiple additional attacks this way during a turn. This is informally known as “attacking out.”</p>
+<p>4. If all characters on both sides are tapped, untap all characters. The game then proceeds to “5. Ending the Turn.”</p>
+<p>&nbsp;</p>
+<h2><strong>5. Ending the Turn</strong></h2>
+<p>Before the turn finally ends, a few things happen.</p>
+<p>1. Any ability that happens “at end of turn” resolves.</p>
+<p>2. All players put all face-up cards from their played area into their scrap pile. The defending player puts their face-down Secret Actions into their scrap pile face up. These Secret Actions have no effect.</p>
+<p>3. Any effect that lasts “until end of turn” wears off.</p>
+<p>4. If any of the above causes an ability to trigger or a character to be KO’d, repeat this phase until nothing is pending and all “until end of turn” effects have worn off.</p>
+<p>5. The turn ends. Hooray!</p>
+<p>&nbsp;</p>
+<h1><strong>Actions within Actions</strong></h1>
+<p>Some Actions, such as Brainstorm, instruct you to play additional Actions as part of their effect.</p>
+<p>&nbsp;</p>
+<p><em>Brainstorm</em></p>
+<p><em>[blue]</em></p>
+<p><em>Action</em></p>
+<p><em>You may play an Action. Then you may play another Action.</em></p>
+<p>&nbsp;</p>
+<p>If the first Action you play while Brainstorm is resolving causes abilities to trigger, those abilities become pending. Then you play the second Action, any abilities that trigger from the second Action also become pending. All these pending abilities then happen one at a time, starting with the ones that triggered most recently (usually from the second played Action). See “Triggered Abilities,” below, for more information.</p>
+<p>&nbsp;</p>
+<h1><strong>Triggered Abilities</strong></h1>
+<p>What is a triggered ability?</p>
+<p>Triggered abilities are usually found on cards in the battlefield (characters and Upgrades). They each have a trigger condition and an effect. They are usually written “When [Trigger condition] -&gt; [Effect].” The trigger condition can be any game event.</p>
+<p>In most cases, the effect of a triggered ability happens immediately after the trigger condition. If the trigger condition is an Action or Upgrade being played, the triggered ability waits until after that Action is complete or the Upgrade is put onto the character.</p>
+<p>&nbsp;</p>
+<h1><strong>Handling Multiple Triggered Abilities</strong></h1>
+<p>Sometimes multiple triggered abilities are triggered at the same time. When a game event triggers multiple abilities at once the attacking player resolves all of their abilities that triggered from that game event in the order of their choice, then the defending player resolves any of their abilities that triggered from that game event in the order of their choice.</p>
+<p><em>Example</em>: You attack with Megatron // Arrogant Ruler who is upgraded with Data Pad. You choose your opponent’s Omega Supreme (Base) as the defender. This causes all three of those cards’ triggered abilities to trigger. The attacking player controls two of those abilities: Megatron’s and Data Pad’s, so that player chooses one of them to happen, then the other. After the attacker’s abilities are both complete, the defending player uses Omega Supreme’s ability.</p>
+<p>In some more complex game situations, handling a triggered ability may itself cause other triggered abilities to trigger. The most recent ability to trigger is the one whose effect happens first. If multiple abilities trigger at the same time, and during the resolution of those abilities one or more new triggered abilities trigger, the remaining original triggered abilities wait until the newer abilities are all handled. Once an ability triggers, it will resolve even if the character with that ability flips or is KO’d, or even if the Upgrade with that ability leaves the battlefield.</p>
+<p><em>Example</em>: You attack with Chop Shop // Sneaky Insecticon in bot mode while he’s upgraded with Anticipation Engine. This causes abilities of both cards to trigger. In this example, you choose to resolve Anticipation Engine’s ability first. This reveals Rapid Conversion, which you play to flip Chop Shop to alt mode. This causes the triggered ability of Chop Shop’s alt mode to trigger. It the most recent triggered ability, so it happens next. The pending ability from Chop Shop’s bot mode remains pending. Resolving the alt mode ability, you scrap Anticipation Engine, draw a card, and repair 1 damage from one of your Insecticons. Finally, you resolve the bot mode ability, which says you may move an Upgrade from one of your other characters to Chop Shop.</p>
+<p>&nbsp;</p>
+<h1><strong>Shuffling Your Deck</strong></h1>
+<p>In most cases, as soon as your deck has no battle cards in it, shuffle your scrap pile. Those shuffled cards become your deck. This can happen at any time, including during the resolution of an Action or during the attack. There is one exception to that procedure: If you are in the middle of resolving an Action or a triggered ability, and there are any cards you put from your deck into your scrap pile earlier in that Action’s or that ability’s effect, don’t shuffle in those cards. They stay in your scrap pile while you finish resolving that Action or ability.</p>
+<p><em>Example</em>: Your deck has 2 battle cards in it. You play Treasure Hunt, which says “Scrap the top 4 cards of your deck. Put all Upgrades scrapped this way into your hand.” You put Treasure Hunt into your played area and scrap the 2 cards in your deck. You then shuffle other cards in your scrap pile into your deck. Then you scrap the top 2 cards of your reshuffled deck, for a total of 4 cards. Then you return all Upgrades from among those 4 cards to your hand.</p>
+<p>&nbsp;</p>
+<h1><strong>Duplicate Keywords </strong></h1>
+<p>Many keywords have numerical modifiers. In many cases, this means that their effects are additive. Here are details for each one.</p>
+<ul>
+<li><strong>Bold and Tough</strong>: These keywords modify how many cards are flipped during a battle. If a character has multiple instances of either keyword, their effects add together. For example, if a character with Bold 2 is upgraded with a weapon that gives it Bold 1, it will have a bold total of 3. It will flip three additional cards when attacking.</li>
+<li><strong>Pierce</strong>: Pierce sets a minimum amount of damage a character will do while attacking, with the exception that it can’t do more damage than its attack value. Pierce numbers add together, so if a character with Pierce 3 picks up a weapon that gives it Pierce 1, it will do at least 4 damage while attacking (or it will do damage equal to its attack value if that is lower).</li>
+<li><strong>Focus</strong>: Focus lets you look at the top of your deck just before flipping battle cards. If you don’t like what you see, you can scrap cards in the hopes of flipping better ones. Focus is a single action, so if a character has multiple instances of focus, add the numbers together to determine how many cards to look at. For example, if a character has Focus 1 and is upgraded with a utility that gives it another instance of Focus 1, look at the top two cards of your deck before flipping battle cards. You may scrap any number of them and put the rest back on top of your deck in any order.</li>
+<li><strong>Plan</strong>: Plan is a keyword action. Because you’ll never be instructed to plan more than once at the same time, plan numbers can’t add together.</li>
+<li><strong>Safeguard</strong>: Safeguard numbers add together, but be careful! A higher safeguard number actually makes the ability less powerful. For example, if a character with Safeguard 3 (like, say, oh I don’t know . . . Private Hot Rod) gets an armor that gives it Safeguard 3(like, say, oh I don’t know . . . Medic’s Protective Field), it will have Safeguard 6. But that means it can’t take more than 6 damage while undamaged, while if it didn’t have that armor it couldn’t take more than 3 damage. So maybe don’t play those cards together?</li>
+</ul>
+<p>&nbsp;</p></div>
+            <div class="article-attachments">
+              <ul class="attachments">
+                
+              </ul>
+            </div>
+          </div>
+        </section>
+        <footer>
+          <div class="article-footer">
+            
+            
+          </div>
+          
+            <div class="article-votes">
+              <span class="article-votes-question" id="article-votes-label">Was this article helpful?</span>
+              <div class="article-votes-controls" role="group" aria-labelledby="article-votes-label">
+                <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="360035661992" data-upvote-count="15" data-vote-count="18" data-vote-sum="12" data-vote-url="/hc/en-us/articles/360035661992/vote" data-value="null" data-label="15 out of 18 found this helpful" data-selected-class="button-primary" aria-selected="false" role="radio" rel="nofollow" title="Yes" href="#"></a>
+                <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="360035661992" data-upvote-count="15" data-vote-count="18" data-vote-sum="12" data-vote-url="/hc/en-us/articles/360035661992/vote" data-value="null" data-label="15 out of 18 found this helpful" data-selected-class="button-primary" aria-selected="false" role="radio" rel="nofollow" title="No" href="#"></a>
+              </div>
+              <small class="article-votes-count">
+                <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="360035661992" data-upvote-count="15" data-vote-count="18" data-vote-sum="12" data-vote-url="/hc/en-us/articles/360035661992/vote" data-value="null" data-label="15 out of 18 found this helpful">15 out of 18 found this helpful</span>
+              </small>
+            </div>
+          
+          <div class="article-more-questions">
+            Have more questions? <a href="/hc/en-us/requests/new">Submit a request</a>
+          </div>
+          <div class="article-return-to-top">
+            <a href="#article-container">
+              Return to top
+              <svg xmlns="http://www.w3.org/2000/svg" class="article-return-to-top-icon" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true">
+                <path fill="none" stroke="currentColor" stroke-linecap="round" d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5" />
+              </svg>
+            </a>
+          </div>
+        </footer>
+        <div class="article-relatives">
+          
+        </div>
+        
+      </article>
+    </div>
+  </div>
+
+  </main>
+
+  <div id="callout-request">
+  <div class="container">
+    <h4>Couldn’t find what you need?</h4>
+    <a href="/requests/new" class="btn">Submit a request</a>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="page-width">
+    <div class="block-content">
+      <p class="wizards">
+        <a href="http://company.wizards.com/" onclick="ga('send', 'event', 'external-links', 'click', 'wizards-en');">
+        	<img src="//theme.zdassets.com/theme_assets/9711533/0323041d552a11a7e7a039319f6e60dcdafaf9b2.svg" alt="Footer Logo">
+        </a>
+      </p>
+      <p class="hasbro">
+        <a href="http://www.hasbro.com/en-us/gateway" onclick="ga('send', 'event', 'external-links', 'click', 'hasbro-en');" target="_blank" rel="noopener noreferrer">
+          <img src="//theme.zdassets.com/theme_assets/1990310/21d6b2d8b53a777b1c72e1e47224d7cc2120d099.svg" alt="Hasbro logo" />
+        </a>
+      </p>
+      <div class="main-links">
+        <div class="brands">
+          <h6>Wizards of the Coast Brand Family</h6>
+          <ul>
+            <li onclick="ga('send', 'event', external-links, 'click', 'magic-en');">
+              <a href="http://magic.wizards.com" target="_blank" rel="noopener noreferrer">MAGIC</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'dd-en');">
+              <a href="http://dnd.wizards.com" target="_blank" rel="noopener noreferrer">D&amp;D</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'wpn-en');">
+              <a href="http://wpn.wizards.com" target="_blank" rel="noopener noreferrer">WPN</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'duel-masters-en');">
+              <a href="http://dm.takaratomy.co.jp" target="_blank" rel="noopener noreferrer">DUEL MASTERS</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'avalon-hill-en');">
+              <a href="http://avalonhill.wizards.com" target="_blank" rel="noopener noreferrer">Avalon hill</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'transformers-tcg-en');">
+              <a href="https://transformerstcg.hasbro.com/en-us" target="_blank" rel="noopener noreferrer">Transformers TCG</a>
+            </li>
+          </ul>
+        </div>
+        <div class="policy">
+          <ul>
+            <li onclick="ga('send', 'event', navigation, 'click', 'customer-service-en');">
+              <a href="http://support.wizards.com/" target="_blank" rel="noopener noreferrer">Customer Service</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'terms-use-en');">
+              <a href="https://company.wizards.com/legal/terms">Terms of Use</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'privacy-policy-en');">
+              <a href="https://company.wizards.com/legal/wizards-coasts-privacy-policy">Privacy Policy</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'code-conduct-en');">
+              <a href="https://company.wizards.com/legal/code-conduct">Code of Conduct</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'cookies-en');">
+              <a href="https://company.wizards.com/legal/cookies">Cookies</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'do-not-sell-my-personal-information-en');">
+              <a href="https://company.wizards.com/legal/wizards-coasts-privacy-policy#donotsell">DO NOT SELL MY PERSONAL INFORMATION</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="privacy">
+        <p>
+          <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx" onclick="ga('send', 'event', 'external-links', 'click', 'privacy-en');" target="_blank" rel="noopener noreferrer">
+            <img src="https://media.company.wizards.com/s3fs-public/menulink/ersb-privacy-certified_0.gif" alt="Privacy">
+          </a>
+        </p>
+      </div>
+      <div class="legal">
+        <p>™ &amp; © 1995-2020 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+<script type="text/javascript">
+  setTimeout(function(){
+      $('.twitter-feed #twitter-widget-0').contents().find('.timeline-Header').css('display', 'none');
+      $('.twitter-feed #twitter-widget-0').contents().find('.timeline-Tweet').css('padding', '25px 35px 25px 20px');
+      $('.twitter-feed #twitter-widget-0').contents().find('a').css('color', 'rgba(150, 47, 59, 1)');
+  },750);
+</script>
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.7caf01f427c7ee0e0798.js"></script>
+  <script src="https://wizards-support.zendesk.com/auth/v2/host.js" data-brand-id="360000041466" data-return-to="https://transformerstcg-support.wizards.com/hc/en-us/articles/360035661992-Transformers-TCG-Expanded-Rules-2-0" data-theme="hc" data-locale="en-us" data-auth-origin="360000041466,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"wizards-support","environment":"production","name":"Wizards of the Coast"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"hc:hcobject:server:93knkApw0wsvseYUS9dx4lONQeuB9vVBmfAh6rG9qXEHVBRYs87TfZd9Hny0skPtss9EtpItEPpqw+tRBndCaw==","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCKg4zNNTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDpl4eOhNoZWxwX2NlbnRlcl9pZGwrCKYprNFTADoNYnJhbmRfaWRsKwj6sazRUwA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiCmVuLXVzBjsGVA==--bd48a30d159a8ed0fd585e245301d9fe8b67c394","url":"https://transformerstcg-support.wizards.com/hc/tracking/events?locale=en-us"},"current_record_id":"360035661992","current_record_url":"/hc/en-us/articles/360035661992-Transformers-TCG-Expanded-Rules-2-0","current_record_title":"Transformers TCG: Expanded Rules 2.0","search_results_count":null,"current_text_direction":"ltr","current_brand":{"account_id":1990310,"brand_id":360000041466,"brand_url":"https://transformerstcg-support.wizards.com","url":"https://wizards-support.zendesk.com/api/v2/brands/360000041466.json","name":"Transformers TCG","logo":"","subdomain":"transformerstcg-support","host_mapping":"transformerstcg-support.wizards.com","help_center_state":"enabled","ticket_form_ids":null,"active":true,"default":false,"has_help_center":true,"created_at":"2018-08-20T22:22:15Z","updated_at":"2018-08-21T15:41:49Z","id":360000041466,"route_id":2393318},"current_brand_url":"https://transformerstcg-support.zendesk.com","current_host_mapping":"transformerstcg-support.wizards.com","current_path":"/hc/en-us/articles/360035661992-Transformers-TCG-Expanded-Rules-2-0","authentication_domain":"https://wizards-support.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"58f4207e51d46bc70620f6fd760127be8ba998c3","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":true,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://transformerstcg-support.wizards.com/hc/admin/plan?locale=en-us","manage_content_url":"https://transformerstcg-support.wizards.com/hc/en-us","arrange_content_url":"https://transformerstcg-support.wizards.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://transformerstcg-support.wizards.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://wizards-support.zendesk.com/knowledge/user_segments?brand_id=360000041466","has_community_enabled":false,"has_community_badges":null,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://wizards-support.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://wizards-support.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":true,"arrange_articles_url":"https://wizards-support.zendesk.com/knowledge/arrange?brand_id=360000041466","article_verification_url":"https://wizards-support.zendesk.com/knowledge/verification?brand_id=360000041466","has_article_verification":true,"guide_language_settings_url":"https://transformerstcg-support.wizards.com/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://wizards-support.zendesk.com/knowledge/import_articles?brand_id=360000041466","community_badges_url":"https://wizards-support.zendesk.com/knowledge/community_badges?brand_id=360000041466","community_settings_url":"https://wizards-support.zendesk.com/knowledge/community_settings?brand_id=360000041466","gather_plan_state":"subscribed","search_settings_url":"https://wizards-support.zendesk.com/knowledge/search_settings?brand_id=360000041466","has_multibrand_search_in_plan":true,"theming_api_version":1,"has_pci_credit_card_custom_field":true,"current_brand_id":360000041466,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[]};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-717cf9ba580465603ea472d0474b9c36.js"></script>
+  
+</body>
+</html>
