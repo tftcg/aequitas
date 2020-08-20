@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v18340 -->
+
+  <title>Nagle’s Notes: The Making of a Weaponizer &ndash; Transformers TCG</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="hc:meta:server:vojWryMt0veRBZm6ymAqXimHV9Ax1IhXHVskaAAyaPhOpeVnmpPSgSnJYdI1BRhRyMVSjSIPbezuaO7Tt/iD4g==" />
+
+  <meta name="description" content="Greetings! I’m Ken Nagle, Design lead for Transformers TCG. Now that you’re well into your War for Cybertron: Siege I boosters, cards,..." /><meta property="og:image" content="https://theme.zdassets.com/theme_assets/1990310/8b1eae5220fec6267f1be62b58b00c4db2f0dd31.png" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Transformers TCG" />
+<meta property="og:title" content="Nagle’s Notes: The Making of a Weaponizer" />
+<meta property="og:description" content=" 
+Greetings!
+I’m Ken Nagle, Design lead for Transformers TCG. Now that you’re well into your War for Cybertron: Siege I boosters, cards, characters, and decks, I want to tell a story about the desi..." />
+<meta property="og:url" content="http://transformerstcg-support.wizards.com/hc/en-us/articles/360033067092" />
+<link rel="canonical" href="https://transformerstcg-support.wizards.com/hc/en-us/articles/360033067092-Nagle-s-Notes-The-Making-of-a-Weaponizer" />
+<link rel="alternate" hreflang="en" href="https://transformerstcg-support.wizards.com/hc/en-us/articles/360033067092-Nagle-s-Notes-The-Making-of-a-Weaponizer" />
+
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-ebbf4a70487f9466c9be47bf4b6055f6.css" id="stylesheet" />
+    <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+    <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/theming_v1_support-7eacdab8920220a42cfc91404f4ed182.css" />
+  <link rel="stylesheet" type="text/css" href="//p20.zdassets.com/hc/theming_assets/1990310/360000041466/style.css?digest=360520465411" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/1990310/191ff9385e5fe26946024ac04ae8d5d2ac56cb0f.png" />
+
+    <script src="//static.zdassets.com/hc/assets/jquery-d5395f0b7ac5027403fc17855c46dbfc.js"></script>
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-124342621-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+  <!-- START PRODUCT REPLACEMENT CHAT WIDGET -->
+<script>
+  // This stores all of the allowed article id's for the chat widget to appear on
+  // To add a new entry append a comma after the last " and add two "" and put the id within
+  var allowedIds = ["360001338603", "360001340583", "360035815612"];
+  
+  // Should the widget be shown at all?
+  // If this is false the widget will not be shown on any pages no matter what
+  var active = true;
+</script>
+<!-- END PRODUCT REPLACEMENT CHAT WIDGET -->
+
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<script>
+    //We just need to keep adding key, values for every dynamic content that we need to have
+  //access to from within script.js since it isn't able to understand the templates
+	
+	// =================== IMPORTANT ===================
+	//When setting up the dyanmic content if you include the " character make sure to escape it like \" 
+	//Line breaks also seem to be not allowed and will break the script. You should use <br> instead
+	//Otherwise things will break!
+	//This only applies to dynamic content you define below
+  	var dc = {
+  	 		conduct_form_privacy_policy: "Please bear in mind that per our privacy policy we cannot discuss disciplinary action taken against other individuals. Depending on the circumstances and results of the investigation a person may receive a warning or suspension. In some cases, legal action may be pursued.",
+			conduct_form_incident_at_event: "If this incident occurred during an event, please provide as much of the following information as you can.",
+			conduct_form_provide_behavior: "Please provide a description of the behavior that you would like to report. If you are reporting something that occurred online, please attach any relevant screenshots and provide information regarding the sources of all images.",
+			conduct_form_report_early_release: "If you are reporting the early release of a product, please attach images of any documentation, such as receipts, showing the early sales.",
+			conduct_form_describe_incident: "Please describe the incident you have encountered, taking care to include any details you have about the date of the incident and the user(s) involved.",
+			conduct_form_provide_game_numbers: "Providing game numbers or attaching screen shot images can go a long way toward assisting our conduct team’s investigation.",
+			conduct_form_wizards_encourages_friendly: "Wizards of the Coast encourages a friendly and safe atmosphere in live events and on our digital platforms. If you've witnessed a violation of the Wizards <a href=\"http://company.wizards.com/legal/code-conduct\">Code of Conduct</a> we would like to hear about any details you are able to provide.",
+			conduct_form_thanks: "Thank you for your report. We take all reports seriously and investigate them thoroughly.",
+			conduct_form_provide_info_store_event: "Please provide the following information so that we can start with our investigation.",
+			conduct_form_provide_info_ipi: "Please provide the following information if relevant to your report.",
+  		ticket_field_what_contact_about: "What would you like to contact us about?",
+			helpcenter_return_to_homepage: "Return to Homepage",
+			brand_search_no_search_results: "No results for \"{{search}}\"",
+			brand_search_one_plus_search_results: "{{count}} results for \"{{search}}\"",
+  		gdpr_further_concerns: "If you have any further concerns regarding your request, you can contact our Data Protection Officer at DPO@Hasbro.com, or your local data protection authority.",
+      gdpr_form_text: "If you need help with a password reset, account recovery, or a similar request, please use <a href=/hc/en-us/requests/new?ticket_form_id=360000024086>this form</a> instead.",
+      request_a_copy: "Request a Copy of My Personal Data",
+  		delete_my_data: "Delete My Personal Information",
+      submit: "Submit",
+  		product_code_transformers: "This code should be available on the product's packaging - <a href=\"https://transformerstcg-support.wizards.com/hc/en-us/articles/360001340583\">click here to see examples</a>. Leave this field blank if the code is unavailable.",
+			
+			//English and Simplified Chinese
+			help_center_age_gate: "Due to the nature of the personal and contact information we need to collect to provide the best possible online customer service, please ask a parent or guardian to submit a question for you.<br><br>And, remember: Never give out your name, address, phone number or e-mail address online without your parents' permission because that stuff is yours and it's private!",
+  
+  			//ENGLISH ONLY
+  			attachment_help_text: "To submit an error log, follow the instructions in this <a href=\"https://mtgarena-support.wizards.com/hc/en-us/articles/360000726823-Creating-Log-Files\" target=\"_blank\">article</a>.",
+			dci_help: "Do you need help with a DCI number? If so, click <a href=\"https://magic-support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000005023\">here</s>.",
+  	};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pikaday@1.7.0/pikaday.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pikaday@1.7.0/plugins/pikaday.jquery.js"></script>
+
+<!-- Start of Zendesk Chat Widget script -->
+<script type="text/javascript">
+window.zESettings = {
+  webWidget: {
+  	launcher: {
+  		setHideWhenChatOffline: false,
+  		label: {
+  			'*': "Product Support"
+  		}
+  	},
+    chat: {
+  		// Suppress chat if it is not supposed to be active
+  		suppress: !active,
+  		hideWhenOffline: false,
+      departments: {
+        enabled: [],
+  			select: 'product replacement'
+      }
+    }
+  }
+};
+</script>
+<!-- Start of transformerstcg-support Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=ad85b55d-8852-40a2-bfbe-8b99f1be7a27"> </script>
+<!-- End of transformerstcg-support Zendesk Widget script -->
+<script>
+  zE('webWidget:on', 'chat:status', (status) => {
+      if(status == "offline"){
+        zE('webWidget', 'hide');
+      }
+  	});
+  
+  // Hide the web widget if the PR department is offline
+  zE('webWidget:on', 'chat:departmentStatus', function(dept) {
+  	if(dept.id === 2147592063 && dept.status === "offline") {
+  		zE(function() {
+          zE.hide();
+      });
+  	}
+  });
+  
+  zE('webWidget:on', 'chat:connected', function() {
+    var isChatting = zE('webWidget:get', 'chat:isChatting');
+  
+    if(!active) {
+      // If not active then hide the widget and don't run any other code
+      if(!isChatting) {
+        zE(function() {
+          zE.hide();
+        });
+      }
+    } else {
+      try {
+        var articleId = window.location.href.split("articles/")[1].split("-")[0];
+
+        // If the article id is not within the array hide the widget
+        if(!allowedIds.includes(articleId) && !isChatting){
+          zE(function() {
+            zE.hide();
+          });
+        }
+
+      // If anything errors out hide the chat widget because it isn't a article page
+      } catch(err) {
+        if(!isChatting) {
+          zE(function() {
+            zE.hide();
+          });
+        }	
+      }
+    }
+  });
+</script>
+<!-- End of Zendesk Chat Widget script -->
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <script type="text/javascript" src="//p20.zdassets.com/hc/theming_assets/1990310/360000041466/script.js?digest=360520465411"></script>
+</head>
+<body class="">
+  
+  
+
+  <a class="skip-navigation" tabindex="1" href="#main-content">Skip to main content</a>
+
+<!-- Message Banner -->
+<div class="sticky-banner">
+</div>
+
+<header class="header">
+  <div class="header-meta">
+    <a class="back-to-home" href="https://support.wizards.com/hc/en-us">
+      <?xml version="1.0" encoding="utf-8"?>
+  <!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 16.8 16.8" style="enable-background:new 0 0 16.8 16.8;" xml:space="preserve">
+  <style type="text/css">
+    .st0{fill-rule:evenodd;clip-rule:evenodd;}
+    .st1{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+  </style>
+  <g id="interface_-_house_home_4_">
+    <g>
+      <path class="st0" d="M16.3,8.6l-7.5-8C8.7,0.4,8.5,0.4,8.4,0.4c-0.1,0-0.3,0-0.4,0.1l-7.5,8c-0.2,0.2-0.2,0.5,0,0.7
+        c0.2,0.2,0.5,0.2,0.7,0L3.4,7v9c0,0.3,0.2,0.5,0.5,0.5H13c0.3,0,0.5-0.2,0.5-0.5V7l2.1,2.3c0.2,0.2,0.5,0.2,0.7,0
+        C16.5,9.1,16.5,8.8,16.3,8.6z M12.4,6.4v9.1h-8V6.4c0-0.1-0.1-0.3-0.1-0.4l4.2-4.4l4.2,4.5C12.5,6.2,12.4,6.3,12.4,6.4z"/>
+    </g>
+    <g>
+      <path class="st1" d="M16.3,8.6l-7.5-8C8.7,0.4,8.5,0.4,8.4,0.4c-0.1,0-0.3,0-0.4,0.1l-7.5,8c-0.2,0.2-0.2,0.5,0,0.7
+        c0.2,0.2,0.5,0.2,0.7,0L3.4,7v9c0,0.3,0.2,0.5,0.5,0.5H13c0.3,0,0.5-0.2,0.5-0.5V7l2.1,2.3c0.2,0.2,0.5,0.2,0.7,0
+        C16.5,9.1,16.5,8.8,16.3,8.6z M12.4,6.4v9.1h-8V6.4c0-0.1-0.1-0.3-0.1-0.4l4.2-4.4l4.2,4.5C12.5,6.2,12.4,6.3,12.4,6.4z"/>
+    </g>
+  </g>
+  </svg>
+      <span>Support Home</span>
+    </a>
+    <div class="logo">
+      <a title="Home" href="/hc/en-us">
+        <img src="//theme.zdassets.com/theme_assets/1990310/8b1eae5220fec6267f1be62b58b00c4db2f0dd31.png" alt="Transformers TCG Help Center home page" style="max-height:31px;">
+      </a>
+    </div>
+  </div> 
+  <div class="nav-wrapper">
+    <button class="menu-button" aria-controls="user-nav" aria-expanded="false" aria-label="Toggle navigation menu">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" focusable="false" viewBox="0 0 16 16" class="icon-menu">
+        <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13" />
+      </svg>
+    </button>
+    <nav class="user-nav" id="user-nav">
+      <a class="btn" href="/requests/">My Requests</a>
+      <a class="btn" href="/hc/en-us/requests/new">Submit a Request</a>
+      <div class="language-selector hideDesktop">
+        
+          <div class="dropdown language-selector">
+            <button class="dropdown-toggle" aria-haspopup="true">
+              English (US)
+              <svg class="ui-arrow" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 8.7 14.5" style="enable-background:new 0 0 8.7 14.5;" xml:space="preserve">
+                <polyline class="st0" points="1.4,13.1 7.3,7.2 1.4,1.4 " style="fill:none;stroke:#7889C3;stroke-width:2.752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" />
+              </svg>
+            </button>
+            <span class="dropdown-menu dropdown-menu-end" role="menu">
+              
+                <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn" dir="ltr" rel="nofollow" role="menuitem">
+                  简体中文
+                </a>
+              
+            </span>
+          </div>
+        
+    	</div>
+    </nav>
+    <div class="language-selector hideMobile">
+      
+        <div class="dropdown language-selector">
+          <button class="dropdown-toggle" aria-haspopup="true">
+            English (US)
+            <svg class="ui-arrow" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 8.7 14.5" style="enable-background:new 0 0 8.7 14.5;" xml:space="preserve">
+              <polyline class="st0" points="1.4,13.1 7.3,7.2 1.4,1.4 " style="fill:none;stroke:#7889C3;stroke-width:2.752;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" />
+            </svg>
+          </button>
+          <span class="dropdown-menu dropdown-menu-end" role="menu">
+            
+              <a href="/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn" dir="ltr" rel="nofollow" role="menuitem">
+                简体中文
+              </a>
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <a class="sign-in" rel="nofollow" href="/hc/en-us/signin?return_to=https%3A%2F%2Ftransformerstcg-support.wizards.com%2Fhc%2Fen-us%2Farticles%2F360033067092-Nagle-s-Notes-The-Making-of-a-Weaponizer">
+      Sign in
+      </a>
+    
+  </div>
+</header>
+
+
+  <main role="main">
+    <div class="interior-page ">
+  <nav class="sub-nav">
+    <div class="container">
+      <div class="search-container">
+        <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="search" name="query" id="query" placeholder="Search" autocomplete="off" aria-label="Search" />
+<input type="submit" name="commit" value="Search" /></form>
+      </div>
+    </div>
+  </nav>
+  <div class="container">
+    <div class="breadcrumbs-container"><ol class="breadcrumbs">
+  
+    <li title="Transformers TCG">
+      
+        <a href="/hc/en-us">Transformers TCG</a>
+      
+    </li>
+  
+    <li title="Rules, FAQs, &amp; Account Support">
+      
+        <a href="/hc/en-us/categories/360002108952-Rules-FAQs-Account-Support">Rules, FAQs, &amp; Account Support</a>
+      
+    </li>
+  
+    <li title="Strategy">
+      
+        <a href="/hc/en-us/sections/360006600551-Strategy">Strategy</a>
+      
+    </li>
+  
+</ol>
+</div>
+  </div>
+  <div class="container">
+    <div class="article-container" id="article-container">
+      <aside class="article-sidebar" aria-labelledby="section-articles-title">
+        
+          <div class="collapsible-sidebar">
+            <button type="button" class="collapsible-sidebar-toggle" aria-labelledby="section-articles-title" aria-expanded="false">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true" class="collapsible-sidebar-toggle-icon chevron-icon">
+                <path fill="none" stroke="currentColor" stroke-linecap="round" d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5" />
+              </svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true" class="collapsible-sidebar-toggle-icon x-icon">
+                <path stroke="currentColor" stroke-linecap="round" d="M3 9l6-6m0 6L3 3" />
+              </svg>
+            </button>
+            <span id="section-articles-title" class="collapsible-sidebar-title sidenav-title">
+             Related articles
+            </span>
+            <div class="collapsible-sidebar-body">
+              <ul>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360045465591-Robots-in-Design-17-Stratagem-of-an-Idea" class="sidenav-item ">Robots in Design #17: Stratagem of an Idea</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360042832692-Sleight-of-Hand-Chromedome-Part-2" class="sidenav-item ">Sleight of Hand- Chromedome Part 2</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360042982011-Sleight-of-Hand-Orange-Chromedome" class="sidenav-item ">Sleight of Hand- Orange Chromedome</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360042142652-Nagle-s-Notes-Spymaster-s-Ruse-Deck" class="sidenav-item ">Nagle’s Notes - Spymaster&#39;s Ruse Deck</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360039090131-Robots-in-Design-12-Happy-New-Gear" class="sidenav-item ">Robots in Design #12: Happy New Gear</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360038062131-Robots-in-Design-11-Nemesis-Patrol" class="sidenav-item ">Robots in Design #11: Nemesis Patrol</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360037461572-Nagle-s-Notes-Guest-Column-Swoop-There-It-Is-with-Blaine-Bublitz" class="sidenav-item ">Nagle&#39;s Notes: Guest Column – Swoop, There It Is with Blaine Bublitz</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360037126092-Robots-in-Design-10-And-the-Ban-Played-On" class="sidenav-item ">Robots in Design #10: And the Ban Played On</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360037248571-Nagle-s-Notes-3-Factions-3-Mechanics" class="sidenav-item ">Nagle’s Notes: 3 Factions, 3 Mechanics</a>
+                  </li>
+                
+                  <li>
+                    <a href="/hc/en-us/articles/360036957431-Robots-in-Design-9-A-Little-Help-From-My-Handsomely-Paid-Associates" class="sidenav-item ">Robots in Design #9: A Little Help From My Handsomely Paid Associates</a>
+                  </li>
+                
+              </ul>
+              
+                <a href="/hc/en-us/sections/360006600551-Strategy" class="article-sidebar-item">See more</a>
+              
+            </div>
+          </div>
+        
+      </aside>
+      <article id="main-content" class="article">
+        <div class="decorative-border"></div>
+        <header class="article-header">
+          <h1 title="Nagle’s Notes: The Making of a Weaponizer" class="article-title">
+            Nagle’s Notes: The Making of a Weaponizer
+            
+          </h1>
+          <div class="article-author">
+            
+            
+          </div>
+          
+            <div class="article-subscribe"><a class="article-subscribe" title="Opens a sign-in dialog" rel="nofollow" role="button" data-auth-action="signin" aria-selected="false" href="/hc/en-us/articles/360033067092-Nagle-s-Notes-The-Making-of-a-Weaponizer/subscription.html">Follow</a></div>
+          
+        </header>
+        <section class="article-info">
+          <div class="article-content">
+            <div class="article-body"><p class="wysiwyg-text-align-center"><img src="/hc/article_attachments/360037825992/NAGLES_NOTES_HEADER_NO_TEXT.png" alt="NAGLES_NOTES_HEADER_NO_TEXT.png" /></p>
+<p>&nbsp;</p>
+<p>Greetings!</p>
+<p>I’m Ken Nagle, Design lead for Transformers TCG. Now that you’re well into your <em>War for Cybertron: Siege I</em> boosters, cards, characters, and decks, I want to tell a story about the design of a couple of those cards. Hopefully this will show some of our design process and the level of detail we try to hit with each of our cardboard pieces of art and science, and how it evolves.</p>
+<h3><strong>A Tale of Two Cards<br /> </strong></h3>
+<p>Let’s rewind the clock back, way back to the old times of August, 15, 2018. This is the date I created a new decklist in our internal database to test Wave 3 cards. That’s right – we work somewhere between 9 months to a year in advance because of our physical timelines. I was originally just going to show this decklist, but there’s more going on here than just a collection of cards.</p>
+<h3><strong>Sergeant Cog // Heavy Force Defensebreaker<br /> Private Flak, Private Top Shot<br /> </strong>Grimlock – Dinobot Leader</h3>
+<p>3 Improvised Shield<br /> 3 Force Field<br /> 3 Grenade Launcher<br /> 3 Power Punch<br /> <strong>3 Energy Pack<br /> 3 Backup Bag<br /> 3 Emergency Defense Field<br /> 3 Bolster<br /> </strong>3 Reckless Charge<br /> 3 Treasure Hunt<br /> 3 Backup Plan<br /> 3 Work Overtime<br /> 3 Peace Through Tyranny<br /> <strong>1 Scavenge the Battlefield</strong></p>
+<p>First, let’s go over everything that’s going on here:</p>
+<ul>
+<li>I’ve bolded the above cards that are in Wave 3. During testing, we heavily emphasis getting what I call “table time” to characters and battle cards from the currently in-design wave.</li>
+<li>I have a sideboard slot between Private Flak and Private Top Shot. At the time, we knew we wanted one of them to be 4 stars and the other to be 5 stars, but we weren’t sure which one was which.</li>
+<li>Almost all my playtest decks are like this. I can “hot swap” one or more characters quickly get playtest data on multiple teams. There’s a saying around here for game balance – “You can get 80% of the way balanced in the first 20% of effort.” Even though there’s also the shuffle of the deck, who goes first, and everything my opponent is playing that’s throwing noise into my data, we’re professionals at honing in on our targets very quickly despite all that.</li>
+<li>For speed’s sake during data entry, my battle decks are 13 cards with 3-of and a singleton for the 40th slot.</li>
+<li>The Wave 3 cards are constantly changing! If you’re perceptive, try to find the card that sticks out the most as being “wrong.”</li>
+<li>Including all that, this deck is also trying to use Backup Bag in a fancy way to keep Grenade Launcher, Power Punch, and Force Field on your character for multiple turns. It can also use Scavenge the Battlefield to keep Heavy Force Defensebreaker.</li>
+<li>I brought this deck to Origins 2019 to play any and all comers.</li>
+</ul>
+<h3><strong>Sergeant Cog<br /> </strong></h3>
+<p>While designing Wave 3, we had the Battle Master dual card type working relatively quickly. They are small characters starting in Bot mode that KO into Weapon mode. This is in line with the toy line.</p>
+<p>We also needed a “Weaponizer”-style character. In the toy line, a Weaponizer is a large-sized character that breaks apart into multiple weapons, enough to outfit a whole team of other characters. We wanted to mimic that, but we didn’t quite know how. The most obvious choice is the Weaponizer is oversized compared to the Battle Master. We settled on Cog as the character, and made him a Super since he’s the only Weaponizer and no matter what, he’s going to end up fancy and complex to get across the “Weaponizer” part.</p>
+<p class="wysiwyg-text-align-center">&nbsp;<img src="/hc/article_attachments/360037816411/1.jpg" alt="1.jpg" /></p>
+<p>We first tried an ability to go find Weapons in your deck at the start of the game and put them under Cog. When Cog becomes a Weapon, it also puts those other Weapons onto your other characters. So, a literal interpretation of the toys. This version was 13 stars, but we’re very wary of removing all of the randomness from the game starting on turn 1. Also 13 stars felt too high for a character that was to “outfit the team” – too often Cog was simply the final character left and never got to do his thing.</p>
+<p>The next iteration is what he ended up with – you draw cards and then can upgrade your characters, but at least it’s going to be different each game what happens. We pulled the stars down to 10 so you can play up to 3 of the small characters in Wave 3 if you’re so inclined. After testing 10 stars at 5 attack and +5 attack, we settled on 4 attack and +4 attack since that basically guarantees Heavy Force Defensebreaker is the best weapon in the game. Playtesting all the cards in Wave 3 had shown we had to go out of our way to make sure Battle Masters and this Weaponizer where better than the Weapon you already had, since it’s not a choice to attach the Weapon mode and scrap your old weapon.</p>
+<p>That’s the backstory of how we tried to get Cog to mimic the physical toy, but in game terms.</p>
+<h3><strong><br /> Energy Pack</strong></h3>
+<p class="wysiwyg-text-align-center">&nbsp;<img src="/hc/article_attachments/360037816571/2.jpg" alt="2.jpg" width="265" height="370" /></p>
+<p>If you’re perceptive, you probably spotted Energy Pack in the above deck being very out-of-place. After all, it only goes on 11+ star characters so it just doesn’t work in my deck. However, at this time, Energy Pack went on 10+ star characters. It’s also our first +health card. Here’s all the things going on with Energy Pack:</p>
+<ul>
+<li>Now that we’re into Set 3 of the game, there’s a real metagame. In general, players gravitate towards building mono-orange or mono-blue. Additionally, the wider your team the more push towards orange, and the taller your team the more push towards blue. As a consequence, there’s room for what I’ll call “format pressure” cards that fill in gaps.</li>
+<li>Energy Pack is specifically trying to be a “Tall Orange” card. Meaning you only have large characters but you’re also playing orange cards. You can probably find other examples if you look for them.</li>
+<li>From the beginning, we felt that +health is a relatively complicated stat to just throw around willy-nilly. Just yesterday, we answered a rules question about Energy Pack – it just gives health, it doesn’t actually remove damage counters from your character.</li>
+<li>We’re very afraid of decks that can repair their characters to full health every turn. This can easily lead to games that never actually end. It’s not really a game then, more of an exercise in frustration, busy work, or a staring contest. While we aren’t willing to repair 4 damage from a character in almost any situation, Energy Pack giving +4 health is not actually repairing 4 damage. You can’t stack them up. If Energy Pack is removed, your character might get KO’d right then. For all these reasons, we like what Energy Pack is doing.</li>
+<li>A final reason for Energy Pack is we felt that large characters were having difficulty in our playtesting against the new black icon in Wave 3. We weren’t entirely sure if black icons would be “the hero” or “the villain”, but their guaranteed nature had us searching for a way for a large character to not get pierced to death by several small characters with black icons. Energy Pack may exactly address this, but it’s more than capable of buying a large character another turn against Pierce 3.</li>
+<li>Numerically, we felt +2 health wasn’t impactful enough, +3 was about right. However, there are some very dangerous 10-star characters that can wear an Energy Pack, as my deck above demonstrates. As part of the metagame cementing, there feels like a breakpoint of sorts at 11 stars. If you have two 11-star characters, it’s impossible to play a 3rd character because there’s no 3-star character at all in the game – you’ll be looking for star battle cards like Bolt of Lightning that I previewed here. For this reason, as loose as it may be, we settled on Energy Pack for 11+ star characters to help that breakpoint a little more.</li>
+</ul>
+<h3><strong><br /> Conclusion<br /> </strong></h3>
+<p>Today we’ve taken a trip back one year to a deck I made. It’s not just a deck, it’s an insight into the many moving parts of how we create new cards for the game. This article is the condensed version – we skipped over character selection, card concepting, art commission, editing, and rules reviews. I hope you’ve been enlightened about the kind of work and care we take in making this game for you.</p>
+<p>Until next time, may your efforts bear fruit in one year’s time.</p></div>
+            <div class="article-attachments">
+              <ul class="attachments">
+                
+              </ul>
+            </div>
+          </div>
+        </section>
+        <footer>
+          <div class="article-footer">
+            
+            
+          </div>
+          
+            <div class="article-votes">
+              <span class="article-votes-question" id="article-votes-label">Was this article helpful?</span>
+              <div class="article-votes-controls" role="group" aria-labelledby="article-votes-label">
+                <a class="button article-vote article-vote-up" data-helper="vote" data-item="article" data-type="up" data-id="360033067092" data-upvote-count="0" data-vote-count="0" data-vote-sum="0" data-vote-url="/hc/en-us/articles/360033067092/vote" data-value="null" data-label="0 out of 0 found this helpful" data-selected-class="button-primary" aria-selected="false" role="radio" rel="nofollow" title="Yes" href="#"></a>
+                <a class="button article-vote article-vote-down" data-helper="vote" data-item="article" data-type="down" data-id="360033067092" data-upvote-count="0" data-vote-count="0" data-vote-sum="0" data-vote-url="/hc/en-us/articles/360033067092/vote" data-value="null" data-label="0 out of 0 found this helpful" data-selected-class="button-primary" aria-selected="false" role="radio" rel="nofollow" title="No" href="#"></a>
+              </div>
+              <small class="article-votes-count">
+                <span class="article-vote-label" data-helper="vote" data-item="article" data-type="label" data-id="360033067092" data-upvote-count="0" data-vote-count="0" data-vote-sum="0" data-vote-url="/hc/en-us/articles/360033067092/vote" data-value="null" data-label="0 out of 0 found this helpful">0 out of 0 found this helpful</span>
+              </small>
+            </div>
+          
+          <div class="article-more-questions">
+            Have more questions? <a href="/hc/en-us/requests/new">Submit a request</a>
+          </div>
+          <div class="article-return-to-top">
+            <a href="#article-container">
+              Return to top
+              <svg xmlns="http://www.w3.org/2000/svg" class="article-return-to-top-icon" width="20" height="20" focusable="false" viewBox="0 0 12 12" aria-hidden="true">
+                <path fill="none" stroke="currentColor" stroke-linecap="round" d="M3 4.5l2.6 2.6c.2.2.5.2.7 0L9 4.5" />
+              </svg>
+            </a>
+          </div>
+        </footer>
+        <div class="article-relatives">
+          
+        </div>
+        
+      </article>
+    </div>
+  </div>
+
+  </main>
+
+  <div id="callout-request">
+  <div class="container">
+    <h4>Couldn’t find what you need?</h4>
+    <a href="/requests/new" class="btn">Submit a request</a>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="page-width">
+    <div class="block-content">
+      <p class="wizards">
+        <a href="http://company.wizards.com/" onclick="ga('send', 'event', 'external-links', 'click', 'wizards-en');">
+        	<img src="//theme.zdassets.com/theme_assets/9711533/0323041d552a11a7e7a039319f6e60dcdafaf9b2.svg" alt="Footer Logo">
+        </a>
+      </p>
+      <p class="hasbro">
+        <a href="http://www.hasbro.com/en-us/gateway" onclick="ga('send', 'event', 'external-links', 'click', 'hasbro-en');" target="_blank" rel="noopener noreferrer">
+          <img src="//theme.zdassets.com/theme_assets/1990310/21d6b2d8b53a777b1c72e1e47224d7cc2120d099.svg" alt="Hasbro logo" />
+        </a>
+      </p>
+      <div class="main-links">
+        <div class="brands">
+          <h6>Wizards of the Coast Brand Family</h6>
+          <ul>
+            <li onclick="ga('send', 'event', external-links, 'click', 'magic-en');">
+              <a href="http://magic.wizards.com" target="_blank" rel="noopener noreferrer">MAGIC</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'dd-en');">
+              <a href="http://dnd.wizards.com" target="_blank" rel="noopener noreferrer">D&amp;D</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'wpn-en');">
+              <a href="http://wpn.wizards.com" target="_blank" rel="noopener noreferrer">WPN</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'duel-masters-en');">
+              <a href="http://dm.takaratomy.co.jp" target="_blank" rel="noopener noreferrer">DUEL MASTERS</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'avalon-hill-en');">
+              <a href="http://avalonhill.wizards.com" target="_blank" rel="noopener noreferrer">Avalon hill</a>
+            </li>
+            <li onclick="ga('send', 'event', external-links, 'click', 'transformers-tcg-en');">
+              <a href="https://transformerstcg.hasbro.com/en-us" target="_blank" rel="noopener noreferrer">Transformers TCG</a>
+            </li>
+          </ul>
+        </div>
+        <div class="policy">
+          <ul>
+            <li onclick="ga('send', 'event', navigation, 'click', 'customer-service-en');">
+              <a href="http://support.wizards.com/" target="_blank" rel="noopener noreferrer">Customer Service</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'terms-use-en');">
+              <a href="https://company.wizards.com/legal/terms">Terms of Use</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'privacy-policy-en');">
+              <a href="https://company.wizards.com/legal/wizards-coasts-privacy-policy">Privacy Policy</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'code-conduct-en');">
+              <a href="https://company.wizards.com/legal/code-conduct">Code of Conduct</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'cookies-en');">
+              <a href="https://company.wizards.com/legal/cookies">Cookies</a>
+            </li>
+            <li onclick="ga('send', 'event', navigation, 'click', 'do-not-sell-my-personal-information-en');">
+              <a href="https://company.wizards.com/legal/wizards-coasts-privacy-policy#donotsell">DO NOT SELL MY PERSONAL INFORMATION</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="privacy">
+        <p>
+          <a href="http://www.esrb.org/confirm/wizards-confirmation.aspx" onclick="ga('send', 'event', 'external-links', 'click', 'privacy-en');" target="_blank" rel="noopener noreferrer">
+            <img src="https://media.company.wizards.com/s3fs-public/menulink/ersb-privacy-certified_0.gif" alt="Privacy">
+          </a>
+        </p>
+      </div>
+      <div class="legal">
+        <p>™ &amp; © 1995-2020 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+<script type="text/javascript">
+  setTimeout(function(){
+      $('.twitter-feed #twitter-widget-0').contents().find('.timeline-Header').css('display', 'none');
+      $('.twitter-feed #twitter-widget-0').contents().find('.timeline-Tweet').css('padding', '25px 35px 25px 20px');
+      $('.twitter-feed #twitter-widget-0').contents().find('a').css('color', 'rgba(150, 47, 59, 1)');
+  },750);
+</script>
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+
+  <!-- / -->
+
+  
+  <script src="//static.zdassets.com/hc/assets/en-us.7caf01f427c7ee0e0798.js"></script>
+  <script src="https://wizards-support.zendesk.com/auth/v2/host.js" data-brand-id="360000041466" data-return-to="https://transformerstcg-support.wizards.com/hc/en-us/articles/360033067092-Nagle-s-Notes-The-Making-of-a-Weaponizer" data-theme="hc" data-locale="en-us" data-auth-origin="360000041466,true,true"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"wizards-support","environment":"production","name":"Wizards of the Coast"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"hc:hcobject:server:AO+df+1gJEpZI3Z7INwM7PTgpBrwJ148KJNadPup9wHwwq63VN4kPOHvjhPfuT7jFaKhR+P8u4fboJDPTGMcGw==","shared_csrf_token":null},"settings":{},"usage_tracking":{"event":"article_viewed","data":"BAh7CDoLbG9jYWxlSSIKZW4tdXMGOgZFVDoPYXJ0aWNsZV9pZGwrCFSgpNNTADoKX21ldGF7CzoPYWNjb3VudF9pZGkDpl4eOhNoZWxwX2NlbnRlcl9pZGwrCKYprNFTADoNYnJhbmRfaWRsKwj6sazRUwA6DHVzZXJfaWQwOhN1c2VyX3JvbGVfbmFtZUkiDkFOT05ZTU9VUwY7BlQ7AEkiCmVuLXVzBjsGVA==--0a33cf8e4c3b2249458b262f0f0be081feaeb904","url":"https://transformerstcg-support.wizards.com/hc/tracking/events?locale=en-us"},"current_record_id":"360033067092","current_record_url":"/hc/en-us/articles/360033067092-Nagle-s-Notes-The-Making-of-a-Weaponizer","current_record_title":"Nagle’s Notes: The Making of a Weaponizer","search_results_count":null,"current_text_direction":"ltr","current_brand":{"account_id":1990310,"brand_id":360000041466,"brand_url":"https://transformerstcg-support.wizards.com","url":"https://wizards-support.zendesk.com/api/v2/brands/360000041466.json","name":"Transformers TCG","logo":"","subdomain":"transformerstcg-support","host_mapping":"transformerstcg-support.wizards.com","help_center_state":"enabled","ticket_form_ids":null,"active":true,"default":false,"has_help_center":true,"created_at":"2018-08-20T22:22:15Z","updated_at":"2018-08-21T15:41:49Z","id":360000041466,"route_id":2393318},"current_brand_url":"https://transformerstcg-support.zendesk.com","current_host_mapping":"transformerstcg-support.wizards.com","current_path":"/hc/en-us/articles/360033067092-Nagle-s-Notes-The-Making-of-a-Weaponizer","authentication_domain":"https://wizards-support.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"58f4207e51d46bc70620f6fd760127be8ba998c3","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":true,"user_aliases_enabled":false,"has_anonymous_kb_voting":true,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":true,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://transformerstcg-support.wizards.com/hc/admin/plan?locale=en-us","manage_content_url":"https://transformerstcg-support.wizards.com/hc/en-us","arrange_content_url":"https://transformerstcg-support.wizards.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://transformerstcg-support.wizards.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://wizards-support.zendesk.com/knowledge/user_segments?brand_id=360000041466","has_community_enabled":false,"has_community_badges":null,"has_user_segments":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://wizards-support.zendesk.com/admin/billing/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"/access/return_to?return_to=https://wizards-support.zendesk.com/agent/admin/answer_bot","is_account_owner":false,"theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd807091-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":true,"arrange_articles_url":"https://wizards-support.zendesk.com/knowledge/arrange?brand_id=360000041466","article_verification_url":"https://wizards-support.zendesk.com/knowledge/verification?brand_id=360000041466","has_article_verification":true,"guide_language_settings_url":"https://transformerstcg-support.wizards.com/hc/admin/language_settings?locale=en-us","docs_importer_url":"https://wizards-support.zendesk.com/knowledge/import_articles?brand_id=360000041466","community_badges_url":"https://wizards-support.zendesk.com/knowledge/community_badges?brand_id=360000041466","community_settings_url":"https://wizards-support.zendesk.com/knowledge/community_settings?brand_id=360000041466","gather_plan_state":"subscribed","search_settings_url":"https://wizards-support.zendesk.com/knowledge/search_settings?brand_id=360000041466","has_multibrand_search_in_plan":true,"theming_api_version":1,"has_pci_credit_card_custom_field":true,"current_brand_id":360000041466,"help_center_restricted":false,"current_brand_active":true,"is_assuming_someone_else":false,"flash_messages":[]};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/moment-f6f8513da6ab17eadada59a1a4edb536.js"></script>
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-717cf9ba580465603ea472d0474b9c36.js"></script>
+  
+</body>
+</html>
