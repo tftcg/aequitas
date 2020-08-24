@@ -2,10 +2,65 @@
     <head>
         <title>Aequitas Council</title>
         <style>
-            body { background: black; }
+            body { 
+                background: black; 
+                color: white;
+            }
+            #sitetitle {
+                text-align: center;
+                font-size: xx-large;
+            }
+            #roundups {
+                list-style-type: none;
+                float: left;
+            }
+            #roundups li {
+                padding: 1em;
+                margin: 1em;
+                background: purple;
+                text-align: center;
+                border-radius: 25px;
+            }
+            #roundups a {
+                color: white;
+            }
+            #links {
+                list-style-type: none;
+                float: right;
+            }
+            #links li {
+                padding: 1em;
+                margin: 1em;
+                background: red;
+                text-align: center;
+                border-radius: 25px;
+            }
+            #links a {
+                color: white;
+            }
+            #centerpiece {
+                position: fixed;
+                left: 50%;
+                /* bring your own prefixes */
+                transform: translate(-50%, 10%);
+                z-index: -1;
+            }
         </style>
     </head>
     <body>
-        <img src="images/Aequitas.jpg"/>
+        <h1 id="sitetitle">Aequitas</h1>
+        <ul id="roundups">
+            <li>TODO: September 2020 Rules Roundup</li>
+            <li><a href="https://transformerstcg-support.wizards.com/hc/en-us/articles/360044806431-Titan-Masters-Attack-Rules-Roundup-06-10-20">WotC June 2020 Rules Roundup</a></li>
+            <li><a href="https://transformerstcg-support.wizards.com/hc/en-us/articles/360043689672-Titan-Masters-Attack-FAQ">WotC Titan Masters Attacks FAQ</a></li>
+        </ul>
+        <img id="centerpiece" src="images/Aequitas.jpg"/>
+        <ul id="links">
+            <li><a href="https://github.com/tftcg/aequitas/blob/master/docs/Aequitas_Charter.pdf">Charter</a></li>
+            <li><a href="https://transformerstcg.hasbro.com/en-us/howtoplay">How to Play</a></li>
+            <li><a href="https://transformerstcg-support.wizards.com/hc/en-us/articles/360035661992-Transformers-TCG-Expanded-Rules-2-0">Expanded Rules</a></li>
+            <li>TODO: Really Expanded Rules</li>
+            <li><a href="https://faq.tf-rules.info/">FAQ</a></li>
+        </ul>
     </body>
 </html>
