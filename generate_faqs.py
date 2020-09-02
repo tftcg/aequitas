@@ -50,7 +50,7 @@ def write_faq(faq_node, faq_template, filename):
         page = faq_template.render(faq_node=faq_node, f_prepare_text=prepare_text)
         #page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
 
-        f = open('docs/faqs/' + filename + '.html', "w")
+        f = open('docs/roundups/' + filename + '.html', "w")
         f.write(page)
         f.close()
 
