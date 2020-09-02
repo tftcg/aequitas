@@ -63,4 +63,5 @@ def write_faq(faq_node, faq_template, filename):
 
 generate_faq('../aequitas-faq/faqxml-official', faq_template)
 generate_faq('../aequitas-faq/faqxml-roundups', faq_template)
-generate_faq('../aequitas-faq/faqxml-unofficial', faq_template)
+generate_faq('../aequitas-faq/faqxml-aequitas', faq_template)
+generate_faq('../aequitas-draft-faq/faqxml-aequitas-roundups', faq_template)
