@@ -34,10 +34,12 @@
 
     <h3 class="card_title">{{ faq_node.attrib['name'] }}</h3>
 
-    <ol class="card_faq">
+    <dl class="card_faqs">
 
 {% for target in faq_node.findall('target') %}
-    <li><u>{{ target.attrib['name'] }}</u></li>
+    <dt>{{ target.attrib['name'] }}</li>
+    <dd>
+    <ul class="card_faq">
   {% for entry in target.findall('entry') %}
     <li id="{{ faq_node.attrib['name'] }}__{{ entry.attrib['id'] }}" class="faq_entry">
       <div class="question">
@@ -50,9 +52,11 @@
       </div>
     </li>
   {% endfor %}
+    </ul>
+    </dd>
 {% endfor %}
 
-    </ol>
+    </dl>
 
 </body>
 </html>
