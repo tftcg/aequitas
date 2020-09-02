@@ -1,10 +1,17 @@
+
+
+# TODO:
+
+# Mirror the directory structure of the globbed directory down so files go in docs/roundups/wotc-official/ etc
+# Define a stylesheet for the site
+# Fix the list css
+# Fix the prefix on the permalink
+
 import os
 import glob
 import re
 from jinja2 import Template, Environment, FileSystemLoader
 import xml.etree.ElementTree as ET 
-#import json
-#from collections import Counter
 from collections import OrderedDict
 
 # Global
