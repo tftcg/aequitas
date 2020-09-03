@@ -52,15 +52,17 @@ def generate_faq(faq_dir, faq_template):
         filename = os.path.splitext(file)[0][len(faq_dir)+1:]
         faq_tree = ET.parse(file)
         faq_node=faq_tree.getroot()
-        write_faq(faq_node, faq_template, os.path.join(output_dir, filename) + '.html')
+        write_faq(faq_node, faq_template, output_dir, filename)
 
-def write_faq(faq_node, faq_template, filename):
-        page = faq_template.render(faq_node=faq_node, f_prepare_text=prepare_text)
-        #page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
+def write_faq(faq_node, faq_template, output_dir, filename):
+    path = os.path.join(output_dir, filename) + '.html'
 
-        f = open(filename, "w")
-        f.write(page)
-        f.close()
+    page = faq_template.render(faq_node=faq_node, f_prepare_text=prepare_text, filename=filename, path=path[5:])
+    #page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
+
+    f = open( path, 'w' )
+    f.write(page)
+    f.close()
 
 generate_faq('../aequitas-faq/faqxml-wotc-faqs', faq_template)
 generate_faq('../aequitas-faq/faqxml-wotc-roundups', faq_template)
