@@ -542,7 +542,8 @@ After the draft has concluded, the player in seat 1 plays the player in seat 5, 
 Appendix A — Aequitas Changes From WoTC Rules
 
 1.1 Removal of terms specific to WotC's tournament structure. 
-1.2 Updating to cover the banning of Multi-Mission Gear
+1.2 Updating to cover the banning of Multi-Mission Gear.
+1.3 Adding Wave 5 cards to the permitted list for Constructed events.
 
 
 Appendix B — Time Limits
