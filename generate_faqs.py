@@ -4,6 +4,10 @@
 
 # Define a stylesheet for the site
 # Fix the list css
+# Put logo on lhs
+# Make it a link back to main page
+# Steal style from faq site with regards to spacing etc
+# Generate a site that has each of the faqs listed on it. Or hand write it given it'll be pretty basic.
 
 import os
 import glob
