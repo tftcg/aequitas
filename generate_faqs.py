@@ -4,7 +4,6 @@
 
 # Define a stylesheet for the site
 # Fix the list css
-# Fix the prefix on the permalink
 
 import os
 import glob
