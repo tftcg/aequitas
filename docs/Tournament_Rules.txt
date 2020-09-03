@@ -86,22 +86,16 @@ APPENDIX D— RECOMMENDED BOOSTER MIX FOR LIMITED TOURNAMENTS
 APPENDIX E—RECOMMENDED NUMBER OF ROUNDS IN SWISS TOURNAMENTS
 Introduction
 The purpose of this document is to provide the infrastructure used to run Transformers TCG
-tournaments by defining appropriate rules, responsibilities, and procedures to be followed in all
-Officially Sanctioned Transformers TCG tournaments. Officially Sanctioned tournaments are to be run consistently regardless of their location.
-All players are treated equally and share responsibilities. Both players and tournament officials should cooperate to achieve their common goal of running a proper Officially Sanctioned tournament. Players and tournament officials must treat each other in a fair and respectful manner, following both the rules and the spirit in which those rules were created. They are responsible for following the most current version of the Transformers TCG Tournament Rules and any other applicable regulatory documents, including the Transformers TCG Game Rules (available in Transformers TCG competitive decks and other products). Spectators have their own set of responsibilities. Individuals violating the Transformers TCG Tournament rules are subject to appropriate penalties.
+tournaments by defining appropriate rules, responsibilities, and procedures to be followed.
+All players are treated equally and share responsibilities. Both players and tournament officials should cooperate to achieve their common goal of running a tournament. Players and tournament officials must treat each other in a fair and respectful manner, following both the rules and the spirit in which those rules were created. They are responsible for following the most current version of the Transformers TCG Tournament Rules and any other applicable regulatory documents, including the Transformers TCG Game Rules. Spectators have their own set of responsibilities. Individuals violating the Transformers TCG Tournament rules are subject to appropriate penalties.
 Information in this document may contradict (or have information not contained in) the Transformers TCG Game Rules. In such cases, this document takes precedence. Tournament fact sheets for specific tournaments may define alternative or additional policies or procedures. If a contradiction exists between this document and a fact sheet, the information in the fact sheet takes precedence.
-Wizards of the Coast reserves the right to alter these rules, as well as the right to interpret, modify, clarify, or otherwise issue official changes to these rules without prior notice.
-Future updates to this document are scheduled to be announced on the Monday before a set release.
-Each update will become effective on the release date of that set.
 
  1. Tournament Fundamentals
 1.1 Tournament Types
-Sanctioned tournaments are divided into two types: Premier and non-Premier. Premier tournaments are run by Wizards of the Coast or select Tournament Organizers. They have unique names and features.
-Non-Premier tournaments are tournaments that are not explicitly Premier.
+Tournament Types are at the discretion of the Tournament Organizer. 
 
 1.2 Publishing Tournament Information
-Wizards of the Coast reserves the right to publish Officially Sanctioned tournament information at an time (including during the tournament). Tournament information includes, but is not limited to, the contents of one or more players' decks, descriptions of strategies or play, transcripts, and video reproductions. Tournament Organizers are also allowed to publish this information once their tournament is complete.
-Wizards of the Coast reserves the right to publish penalty and suspension information.
+The Publishing of Tournament Information is at the discretion of the Tournament Organizer. 
 
 1.3 Tournament Roles
 The following roles are defined for tournament purposes:
@@ -118,77 +112,20 @@ official roles. Individuals who are not judges at a tournament are acting as spe
 match they are not playing in. Members of the press are also considered spectators.
 
 1.4 Participation Eligibility
-Anyone is eligible to participate as a player in an Officially Sanctioned Transformers TCG tournament
-with the exception of:
+Participation Eligibility is at the discretion of the Tournament Organizer. 
 
-Individuals currently suspended by WOTC. The current suspended player list is located at
-http://www.wizards.com/wpn/Document.aspx?x=WPN_Suspended_Player_List. Individuals
-currently suspended may not act as tournament officials;
-Other individuals specifically prohibited from participation by Wizards of the Coast policy (such
-determination is at Wizards of the Coast’s sole discretion);
-Anyone twelve (12) years of age and younger who does not have their parent/guardian’s
-permission;
-
-Anyone prohibited by federal, state, or local laws, the rules of the Tournament Organizer, or by
-a venue’s management;
-
-Wizards of the Coast and Hasbro employees may participate in Transformers TCG competitive events
-with the following exceptions:
-•
-•
-•
-•
-
-Events that take place within one (1) week of a new booster set’s release.
-Events which are part of, or lead to, Premier Transformers TCG events.
-Third party premier play-like events.
-Any events where any prize exceeds $250.00 USD.
-
-Wizards team members are required to introduce themselves to the tournament organizers before
-signing-up for an event, and tournament organizers have the right to deny admittance to Wizards team
-members for any reason.
-Anyone is eligible to participate as a tournament official (Tournament Organizer, Head Judge, floor judge
-or Scorekeeper) for a tournament with the exception of:
-Individuals currently suspended by Wizards of the Coast.
-Anyone who has played in the tournament, unless it is a tournament that explicitly allows tournament
-officials to play while acting as a tournament official.
-Tournament officials may play in an Officially Sanctioned Transformers TCG tournament for which they
-are a tournament official if (and only if) the tournament is of the following event types:
-
-
-Transformers TCG Set Premiere – Release Day Event
-Other non-Premier Transformers TCG Tournaments, which do not grant an invitation to a
-Premiere Transformers TCG tournament.
-Tournaments in which the official Wizards of the Coast tournament fact sheet specifically
-permits officials of that tournament to play.
-If one or more tournament officials play in the tournament and the tournament is not one of the
-allowed event types listed above, the tournament will be invalidated. Tournament officials are
-required to officiate tournaments fairly and without regard to their own self-interest.
-The owners of organizations that run Premier tournaments are not permitted to play in those
-tournaments (even if the owner is not listed as a tournament official (organizer, judge, and/or
-scorekeeper) for that tournament.
-Premier tournaments include the following events:
-Transformers TCG Opens and Transformers TCG Invitationals.
-Some tournaments have additional criteria regarding player and tournament official eligibility
-(e.g. invitation-only tournaments, such as Transformers TCG Invitational events).
-The Transformers TCG Premier Event Invitation Policy defines specific eligibility rules with
-regards to certain types of invitation only Premier Tournaments (e.g. Transformers TCG
-Invitationals).
-
- 1.5 Organized Play Account
-Tournament participants must provide their Organized Play account number to the Scorekeeper duringregistration. Players without an Organized Play account number must request one from the TournamentOrganizer. There is no cost associated with obtaining an Organized Play account number, but membersare allowed only one an Organized Play account number. Results containing temporary player numbers,temporary player names, or placeholders may not be reported to Wizards of the Coast. Parental Consent form for players age 12 or under.
+1.5 Organized Play Account
+Whether to use WotC Organized Play Account will be at the discretion of the Tournament Organizer and willingness of WotC.
 
 1.6 Tournament Organizer
 The Tournament Organizer of a tournament is responsible for all tournament logistics including:
-Securing a sanctioning number from Wizards of the Coast.
 Providing a site for the tournament that meets the tournament’s expected needs.
 Advertising the tournament in advance of the tournament date.
 Staffing the tournament with appropriate tournament officials.
 Providing all materials necessary to operate the tournament.
-Reporting the tournament results to Wizards of the Coast.
 
 1.7 Head Judge
-Sanctioned tournaments require the physical presence of a Head Judge during play to adjudicate disputes, interpret rules, and make other official decisions. The Head Judge is the final authority at any Officially Sanctioned tournament and all tournament participants are expected to follow their instructions.
+The Head Judge is the final authority at a tournament and all tournament participants are expected to follow their instructions.
 The Head Judge’s responsibilities include:
 
 Ensuring that all necessary steps are taken to deal with game or policy rule violations that they notice or are brought to their attention.
@@ -207,7 +144,6 @@ throughout the tournament. The Scorekeeper’s responsibilities include:
 
 Generating correct pairings each round and accurately entering the results of those rounds.
 Solving all scorekeeping problems that arise in consultation with the Head Judge.
-Making sure all necessary information is included in the tournament’s report to be submitted to Wizards of the Coast.
 The Head Judge has the final authority in determining corrective action for scorekeeping errors.
 
 1.10 Players
@@ -218,19 +154,15 @@ Maintaining a clear and legal game state.
 Complying with announced start times and time limits.
 Bringing to a judge’s attention any rules or policy infractions they notice in their matches.
 Bringing to a judge’s attention any errors in their tournament match record.
-Informing Wizards of the Coast of any errors in their overall match history or rankings as soon as possible by contacting Wizards of the Coast Customer Service at: support.wizards.com
-Having an Organized Play account number. Individuals holding more than one number must contact Wizards of the Coast Customer Service at support.wizards.com to merge their numbers.
 Refraining from enrolling in tournaments if policy forbids them to participate.
 Being familiar with the rules contained within this document and other regulatory documents, including the Transformers TCG Game Rules.
-Being physically present for the tournament.
+Being present for the tournament.
 
 A player must bring the following items to a tournament in order to participate:
 
 
-A valid an Organized Play account number registered in the participant’s name. New players may register for an Organized Play account when enrolling in the tournament.
 Any materials specifically required for a particular tournament format, such as assembled decks and/or decklists for constructed tournaments.
 Players retain their responsibilities even if a judge provides them with extra assistance.
-Players who do not fulfill their responsibilities may be subject to penalties and review by WOTC. Wizards of the Coast reserve the right to suspend or revoke a player's membership without prior notice for any reason they deem necessary.
 
  1.11 Spectators
 Spectators are responsible for:
@@ -329,31 +261,21 @@ Spectators are also permitted to record matches provided that they do so unobtru
 Because of the delays inherent in using video replay, judges are not permitted to use it to assist in making rulings during a match. Video replays may be used for investigative purposes at a later time.
 
 3. Tournament Rules
-3.1 Format and Ratings Categories
+3.1 Formats
 
-Wizards of the Coast sanctions the following formats:
+The following are standard formats:
 Constructed Formats
 Transformers TCG Constructed
 Limited Formats
 Transformers TCG Sealed Deck
 Transformers TCG Booster Draft
 Transformers TCG Turbo
-Wizards of the Coast maintains the following Transformers TCG rating categories:
-• Lifetime Transformers TCG rating combines points from the following tournament types:
-
-Transformers TCG Tournaments
-Transformers TCG Open
-Transformers TCG Invitationals
-For each of those tournaments, players earn specific Points per match:
-
-3 points for winning a match.
-1 point for each player in the event of a draw
-0 points for losing a match.
 
 3.2 Authorized Cards
-Players may use any Authorized Game Cards from all Transformers TCG products and promotional
-printings. Authorized Game Cards are cards that, unaltered, meet the following conditions:
 
+Authorized Cards are at the discretion of the Tournament Organizer. 
+
+The default Authorized Cards are cards that, unaltered, meet the following conditions:
 
 The card is genuine and published by Wizards of the Coast.
 If a Battle Card, it has a standard Transformers TCG back.
@@ -361,7 +283,6 @@ The card is not damaged or modified in a way that might make it marked. See sect
 The card is otherwise legal for the tournament as defined by the format.
 The card is a proxy issued by the Head Judge of a tournament. See section 3.4 for rules about proxies.
 
-Any cards that are not Authorized Game Cards are prohibited in all sanctioned tournaments.
 Players may use otherwise-legal non-English and/or misprinted cards provided they are not
 using them to create an advantage through misleading text, art, or other features.
 Artistic modifications are acceptable in sanctioned tournaments, provided that the
@@ -371,13 +292,12 @@ stars, or name of the card.
 The Head Judge is the final authority on acceptable cards for a tournament.
 
 3.4 Proxy Cards
-A proxy card is used during competition to represent an Authorized Game Card that has been
+The use of proxy cards is at the discretion of the Tournament Organizer. 
+
+By default, a proxy card is used during competition to represent an Authorized Game Card that has been
 accidentally damaged or excessively worn in the current tournament as determined solely by the Head Judge. Proxy cards are not allowed as substitutes for cards that the owner has damaged intentionally or through negligence.
 Players may not create their own proxy cards. Proxy cards may be created only by the Head Judge.
 When a judge creates a proxy card, it is included in the player’s deck and must be denoted as a proxy card in a clear and conspicuous manner. The original card is kept nearby during the match and replaces the proxy card while in a public zone as long as it is recognizable. A proxy card is valid only for the duration of the tournament in which it was originally issued.
-
-3.5 New Releases
-Cards become tournament-legal for sanctioned tournaments on the day the product containing those cards is released. All promotional cards are legal on the date of the release of the promotional card.
 
 3.6 Card Shuffling
 Decks must be randomized at the start of every game and whenever an instruction requires it.
@@ -498,8 +418,9 @@ Cards banned in a specific format may not be used in decks for that format.
 
 6.2 Transformers TCG Constructed
 
-New card sets are typically permitted in Transformers TCG Constructed tournaments on or after the date they are released.
-The following card sets are permitted in Transformers TCG Constructed tournaments.
+Permitted card sets are at the discretion of the Tournament Organizer. 
+
+By default, the following card sets are permitted in Transformers TCG Constructed tournaments.
 
 
 Wave 1: Transformers TCG Booster Packs
@@ -611,13 +532,12 @@ For Limited tournaments that have a single-elimination booster draft playoffs, i
 Use a random method to seat players around the draft table and conduct the draft.
 After the draft has concluded, the player in seat 1 plays the player in seat 5, the player in seat 2 plays the player in seat 6, the player in seat 3 plays the player in seat 7, and the player in seat 4 plays the player in seat 8. The winners of the seat 1/5 and the 3/7 matches play each other in the next round of the playoff. The winners of the seat 2/6 and the seat 4/8 matches play each other in the next round of the playoff. The remaining players play in the last round of the playoff.
 
-For Premier tournaments, the playoff options above are required, not optional.
-Premier tournaments include the following events: Transformers TCG Invitationals.
+Appendix A — Aequitas Changes From WoTC Rules
 
-Appendix A—Changes From WoTC Rules
+1.1 Removal of terms specific to WotC's tournament structure. 
 
 
-Appendix B—Time Limits
+Appendix B — Time Limits
 The required minimum time limit for any match is 40 minutes.
 The following time limits are recommended for each round of a tournament:
 
@@ -658,7 +578,7 @@ Time allotted
 
 The time for review after the first booster pack is 30 seconds. Each subsequent review period increases by 15 seconds.
 
-Appendix C—Tiebreaker Explanation
+Appendix C — Tiebreaker Explanation
 Match Points
 Players earn 3 match points for each match win, 0 points for each match loss and 1 match point for each match ending in a draw. Players receiving byes are considered to have won the match.
 A player's record is 6–2–0 (Wins–Losses–Draws). That player has 18 match points (6*3, 2*0, 0*1). A player's record is 4–2–2. That player has 14 match points (4*3, 2*0, 2*1).
@@ -730,7 +650,7 @@ When a player is assigned a bye for a round, they are considered to have won the
 
 Thus, that player earns 3 match points and 6 game points. A player’s byes are ignored when computing their opponents’ match-win and opponents’ game-win percentages.
 
-Appendix D— Recommended Booster Mix for Limited Tournaments
+Appendix D — Recommended Booster Mix for Limited Tournaments
 
 For War for Cybertron: Siege I, the recommended booster mix for Limited tournaments is:
 
@@ -738,7 +658,7 @@ Transformers TCG Sealed Deck – 6 (War for Cybertron: Siege I per player)
 Transformers TCG Booster Draft – 5 (War for Cybertron: Siege I per player)
 
 
-Appendix E—Recommended Number of Rounds in Swiss Tournaments
+Appendix E — Recommended Number of Rounds in Swiss Tournaments
 
 The following number of Swiss rounds is often required for Premier tournaments. It may be used at the Tournament Organizer’s discretion for non-Premier tournaments. It is included here for reference only.
 
