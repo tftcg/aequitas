@@ -46,7 +46,7 @@ faq_template = Environment(loader=FileSystemLoader("templates/")).from_string(fa
 
 def generate_faq(faq_dir, faq_template):
     faq_glob = os.path.join(faq_dir, '**', '*.xml')
-    output_dir = os.path.join('docs', 'roundups', os.path.basename(faq_dir))
+    output_dir = os.path.join('docs', 'roundups', re.sub(r'faqxml-', '', os.path.basename(faq_dir)))
     mkdirp(output_dir)
 
     for file in glob.glob(faq_glob, recursive=True):
@@ -63,7 +63,7 @@ def write_faq(faq_node, faq_template, filename):
         f.write(page)
         f.close()
 
-generate_faq('../aequitas-faq/faqxml-official', faq_template)
-generate_faq('../aequitas-faq/faqxml-roundups', faq_template)
+generate_faq('../aequitas-faq/faqxml-wotc-faqs', faq_template)
+generate_faq('../aequitas-faq/faqxml-wotc-roundups', faq_template)
 generate_faq('../aequitas-faq/faqxml-aequitas-roundups', faq_template)
 generate_faq('../aequitas-draft-faq/faqxml-aequitas-roundups', faq_template)
