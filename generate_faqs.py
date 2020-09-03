@@ -2,7 +2,6 @@
 
 # TODO:
 
-# Mirror the directory structure of the globbed directory down so files go in docs/roundups/wotc-official/ etc
 # Define a stylesheet for the site
 # Fix the list css
 # Fix the prefix on the permalink
