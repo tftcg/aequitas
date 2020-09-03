@@ -455,7 +455,7 @@ P12: Tandem Targeting System (Energon Edition Foil Variant)*
 
 *Not mechanically unique, still permitted.
 
-The Battle Cards Swap Parts and Press the Advantage are banned from use in Transformers TCG competitive play.
+The Battle Cards Swap Parts, Press the Advantage, and Multi-Mission Gear are banned from use in Transformers TCG competitive play.
 
 6.3 Sideboard Rules
 
@@ -535,6 +535,7 @@ After the draft has concluded, the player in seat 1 plays the player in seat 5, 
 Appendix A — Aequitas Changes From WoTC Rules
 
 1.1 Removal of terms specific to WotC's tournament structure. 
+1.2 Updating to cover the banning of Multi-Mission Gear
 
 
 Appendix B — Time Limits
