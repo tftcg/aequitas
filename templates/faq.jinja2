@@ -32,18 +32,19 @@
     #       <answer>
     -->
 
-    <h2 class="card_title">{{ faq_node.attrib['name'] }}</h2>
+    <div class="content">
+    <h2 class="roundup_title">{{ faq_node.attrib['name'] }}</h2>
 
     <dl class="card_faqs">
 
 {% for target in faq_node.findall('target') %}
-    <dt>{{ target.attrib['name'] }}</li>
+    <dt class="card_title">{{ target.attrib['name'] }}</dt>
     <dd>
     <ul class="card_faq">
   {% for entry in target.findall('entry') %}
     <li id="{{ faq_node.attrib['name'] }}__{{ entry.attrib['id'] }}" class="faq_entry">
       <div class="question">
-        <a name="{{ faq_node.attrib['source'] }}__{{ entry.attrib['id'] }}"/>
+        <a name="{{ filename }}__{{ entry.attrib['id'] }}"/>
         {{ f_prepare_text(entry.find('question')) }}
         <span><a href="#{{ filename }}__{{ entry.attrib['id'] }}"><img src="/images/permalink.svg"/></a></span>
       </div>
@@ -57,6 +58,7 @@
 {% endfor %}
 
     </dl>
+    </div>
 
 </body>
 </html>

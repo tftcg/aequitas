@@ -2,6 +2,15 @@ body {
     background: black; 
     color: white;
 }
+
+#logo {
+  float: left;
+  margin-bottom: 5px;
+  margin-top: -10px;
+  margin-left: -10px;
+  padding: 0.25em;
+}
+
 #sitetitle {
     text-align: center;
     font-size: 4em;
@@ -12,6 +21,24 @@ body {
     font-size: 2em;
     margin: 0.5em;
 }
+
+.content {
+  border-radius: 10px;
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 40px;
+  color: black;
+  /* 800px+ */
+  width: 90%;
+  margin: auto;
+}
+:target {
+    background-color: #ffa;
+}
+
+/* Front page buttons */
 #roundups {
     list-style-type: none;
     float: right;
@@ -40,6 +67,29 @@ body {
 #links a {
     color: white;
 }
+/* End of Front page buttons */
+
+.roundup_title {
+    padding-left: 1em;
+    padding-bottom: 1em;
+}
+.card_title {
+    margin-left: 2em;
+    text-decoration: underline;
+}
+.faq_entry {
+    list-style-type: lower-roman;
+    padding-left: 1%;
+    padding-bottom: 24px;
+}
+.question {
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 1em;
+}
+.answer {
+}
+
 #centerpiece {
     position: fixed;
     left: 50%;
@@ -52,4 +102,21 @@ body {
     #centerpiece {
        opacity: 0.4;
     }
+}
+
+p, ul, ol {
+  font-size: 15px;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  letter-spacing: -0.004em;
+  line-height: 1.58;
+}
+
+@media (min-width: 900px) {
+  p, ul, ol {
+    font-size: 21px;
+  }
+  #title_widget {
+    font-size: 1.5em;
+  }
+
 }
