@@ -43,8 +43,8 @@
     <ul class="card_faq">
   {% for entry in target.findall('entry') %}
     <li id="{{ faq_node.attrib['name'] }}__{{ entry.attrib['id'] }}" class="faq_entry">
+      <a name="{{ filename }}__{{ entry.attrib['id'] }}"/>
       <div class="question">
-        <a name="{{ filename }}__{{ entry.attrib['id'] }}"/>
         {{ f_prepare_text(entry.find('question')) }}
         <span><a href="#{{ filename }}__{{ entry.attrib['id'] }}"><img src="/images/permalink.svg"/></a></span>
       </div>
