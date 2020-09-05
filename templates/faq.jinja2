@@ -43,15 +43,14 @@
     <div class="card_faq">
   {% for entry in target.findall('entry') %}
     <div id="{{ faq_node.attrib['name'] }}__{{ entry.attrib['id'] }}" class="faq_entry">
-      <a name="{{ filename }}__{{ entry.attrib['id'] }}">
-      <div class="question">
+      <a name="{{ filename }}__{{ entry.attrib['id'] }}"/>
+      <p class="question">
         {{ f_prepare_text(entry.find('question')) }}
         <span><a href="#{{ filename }}__{{ entry.attrib['id'] }}"><img src="/images/permalink.svg"/></a></span>
-      </div>
-      <div class="answer">
+      </p>
+      <p class="answer">
         {{ f_prepare_text(entry.find('answer')) }}
-      </div>
-      </a>
+      </p>
     </div>
   {% endfor %}
     </div>
