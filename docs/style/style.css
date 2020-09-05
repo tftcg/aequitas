@@ -78,6 +78,7 @@ body {
     text-decoration: underline;
 }
 .faq_entry {
+    list-style-type: none;
     padding-left: 1%;
     padding-bottom: 24px;
 }
