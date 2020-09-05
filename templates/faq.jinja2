@@ -40,20 +40,20 @@
 {% for target in faq_node.findall('target') %}
     <dt class="card_title">{{ target.attrib['name'] }}</dt>
     <dd>
-    <div class="card_faq">
+    <ul class="card_faq">
   {% for entry in target.findall('entry') %}
-    <div id="{{ faq_node.attrib['name'] }}__{{ entry.attrib['id'] }}" class="faq_entry">
-      <a name="{{ filename }}__{{ entry.attrib['id'] }}"/>
+    <li id="{{ faq_node.attrib['name'] }}__{{ entry.attrib['id'] }}" class="faq_entry">
       <p class="question">
+        <a name="{{ filename }}__{{ entry.attrib['id'] }}"/>
         {{ f_prepare_text(entry.find('question')) }}
         <span><a href="#{{ filename }}__{{ entry.attrib['id'] }}"><img src="/images/permalink.svg"/></a></span>
       </p>
       <p class="answer">
         {{ f_prepare_text(entry.find('answer')) }}
       </p>
-    </div>
+    </li>
   {% endfor %}
-    </div>
+    </ul>
     </dd>
 {% endfor %}
 
