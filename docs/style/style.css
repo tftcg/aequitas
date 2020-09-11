@@ -70,9 +70,14 @@ body {
 /* End of Front page buttons */
 
 #banner_rules {
+    position: relative;
+}
+#banner_rules img {
     float: right;
-    height: 300px;
     padding: 1em;
+    width: 60%;
+    margin-right: -56px;
+    margin-top: -36px;
 }
 .roundup_title {
     padding-left: 1em;
