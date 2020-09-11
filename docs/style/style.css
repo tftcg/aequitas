@@ -70,7 +70,8 @@ body {
 /* End of Front page buttons */
 
 #banner_rules {
-    text-align: center;
+    float: right;
+    height: 300px;
 }
 .roundup_title {
     padding-left: 1em;
