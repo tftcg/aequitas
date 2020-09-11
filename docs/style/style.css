@@ -69,6 +69,9 @@ body {
 }
 /* End of Front page buttons */
 
+#banner_rules {
+    text-align: center;
+}
 .roundup_title {
     padding-left: 1em;
     padding-bottom: 1em;
