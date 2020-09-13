@@ -86,10 +86,11 @@ body {
 }
 #banner_rules img {
     float: right;
-    padding: 1em;
     width: 60%;
-    margin-right: -56px;
-    margin-top: -36px;
+    margin-right: -40px;
+    margin-top: -20px;
+    border: 5px ridge black;
+    border-radius: 10px;
 }
 .roundup_title {
     padding-left: 1em;
