@@ -126,7 +126,7 @@ body {
    display: none;
 }
 
-p, ul, ol {
+p, ul, ol, figcaption {
   font-size: 15px;
   font-family: Georgia, Cambria, "Times New Roman", Times, serif;
   letter-spacing: -0.004em;
