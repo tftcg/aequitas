@@ -39,13 +39,10 @@ body {
 }
 
 /* Front page buttons */
-#homecontent {
-        width: 1500px;
-        margin: 0 auto;
-}
 #links {
     list-style-type: none;
     float: left;
+    width: 18em;
 }
 #links li {
     padding: 1em;
@@ -68,6 +65,7 @@ body {
 #roundups {
     list-style-type: none;
     float: left;
+    width: 18em;
 }
 #roundups li {
     padding: 1em;
@@ -113,27 +111,19 @@ body {
 .answer {
 }
 
-@media (max-width: 1400px) {
-  #tf-logo {
-    display: none;
-  }
-  #homecontent {
-      width: 800px;
-  }
-  #centerpiece {
-     display: none;
-  }
+
+#tf-logo {
+  display: initial;
 }
-@media (max-width: 800px) {
-  #tf-logo {
-    display: initial;
-  }
-  #tf-banner {
-    display: none;
-  }
-  #homecontent {
-      width: auto;
-  }
+#tf-banner {
+  display: none;
+}
+#homecontent {
+    width: 20em;
+    margin: 0 auto;
+}
+#centerpiece {
+   display: none;
 }
 
 p, ul, ol {
@@ -143,12 +133,29 @@ p, ul, ol {
   line-height: 1.58;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 850px) {
   p, ul, ol {
     font-size: 21px;
   }
   #title_widget {
     font-size: 1.5em;
   }
+  #homecontent {
+    width: 850px;
+  }
+  #tf-banner {
+    display: initial;
+  }
+  #tf-logo {
+    display: none;
+  }
+}
 
+@media (min-width: 1600px) {
+  #homecontent {
+    width: 1600px;
+  }
+  #centerpiece {
+     display: initial;
+  }
 }
