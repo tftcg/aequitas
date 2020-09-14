@@ -133,6 +133,15 @@ p, ul, ol, figcaption {
   line-height: 1.58;
 }
 
+.faq_links {
+    list-style-type: none;
+    padding-left: 3em;
+}
+.roundup_links {
+    list-style-type: none;
+    padding-left: 3em;
+}
+
 @media (min-width: 850px) {
   p, ul, ol {
     font-size: 21px;
