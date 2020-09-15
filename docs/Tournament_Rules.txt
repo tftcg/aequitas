@@ -81,9 +81,12 @@ APPENDIX B—TIME LIMITS
 
 APPENDIX C—TIEBREAKER EXPLANATION
 
-APPENDIX D— RECOMMENDED BOOSTER MIX FOR LIMITED TOURNAMENTS
+APPENDIX D—RECOMMENDED BOOSTER MIX FOR LIMITED TOURNAMENTS
 
 APPENDIX E—RECOMMENDED NUMBER OF ROUNDS IN SWISS TOURNAMENTS
+
+APPENDIX F—FAQ
+
 Introduction
 The purpose of this document is to provide the infrastructure used to run Transformers TCG
 tournaments by defining appropriate rules, responsibilities, and procedures to be followed.
