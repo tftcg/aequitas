@@ -1,0 +1,96 @@
+Tournament Rules for Transformers TCG
+=====================================
+:toc:
+:toc-placement: preamble
+:toclevels: 3
+:sectnums:
+:toc-title: Tournament Rules
+
+**Introduction**
+
+The purpose of this document is to provide the infrastructure used to run Transformers TCG tournaments by defining appropriate rules, responsibilities, and procedures to be followed.
+
+All players are treated equally and share responsibilities. Both players and tournament officials should cooperate to achieve their common goal of running a tournament. Players and tournament officials must treat each other in a fair and respectful manner, following both the rules and the spirit in which those rules were created. They are responsible for following the most current version of the Transformers TCG Tournament Rules and any other applicable regulatory documents, including the Transformers TCG Game Rules. Spectators have their own set of responsibilities. Individuals violating the Transformers TCG Tournament rules are subject to appropriate penalties.
+
+Information in this document may contradict (or have information not contained in) the Transformers TCG Game Rules. In such cases, this document takes precedence. Tournament fact sheets for specific tournaments may define alternative or additional policies or procedures. If a contradiction exists between this document and a fact sheet, the information in the fact sheet takes precedence.
+
+== Tournament Fundamentals
+=== Tournament Types
+Tournament Types are at the discretion of the Tournament Organizer. 
+
+=== Publishing Tournament Information
+The Publishing of Tournament Information is at the discretion of the Tournament Organizer. 
+
+=== Tournament Roles
+The following roles are defined for tournament purposes:
+
+Tournament Organizer
+Head Judge
+Floor Judge
+Scorekeeper
+Player
+Spectator
+The first four roles above are considered tournament officials. The Head Judge and floor judges
+are collectively considered judges. A single individual may act in any combination of tournament
+official roles. Individuals who are not judges at a tournament are acting as spectators in any
+match they are not playing in. Members of the press are also considered spectators.
+
+=== Participation Eligibility
+Participation Eligibility is at the discretion of the Tournament Organizer. 
+
+=== Organized Play Account
+Whether to use WotC Organized Play Account will be at the discretion of the Tournament Organizer and willingness of WotC.
+
+=== Tournament Organizer
+The Tournament Organizer of a tournament is responsible for all tournament logistics including:
+Providing a site for the tournament that meets the tournament’s expected needs.
+Advertising the tournament in advance of the tournament date.
+Staffing the tournament with appropriate tournament officials.
+Providing all materials necessary to operate the tournament.
+
+=== Head Judge
+The Head Judge is the final authority at a tournament and all tournament participants are expected to follow their instructions.
+The Head Judge’s responsibilities include:
+
+Ensuring that all necessary steps are taken to deal with game or policy rule violations that they notice or are brought to their attention.
+Issuing the final ruling in all appeals, potentially overturning the ruling of a floor judge.
+Coordinating and delegating tasks to floor judges as needed.
+If necessary, the Head Judge may temporarily transfer their duties to any judge if they are unable to fulfill them for a period of time. Also, in exceptional circumstances, if the tournament’s integrity would be damaged otherwise, the Tournament Organizer may replace the Head Judge.
+
+=== Floor Judges
+Floor judges are available to players and spectators to answer questions, deal with illegal plays, or assist with reasonable requests.
+Judges will generally not assist players in determining the current game state, but they can answer questions about the rules and card interactions. The judge may assist players in understanding the game state in the interest of education. If a player wishes to ask a question away from the table, the request will usually be honored. Players may not request specific judges to answer their calls, but they may request a tournament official to help translate. This request may be honored at the discretion of the original judge.
+Judges do not intervene in a game to prevent illegal actions, but they do intervene as soon as a rule has been broken or to prevent a situation from escalating.
+
+=== Scorekeeper
+The Scorekeeper ensures the correct generation of pairings and all other tournament records
+throughout the tournament. The Scorekeeper’s responsibilities include:
+
+Generating correct pairings each round and accurately entering the results of those rounds.
+Solving all scorekeeping problems that arise in consultation with the Head Judge.
+The Head Judge has the final authority in determining corrective action for scorekeeping errors.
+
+=== Players
+Players are responsible for:
+
+Behaving in a respectful manner toward tournament officials, other tournament participants, and spectators and refraining from unsporting conduct at all times.
+Maintaining a clear and legal game state.
+Complying with announced start times and time limits.
+Bringing to a judge’s attention any rules or policy infractions they notice in their matches.
+Bringing to a judge’s attention any errors in their tournament match record.
+Refraining from enrolling in tournaments if policy forbids them to participate.
+Being familiar with the rules contained within this document and other regulatory documents, including the Transformers TCG Game Rules.
+Being present for the tournament.
+
+A player must bring the following items to a tournament in order to participate:
+
+
+Any materials specifically required for a particular tournament format, such as assembled decks and/or decklists for constructed tournaments.
+Players retain their responsibilities even if a judge provides them with extra assistance.
+
+=== Spectators
+Spectators are responsible for:
+
+
+Remaining silent and not interfering in matches and other official tournament sections. If spectators believe they have observed a rules or policy violation, they are encouraged to alert a judge as soon as possible. Spectators are permitted to ask the players to pause the match while they alert a judge.
+Vacating an area and/or not observing a match when instructed by a judge. Players may request through a judge that a spectator not observe their matches. Tournament officials may also instruct a spectator not observe a match or matches.
