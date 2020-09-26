@@ -466,6 +466,7 @@ After the draft has concluded, the player in seat 1 plays the player in seat 5, 
 . Updating to cover the banning of Multi-Mission Gear.
 . Adding Wave 5 cards to the permitted list for Constructed events.
 . Adding FAQ Appendix.
+. Sanctioning section converted to Recommendations section.
 
 == Appendix B — Time Limits
 The required minimum time limit for any match is 40 minutes.
