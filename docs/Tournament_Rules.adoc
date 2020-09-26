@@ -1,5 +1,7 @@
-Tournament Rules for Transformers TCG
-=====================================
+= Transformer TCG Tournament Rules
+Aequias Committee <questions@tf-rules.info>
+:reproducible:
+:listing-caption: Listing
 :toc:
 :toc-placement: preamble
 :toclevels: 3
@@ -94,3 +96,537 @@ Spectators are responsible for:
 
 Remaining silent and not interfering in matches and other official tournament sections. If spectators believe they have observed a rules or policy violation, they are encouraged to alert a judge as soon as possible. Spectators are permitted to ask the players to pause the match while they alert a judge.
 Vacating an area and/or not observing a match when instructed by a judge. Players may request through a judge that a spectator not observe their matches. Tournament officials may also instruct a spectator not observe a match or matches.
+
+== Tournament Mechanics
+=== Match Structure
+A Transformers TCG match consists of a series of games that are played until one player has won two games. Drawn games do not count toward this goal. If the round ends before a player has won two games, the winner of the match is the player who has won the most games at that point. If both players have equal game wins, the match is a draw.
+
+=== Starting Player Rule
+For the first game of a match, the winner of a random method (such as a die roll or coin toss) chooses either to play first or to play second.
+After each game in a match, the loser of that game chooses to either play first or play second in the next game. If the previous game was a draw, the player who chose at the beginning of the drawn game chooses again.
+
+=== Pregame Procedures
+
+The following steps must be performed in a timely manner before each game begins:
+
+Each player places their team of Transformers characters on the battlefield in alt mode (unless a card’s game text indicates a different starting configuration, including starting the game in the KO area).
+Determine which player will play first by following the starting player rule (section 2.2).
+Perform any “before the game begins” actions.
+Players shuffle their decks.
+Players may shuffle their opponents’ decks.
+
+The game is considered to have begun once the first player draws a card at the beginning of their first turn. Pregame procedures may be performed before time for the match has officially begun.
+
+=== Conceding or Intentionally Drawing Games or Matches
+
+If a game or match is not completed, players may concede or mutually agree to a draw in that game or match. A match is considered complete once the result slip is filled out or, if match slips are not being used, a player leaves the table after game play is finished.
+Players may not agree to a concession or draw in exchange for any reward or incentive. Doing so will be considered Bribery (see section 5.2).
+If a player refuses to play, it is assumed that they have conceded the match.
+
+=== End of Match Procedure
+
+If the match time limit is reached before a winner is determined, the player whose turn it is finishes their turn (including untapping all characters at the end of the turn if all characters are tapped at this point).
+Play then continues as normal until a player wins the game or all characters are tapped at the end of a turn.
+If the game is incomplete at the end of the additional time, resolve Tiebreak procedures.
+If a judge assigned a time extension (because of a long ruling, deck check, or other reason), the end-of-match procedure does not begin until the end of the time extension.
+
+==== Tiebreaker procedure
+In the Transformers TCG, matches cannot end in an unintentional draw. At the end of the additional time, if the players have won an equal number of games, each player counts the amount of health remaining on their characters on the battlefield. The player with the higher remaining health wins the match. If the remaining health is tied, each player counts the total number of stars of their characters on the battlefield. The player with the higher total stars wins the match. If the total stars are tied, each player flips the top two cards of their deck. The player who flips the most white battle icons wins. If still tied, players repeat flipping two cards from the top of their deck until the tie is broken. If a player’s deck needs to be shuffled, that player shuffles cards from their scrap pile and any cards flipped during the tiebreaker procedure. If the tiebreaker procedure can’t break the tie (for example, if all cards in all decks have exactly one white battle icon), flip a coin to determine the winner.
+
+If a player wins a game in extra time, bringing the match score to a tie, players present their teams and their decks (without sideboarding) as though they were about to start another game, and then resolve the tiebreaker procedure.
+
+=== Time Extensions
+If a judge pauses a match for more than one minute while the round clock is running, he or she should extend the match time appropriately. If the match was interrupted to perform a deck check, players are awarded time equal to the time the deck check took plus three minutes.
+
+=== Deck Registration
+At some tournaments, players are required to register their decks. Tournaments requiring deck
+registration will either be identified in their respective tournament fact sheets or announced by the tournament organizer prior to the start of the tournament.
+Registered decklists record the composition of each deck. Once your decklist has been accepted by a Tournament Official, it may not be altered.
+Players can request to see their decklist between matches (not between games within a match). Such a request will be honored if logistically possible.
+Generally, decklists are not public information and are not shared with other players during a tournament.
+
+=== Deck Checks
+Deck checks may be performed at any tournament at the option of the head judge. A deck check compares the deck registration list to the current contents of a player’s deck. If they do not match, appropriate penalties may be issued.
+Decklists are required at Transformers TCG Opens and Transformers TCG Invitationals, or at the discretion of the Tournament Organizer.
+
+=== Appeals to the Head Judge
+If a player disagrees with a judge’s ruling, they may appeal the ruling to the Head Judge. Players may not appeal before the full ruling is made by the responding floor judge. Under unusual circumstances, the Head Judge may appoint another judge as their proxy to issue a second ruling. Players still retain the right to appeal to the Head Judge.
+
+=== Dropping from a Tournament
+Players choosing to drop from a tournament must inform the Scorekeeper by the means provided for that tournament before the pairings for the next round are generated. Players wanting to drop after the Scorekeeper begins pairing for the next round will be paired for that round. If a player does not show up for their match, they will be automatically dropped from the tournament unless they report to the Scorekeeper. Players that repeatedly and/or intentionally drop from tournaments without informing the Scorekeeper may be the subject of penalties up to and including suspension.
+If a player drops from a tournament after a cut has been made, such as a cut to the top 8 in a
+Transformers TCG Premiere Tournament, no other player is advanced as a replacement. That player’s opponent receives a bye for the round. A cut is considered to have been made once the cut itself or pairings for the round following the cut have been posted or announced.
+
+Players who have dropped may reenter a tournament at the discretion of the Head Judge. Players may not reenter a tournament after any cut has been made.
+Players may not drop from a tournament in exchange for or influenced by the offer of any reward or incentive. Doing so will be considered Bribery (see section 5.2).
+
+=== Taking Notes
+Players are allowed to take written notes during a match and may refer to those notes while that match is in progress. At the beginning of a match, each player’s note sheet must be empty and must remain visible throughout the match. Players do not have to explain or reveal notes to other players. Judges may ask to see a player’s notes and/or request that the player explain their notes.
+Players may not refer to other notes, including notes from previous matches, during games.
+Between games, players may refer to a brief set of notes made before the match. They are not required to reveal these notes to their opponents. These notes must be removed from the play area before the beginning of the next game. Players taking excessive amounts of time reviewing notes may be subject to Slow Play penalties.
+Artistic modifications to cards that indirectly provide minor strategic information are acceptable. The Head Judge is the final arbiter on what cards and notes are acceptable for a tournament.
+
+=== Electronic Devices
+Players may use electronic devices to do the following:
+
+Take and review notes (as outlined in section 2.11).
+Briefly answer personal calls not related to the game.
+
+Players may not use electronic devices to access outside strategic sources (websites, forums,
+etc.) or communicate with others in order to receive outside assistance. Players taking excessive amounts of time using an electronic device may be subject to Slow Play penalties.
+Players wishing to view information privately on electronic devices during matches must request
+permission from a judge.
+The Head Judge of an event may further restrict or forbid the use of electronic devices during
+matches.
+Use of the Official Transformers TCG Companion App is permitted for damage/health tracking.
+
+=== Video Coverage
+Players may decline to appear on camera if they wish. Video commentators are considered spectators for the purposes of the tournament, but may talk during the match as long as they are out of earshot of the players being covered. They are responsible for behaving respectfully to all tournament participants during coverage.
+Spectators are also permitted to record matches provided that they do so unobtrusively.
+Because of the delays inherent in using video replay, judges are not permitted to use it to assist in making rulings during a match. Video replays may be used for investigative purposes at a later time.
+
+== Tournament Rules
+=== Formats
+
+The following are standard formats:
+Constructed Formats
+Transformers TCG Constructed
+Limited Formats
+Transformers TCG Sealed Deck
+Transformers TCG Booster Draft
+Transformers TCG Turbo
+
+=== Authorized Cards
+
+Authorized Cards are at the discretion of the Tournament Organizer. 
+
+The default Authorized Cards are cards that, unaltered, meet the following conditions:
+
+The card is genuine and published by Wizards of the Coast.
+If a Battle Card, it has a standard Transformers TCG back.
+The card is not damaged or modified in a way that might make it marked. See section 3.11 for rules about marked cards.
+The card is otherwise legal for the tournament as defined by the format.
+The card is a proxy issued by the Head Judge of a tournament. See section 3.4 for rules about proxies.
+
+Players may use otherwise-legal non-English and/or misprinted cards provided they are not
+using them to create an advantage through misleading text, art, or other features.
+Artistic modifications are acceptable in sanctioned tournaments, provided that the
+modifications do not make the card art unrecognizable, contain substantial strategic advice, or
+contain offensive images. Artistic modifications may not obstruct or change the numerical stats,
+stars, or name of the card.
+The Head Judge is the final authority on acceptable cards for a tournament.
+
+=== Proxy Cards
+The use of proxy cards is at the discretion of the Tournament Organizer. 
+
+By default, a proxy card is used during competition to represent an Authorized Game Card that has been
+accidentally damaged or excessively worn in the current tournament as determined solely by the Head Judge. Proxy cards are not allowed as substitutes for cards that the owner has damaged intentionally or through negligence.
+Players may not create their own proxy cards. Proxy cards may be created only by the Head Judge.
+When a judge creates a proxy card, it is included in the player’s deck and must be denoted as a proxy card in a clear and conspicuous manner. The original card is kept nearby during the match and replaces the proxy card while in a public zone as long as it is recognizable. A proxy card is valid only for the duration of the tournament in which it was originally issued.
+
+=== Card Shuffling
+Decks must be randomized at the start of every game and whenever an instruction requires it.
+Randomization is defined as bringing the deck to a state where no player can have any information regarding the order or position of cards in any portion of the deck. Pile shuffling alone is not sufficiently random.
+Once the deck is randomized, it must be presented to an opponent. By this action, players state that their decks are legal and randomized. The opponent may then shuffle it additionally. Cards and sleeves must not be in danger of being damaged during this process. If the opponent does not believe the player made a reasonable effort to randomize their deck, the opponent must notify a judge. Players may request to have a judge shuffle their cards rather than the opponent; this request will be honored only at a judge’s discretion.
+
+If a player has had the opportunity to see any of the card faces of the deck being shuffled, the deck is no longer considered randomized and must be randomized again.
+
+=== Sleeves
+Players may use plastic card sleeves or other protective devices on cards. If a player chooses to use card sleeves, all sleeves must be identical and all cards in their deck must be placed in the sleeves in an identical manner. If the sleeves feature holograms or other similar markings, cards must be inserted into the sleeves so these markings appear only on the faces of the cards.
+Players may use accessories that are meant to indicate which face of a triple-faced card is active as long as it does not mislead their opponent. The judge may request a player cease using such accessories.
+During a match, a player may request that a judge inspect an opponent’s card sleeves or accessories.
+The judge may disallow the card sleeves or accessories if they believe they are marked, worn, or otherwise in a condition or of a design that interferes with shuffling or game play. In the interest of efficiency, the judge may choose to delay any change of sleeves or accessories until the end of the match.
+Premier tournaments impose additional restrictions on sleeves or accessories. Highly reflective backs are not allowed. Sleeves with hologram patterns across some or all of the sleeve front or back are not allowed. Sleeves with artwork on their backs may be subjected to additional scrutiny, especially if there is no solid border around the edges.
+When using sleeves on double or triple-faced cards, sleeves must be completely transparent.
+Hard shell toploaders may be used to protect Character Cards provided they are transparent on both sides.
+The Head Judge is the final authority on what sleeves are allowed.
+
+=== Marked Cards
+
+Players are responsible for ensuring that their cards and/or card sleeves are not marked during the course of the tournament. A card or sleeve is considered marked if it’s possible to identify the card without seeing its face due to markings, including scratches and discoloration.
+If a player’s cards are sleeved, the cards must be examined while in the sleeves to determine if they are marked.
+Players should use care when sleeving their decks and should randomize their decks prior to sleeving them to reduce the possibility of cards becoming marked with a pattern. Players should also keep in mind that cards or sleeves may become worn and potentially marked through play during the course of a tournament.
+The Head Judge has the authority to determine if a card in a player’s deck is marked. Judges may request that a player remove their current sleeves or replace any of the deck’s current sleeves immediately or before the next round.
+
+If a player is required to replace a card in their deck and is unable to find a replacement, the head judge will issue a proxy for the card.
+
+=== Hidden Information
+
+Hidden information refers to information a player isn’t allowed access to, such as the faces of cards in an opponent’s hand.
+Throughout the match and pregame procedures, players are responsible for keeping their cards above the level of the playing surface and for making reasonable efforts to prevent hidden information from being revealed.
+However, players may choose to reveal their hands or any other hidden information available only to them, unless specifically prohibited by the rules. Players must not actively attempt to gain information hidden from them.
+
+=== Tapped Cards
+
+If a card is tapped, it must be clearly turned approximately 90 degrees.
+
+== Communication
+=== Player Communication
+Communication between players is essential to the successful play of any game that involves hidden information. While bluffing may be an aspect of games, there needs to be clear lines as to what is and is not acceptable for players to say or otherwise represent. Officials and highly competitive players should understand the line between bluffing and fraud. This will confirm expectations of both sporting and competitive players during a game.
+Wizards of Coast’s philosophy is that a player should have an advantage due to better understanding of the rules of a game, greater awareness of the interactions in the current game state, and superior tactical planning. Players are under no obligation to assist their opponents in playing the game.
+Regardless of anything else, players are expected to treat their opponents politely and with respect.
+Failure to do so may lead to Unsporting Conduct penalties.
+There are three categories of information: free, derived, and private.
+Free information is information to which all players are entitled access without contamination or
+omissions made by their opponents. If a player is ever unable or unwilling to provide free information to an opponent that has requested it, he or she should call a judge and explain the situation. Free information includes:
+
+Details of current game actions and past game actions that still affect the game state.
+The name of any visible card.
+The current state of any card and whether that card is tapped.
+The current part of the turn.
+The orientation of a character card in a KO area.
+
+Derived information is information to which all players are entitled access, but opponents are not obliged to assist in determining and may require some skill or calculation to determine. 
+
+Derived information includes:
+
+The current power, abilities, and/or other relevant information of a card.
+Game Rules, Tournament Policy, official information pertaining to the current tournament.
+
+Private information is information to which players have access only if they are able to determine it from the current visual game state or their own record of previous game actions.
+Any information that is not free or derived is automatically private information. The following rules govern player communication:
+
+Players must answer all questions asked of them by a judge completely and honestly, regardless of the type of information requested. Players may request to do so away from the match.
+Players may not represent free or derived information incorrectly.
+Players must answer completely and honestly any specific questions pertaining to free information.
+
+Judges are encouraged to help players in determining free information, but must avoid assisting players with derived information about the game state.
+
+=== Out-of-Order Sequencing
+Due to the complexity of accurately representing a game of Transformers TCG, it is acceptable for players to engage in a block of actions that, while technically in an incorrect order, arrive at a legal and clearly understood game state once they are complete. All actions taken must be legal if they were executed in the correct order.
+
+=== Triggered Abilities
+Players are expected to remember their own triggered abilities; intentionally ignoring one is Cheating.
+Players are not required to point out the existence of triggered abilities on their opponent’s cards, though they may do so within a turn if they wish.
+Triggered abilities are considered to be forgotten by their controller once they have taken an action past the point where the triggered ability would have an observable impact on the game.
+
+=== Secret Actions
+Revealing Secret Actions while they are in play is optional. If additional game actions occur after the event that would have revealed the Secret Action, the player whose Secret Action it is will be considered to have elected not to reveal it. If a player has a Secret Action in play, they should be given a reasonable amount of time to reveal it.
+
+== Tournament Violations
+=== Cheating
+Cheating will not be tolerated. The Head Judge reviews all cheating allegations, and if they believe that a player has cheated, they will issue the appropriate penalty based on the Infraction Procedure Guide. All disqualifications are subject to review and further penalties may be assessed.
+
+=== Collusion and Bribery
+The decision to drop, concede, or agree to an intentional draw cannot be made in exchange for or influenced by the offer of any reward or incentive. Making such an offer is prohibited. Unless the player receiving such an offer calls for a judge immediately, both players will be penalized in the same manner.
+Players are allowed to share prizes they have not yet received in the current tournament as they wish and may agree as such before or during their match, as long as any such sharing does not occur in exchange for any game or match result or the dropping of a player from the tournament. As an exception, players in the announced last round of the single-elimination portion of a tournament may agree to divide tournament prizes as they wish. In that case, one of the players at each table must agree to drop from the tournament. Players are then awarded prizes according to their resulting ranking. Such an agreement may never include a concession or an intentional draw.
+The result of a match or game may not be randomly or arbitrarily determined through any means other than the normal progress of the game in play. Examples include (but are not limited to) rolling a die, flipping a coin, arm wrestling, or playing any other game.
+Players may not reach an agreement in conjunction with other matches. Players can make use of information regarding match or game scores of other tables. However, players are not allowed to leave their seats during their match or go to great lengths to obtain this information.
+Players in the single-elimination rounds of a tournament offering only cash and/or unopened product as prizes may, with the permission of the Tournament Organizer, agree to split the prizes evenly. The players may end the tournament at that point or continue to play. All players still in the tournament must agree to the arrangement.
+Example: Before the semifinals of a tournament in which first place gets 12 booster packs, second place gets 8 booster packs and third and fourth place get 4 booster packs each begins, the players may get permission from the Tournament Organizer to end the tournament, with each player receiving 7 booster packs.
+
+=== Wagering
+Tournament participants, tournament officials, and spectators may not wager, ante, or bet on any portion (including the outcome) of a tournament, match, or game.
+
+=== Unsporting Conduct
+Unsporting conduct will not be tolerated at any time. Tournament participants must behave in a polite and respectful manner. Unsporting conduct includes, but is not limited to:
+
+Using profanity
+Acting in a threatening manner
+Arguing with, acting belligerently toward, or harassing tournament officials, players or spectators
+Failure to follow the instructions of a tournament official
+
+All incidents of Unsporting Conduct are subject to further review.
+
+=== Slow Play
+Players must take their turns in a timely fashion regardless of the complexity of the play situation and adhere to time limits specified for the tournament. Players must maintain a pace to allow the match to be finished in the announced time limit. Stalling is not acceptable. Players may ask a judge to watch their game for slow play; such a request will be granted if feasible.
+
+=== Extra Turn Rule
+
+Players can’t take more than two turns in a row under any circumstances. Any additional turns beyond two consecutive turns are skipped and not deferred or saved for the future.
+
+== Rules for Constructed Formats
+=== Deck Construction Restrictions
+Constructed decks must contain a minimum of 40 cards. There is no maximum deck size. A deck may contain no more than 3 of any individual card based on its English name. A player may not use more than one character card bearing the same complete card name (character name plus subname). A player’s character cards and deck may have a total of no more than 25 Stars.
+A card may only be used in a particular format if the card is from a set that is legal in that format or has the same name as a card from a set that is legal in that format.
+Cards banned in a specific format may not be used in decks for that format.
+
+=== Transformers TCG Constructed
+
+Permitted card sets are at the discretion of the Tournament Organizer. 
+
+By default, the following card sets are permitted in Transformers TCG Constructed tournaments.
+
+
+Wave 1: Transformers TCG Booster Packs
+Convention Pack 2018
+Autobot Starter Set
+Metroplex Deck
+Convention Edition 2018
+Wave 2: Rise of the Combiners
+Devastator Deck
+Bumblebee vs Megatron Starter Set
+Wave 3: War for Cybertron: Siege I
+Convention Pack 2019
+Blaster vs Soundwave (35th Anniversary Edition)
+Blaster vs Soundwave (Retail Edition)
+Wave 4: War for Cybertron: Siege II
+Wave One Energon Edition (Character and Battle Cards)
+Wave 5: Titan Master Attacks
+
+Mechanically unique promo cards are permitted in Transformers TCG Constructed tournaments on or after the date they are released. Promo cards which are alternate art are considered to be copies of the originally printed card.
+
+P01/2019: Bumblebee – Electrum Warrior
+P02/2019: Omega Supreme – Autobot Defense Base
+P03/2019: Private Smashdown
+P04/2019: Flamewar – Veteran Decepticon (Gold Foil Variant)*
+P05/2019: Bumblebee – Trusted Lieutenant (Gold Foil Variant)*
+P06/2019: Private Red Alert – Medic (Gold Foil Variant)*
+P07/2019: Nightbird – Enigmatic Agent
+P08/2019: Raider Runamuck – Infantry · Soldier (Gold Foil Variant)*
+P09/2019: Raider Runabout – Infantry · Soldier (Gold Foil Variant)*
+P10/2019: Raider Road Hugger – Infantry · Tactics (Gold Foil Variant)*
+P11/2019: All-Out Attack (Energon Edition Foil Variant)*
+P12/2019: Tandem Targeting System (Energon Edition Foil Variant)*
+P01/2020: Arcana
+P02/2020: Tidal Wave - Dark Fleet (Aircraft Carrier)
+P03/2020: Tidal Wave - Dark Fleet (Transport)
+P04/2020: Tidal Wave - Dark Fleet (Battleship)
+P05/2020: Convex
+P06/2020: Perceptor - Precise Sniper
+
+Gold Foil Variants are not mechanically unique, and thus still permitted.
+
+The Battle Cards Swap Parts, Press the Advantage, and Multi-Mission Gear are banned from use in Transformers TCG competitive play.
+
+=== Sideboard Rules
+
+Sideboards can contain 1 character card of 20 stars or fewer and up to 10 battle cards.
+No more than 3 copies of each Battle Card are allowed between a player’s deck and sideboard.
+Duplicate character cards are not allowed between players’ decks and sideboards.
+After sideboarding, decks must be legal.
+After each game in a match, the player who won that game chooses to sideboard a character first, and declares their team. Then, the player who lost the previous game does the same. Then both players swap battle cards between their main deck and sideboard simultaneously.
+Players are not required to reveal how many battle cards they have swapped from their main deck to their sideboard and do not have to swap one for one, but after sideboarding, their sideboard may not exceed the maximum sideboard size (10 battle cards).
+
+=== Cards from Outside the Game
+
+When a card refers to “a Character card from outside the game”, those cards from outside the game must be in the possession of the player at the beginning of the match.
+When a card refers to “a Battle card from outside the game”, those cards from outside the game must be in player’s sideboard at the time of using the effect.
+Character cards from outside of the game do not count as part of players’ teams, decks, and sideboards, but must be referenced by other cards that are part of a player’s team, deck, or sideboard
+At the end of each game, any Character cards from outside the game that were introduced during play must be removed from players’ teams, decks, and sideboards. At the end of each game any Battle cards from outside the game that were introduced during play are returned to players’ sideboards.
+Character cards from outside the game must be legal within the event format.
+Battle cards from outside the game come from the sideboard and adhere to all sideboard rules (see section 6.3).
+
+== Rules for Limited Formats
+=== Deck Construction Restrictions
+Limited decks must contain a minimum of 25 battle cards. The maximum deck size is every card in the player’s card pool. Unlike Constructed decks, Limited decks may contain more than three of any battle card and more than one of any character card, as long as those cards are in the player’s card pool. A player’s character cards and deck may have a total of no more than 25 Stars.
+
+=== Card Pool Use
+The card pool consists of each character and battle card a player opens or drafts in a Limited
+tournament. Players participating in Limited tournaments may freely change the composition of their decks between matches (but not games) by exchanging cards from their deck for other cards in their card pool without being required to return their deck to its original composition before their next match. Players must ensure their deck has at least the minimum 25 battle cards after making any modifications.
+
+=== Card Use in Limited Tournaments
+Cards must be received directly from tournament officials. This product must be new and previously unopened. Transformers TCG Premiere Tournaments may have had boosters opened in order to stamp them. Each player must be given exactly the same quantity and type of product as all other players participating in the tournament. For example, if one player receives three War for Cybertron: Siege I boosters for a booster draft, all other players must also receive three War for Cybertron: Siege I.
+If the Tournament Organizer allows players to provide their own product, that product must be pooled with the rest of the product for the tournament and randomly distributed.
+Players may use only the cards they receive or draft provided by the Tournament Organizer. Players may ask a judge for permission to replace a card with another version of the same card.
+
+=== Abnormal Product
+Neither Wizards of the Coast nor the Tournament Organizer guarantee any specific distribution of card rarities or frequency in a particular booster pack. If a player receives an unconventional distribution of rarities or frequencies in a particular booster pack, they must call a judge. The final decision to replace or allow the atypical product is at the discretion of the Head Judge and the Tournament Organizer.
+
+=== Sealed Deck Swap
+In Sealed Deck tournaments, the Head Judge may require players to perform a deck swap prior to deck construction. Players receive unopened product and register the contents on decklists. Tournament officials then collect the recorded card pools and redistribute them randomly. A player may randomly receive the product they registered. The Head Judge should require players to sort the cards they register according to some criteria (e.g. by card type and then alphabetically) to assist the player receiving the pool.
+
+=== Draft Pod Assembly
+For Booster Draft tournaments, players assemble into random drafting circles (called pods) of roughly equal size at the direction of the Head Judge. Tournament officials then distribute identical sets of booster packs to each player.
+Players within a pod may play only against other players within that pod. In non-Premiere tournaments, the Tournament Organizer may elect to lift this restriction. This must be announced before the tournament starts.
+Players may not communicate in any way with, or reveal hidden information to, other individuals during a draft, apart from tournament officials. This applies as soon as the draft pod pairings are posted and lasts until players hand in their decklists.
+
+=== Booster Draft Procedures
+All players must open and draft the same type of booster at the same time. Players open all of their booster packs and set aside the packs of battle cards. Players place all character cards (including small characters, if applicable) in the center of the table so all players may read them. A player chosen at random selects one of the character cards. Moving clockwise around the table, each other player selects one character card. The last player to select their first character then selects their second character, and the draft proceed counterclockwise until every player has selected two characters. The draft continues in this “snake” fashion until all character cards are drafted. Players are not required to play with all characters they drafted. A player may select any available character card, even if that character puts the total Star count of character cards they’ve drafted over 25.
+Once all character cards have been drafted, each player opens one pack of battle cards. Players should ensure it contains appropriate number of battle cards (6 if the booster pack included a small character card or 7 if it did not). Players who receive an erroneous number of cards should immediately notify a judge. Players choose one card from their current battle card pack and then pass the remaining cards face down to the player on their left until all cards are drafted. Once a player has removed a card from the pack and put it on top of their single, front face-down drafted pile, it is considered selected and may not be returned to the pack.
+Players may not reveal the front face of their battle card selections or the contents of their current packs to other participants in the draft and must make a reasonable effort to keep that information from the sight of other players. Players are not permitted to reveal hidden information of any kind to other participants in the draft regarding their own picks or what they want others to pick.
+Players may not look at their drafted cards between or during picks at premier events. At non-premier events, players are allowed to review their drafted cards between or during picks as long as they are holding no other cards at the same time. The Head Judge may choose to disallow this provided they announces it before the first draft. Between booster packs, there is a review period in which players may review their picks.
+After the first pack is drafted and the review period completed, players open the next battle card pack and draft in the same fashion, except that the direction of drafting is reversed—it now proceeds to the right. This process is repeated, reversing the direction of drafting for each booster pack until all cards in all booster packs are drafted.
+If a player is unable or unwilling to continue drafting, but wishes to remain in the tournament, they are suspended from drafting. For the remainder of the draft, a tournament official randomly makes picks instead of the suspended player.
+
+== Sanctioning
+=== Participation Minimums
+Sanctioned Transformers TCG tournaments require a minimum of four (4) players. If the participation minimum is not met, the tournament is no longer Officially Sanctioned and will not provide rating points. If participation minimums are not met for any Officially Sanctioned Transformers TCG tournament, the Tournament Organizer should report the tournament to WOTC as “Did Not Occur.”
+
+=== Number of Rounds
+Tournaments require a minimum of two rounds to be sanctioned. If the minimum number of rounds is not met, the tournament is no longer Officially Sanctioned and will not provide rating points. If the minimum number of rounds is not met for any Officially Sanctioned Transformers TCG tournament, the Tournament Organizer should report the tournament as “Did Not Occur.”
+The number of rounds should be announced at or before the beginning of the first round; once
+announced, it should not be changed. A variable number of rounds can be announced instead, with specific criteria for ending the tournament. For example, a tournament with 20 players can be announced as five rounds unless only one player has four match wins after four rounds.
+The recommended number of rounds for Swiss tournaments can be found in Appendix E.
+
+=== Invitation-Only Tournaments
+Invitation-only tournaments have additional qualification criteria for player participation. The invitation list for Premier tournaments is defined in the Transformers TCG Premier Event Invitation Policy.
+Tournament Organizers may hold and sanction invitation-only non-Premier tournaments normally, as long as they offer a sufficient number of qualifying tournaments in advance to ensure that all players have a chance to qualify.
+
+=== Pairing Algorithm
+Unless otherwise announced, tournaments are assumed to follow the Swiss pairing algorithm. Some tournaments may proceed to single-elimination playoff rounds between the top 2, 4, or 8 (or other number) players after the Swiss rounds are over.
+For tournaments that have a single-elimination playoff, the recommended pairing method is to pair the playoff players by the final Swiss standings.
+For an 8-player playoff, the 1st place player plays the 8th place player, the 2nd place player plays the 7th place player, the 3rd place player plays the 6th place player, and the 4th place player plays the 5th place player. The winners of the 1st/8th place and 4th/5th place matches play each other in the next round of the playoff. The winners of the 2nd/7thplace and 3rd/6th place matches play each other in the next round of the playoff. The remaining players play in the last round of the playoff.
+
+For a 4-player playoff, the 1st place player plays the 4th place player, and the 2nd place player plays the 3rd place player. The remaining players play in the last round of the playoff.
+
+For Limited tournaments that have a single-elimination booster draft playoffs, it is recommend that only an 8-player playoff is run using the following the method described below.
+Use a random method to seat players around the draft table and conduct the draft.
+After the draft has concluded, the player in seat 1 plays the player in seat 5, the player in seat 2 plays the player in seat 6, the player in seat 3 plays the player in seat 7, and the player in seat 4 plays the player in seat 8. The winners of the seat 1/5 and the 3/7 matches play each other in the next round of the playoff. The winners of the seat 2/6 and the seat 4/8 matches play each other in the next round of the playoff. The remaining players play in the last round of the playoff.
+
+== Appendix A — Aequitas Changes From WoTC Rules
+
+ 1.1 Removal of terms specific to WotC's tournament structure. 
+ 1.2 Updating to cover the banning of Multi-Mission Gear.
+ 1.3 Adding Wave 5 cards to the permitted list for Constructed events.
+
+
+== Appendix B — Time Limits
+The required minimum time limit for any match is 40 minutes.
+The following time limits are recommended for each round of a tournament:
+
+Constructed and Limited tournaments —50 minutes
+Single-elimination playoff matches—No time limit
+
+The following additional time limits are recommended for Limited tournaments:
+
+Sealed Deck—20 minutes for deck registration (if a deck swap is occurring) and 30 minutes for deck construction
+Draft—30 minutes for deck registration and construction
+
+
+The Head Judge of the tournament is the final authority on time limits for a tournament.
+However, any deviation from these recommendations must be announced prior to and during tournament registration.
+Transformers TCG Premier Tournaments may have different time limits. These time limits can be found in the tournament or tournament series fact sheet. In timed rounds, players must wait for the officially tracked time to begin before starting their match.
+
+Booster Draft Timing
+Individual booster drafts have the following recommended time limits for each pick:
+
+
+Cards remaining in pack
+Time allotted
+7 cards
+40 seconds
+6 cards
+35 seconds
+5 cards
+30seconds
+4 cards
+25 seconds
+3 cards
+20 seconds
+2 cards
+10 seconds
+1 cards
+5 seconds
+
+
+The time for review after the first booster pack is 30 seconds. Each subsequent review period increases by 15 seconds.
+
+== Appendix C — Tiebreaker Explanation
+Match Points
+Players earn 3 match points for each match win, 0 points for each match loss and 1 match point for each match ending in a draw. Players receiving byes are considered to have won the match.
+A player's record is 6–2–0 (Wins–Losses–Draws). That player has 18 match points (6*3, 2*0, 0*1). A player's record is 4–2–2. That player has 14 match points (4*3, 2*0, 2*1).
+Game Points
+Game points are similar to match points in that players earn 3 game points for each game they win and 1 point for each game that ends in a draw, and 0 points for any game lost. Unfinished games are considered draws. Unplayed games are worth 0 points.
+
+A player wins a match 2–0–0, so she earns 6 game points and her opponent receives 0 game points from the match. A player wins a match 2–1–0, so she earns 6 game points and her opponent earns 3 game points from the match.
+A player wins a match 2–0–1, so he earns 7 game points and his opponent earns 1 game point from the match.
+
+Match-win percentage
+A player’s match-win percentage is that player’s accumulated match points divided by the total match points possible in those rounds (generally, 3 times the number of rounds played). If this number is lower than 0.33, use 0.33 instead. The minimum match-win percentage of 0.33 limits the effect low performances have when calculating and comparing opponents’ match-win percentage.
+Examples:
+These three players competed in an 8-round tournament, although only the first player completed all rounds.
+
+Tournament Record
+5-2-1
+1-3-0, then withdraws
+
+Match Points 16
+3
+9
+
+Rounds Played 8
+4
+5
+
+Match-win Percentage
+16/(8*3) = 0.667
+3/(4*3) = 0.25, so 0.33 is used. 9/(5*3) = 0.60 Game-win percentage
+
+Similar to the match-win percentage, a player’s game-win percentage is the total number of game points he or she earned divided by the total game points possible (generally, 3 times the number of games played). Again, use 0.33 if the actual game-win percentage is lower than that.
+
+These two players competed in a four-round tournament:
+Game Record by Match Game Points Games Played Round 1: 2 wins (6 game points) 21 10
+Round 2: 2 wins and 1 loss (6 game points)
+Round 3: 1 win and 2 losses (3 game points)
+
+Game-win Percentage 21/(3*10) = 0.70
+Round 4: 2 wins (6 game points)
+
+Game Record by Match Game Points Round 1: 1 win and 2 losses (3 game points) 9 Round 2: 1 win and 2 losses (3 game points)
+
+Round 3: 2 losses (0 game points)
+Round 4: 1 win and 2 losses (3 game points)
+
+Opponents’ match-win percentage
+
+Games Played 11
+Game-win Percentage 9/(3*11) = 0.27, so 0.33 is used.
+
+A player’s opponents’ match-win percentage is the average match-win percentage of each opponent that player faced (ignoring those rounds for which the player received a bye). Use the match-win percentage definition listed above when calculating each individual opponent’s match-win percentage.
+Examples:
+
+A player’s record in an eight-round tournament is 6–2–0. Her opponents’ match records were: 4–4–0, 7–1–0, 1–3–1, 3– 3–1, 6–2–0, 5–2–1, 4–3–1, and 6–1–1, so her opponents’ match-win percentage is:
+
+This player’s opponents’ match-win percentage is 0.62.
+
+Another player’s record at the same tournament was 6–2–0. His opponents’ records were: bye, 7–1–0, 1–3–1, 3–3–1, 6– 2–0, 5–2–1, 4–3–1, and 6–1–1, so his opponents’ match-win percentage is:
+
+With the individual match-win percentages added together, this equation becomes: This player’s
+opponents’ match-win percentage is 0.63.
+
+Opponents’ game-win percentages
+
+Similar to opponents’ match-win percentage, a player’s opponents’ game-win percentage is simply the average game- win percentage of all of that player’s opponents. And, as with opponents’ match-win percentage, each opponent has a minimum game-win percentage of 0.33.
+
+Byes
+When a player is assigned a bye for a round, they are considered to have won the match 2–0.
+
+Thus, that player earns 3 match points and 6 game points. A player’s byes are ignored when computing their opponents’ match-win and opponents’ game-win percentages.
+
+== Appendix D — Recommended Booster Mix for Limited Tournaments
+
+For War for Cybertron: Siege I, the recommended booster mix for Limited tournaments is:
+
+Transformers TCG Sealed Deck – 6 (War for Cybertron: Siege I per player)
+Transformers TCG Booster Draft – 5 (War for Cybertron: Siege I per player)
+
+== Appendix E — Recommended Number of Rounds in Swiss Tournaments
+
+The following number of Swiss rounds is often required for Premier tournaments. It may be used at the Tournament Organizer’s discretion for non-Premier tournaments. It is included here for reference only.
+
+Players
+Rounds
+4
+2
+5-8
+3
+9-16
+4
+17-32
+5
+33-64
+6
+65-128
+7
+129-226
+8
+227-409
+9
+410+
+10
+
+== Appendix F — FAQ
+
+
+Qn: How does Sideboarding work in Limited competitions (e.g. Sealed or Draft)?
+
+Ans: It is up to the discretion of the Tournament Organizer. Typically there are two approaches, with the latter being the more common:
+
+  1) These rules state that "Players participating in Limited tournaments may freely change the composition of their decks between matches (but not games) by exchanging cards from their deck for other cards in their card pool without being required to return their deck to its original composition before their next match.".
+  2) However, for the Energon Invitational, it was determined that "Players will need to return to their registered configuration prior to Game 1 of any match and they will be able to sideboard cards in during Games 2 & 3." (per https://www.facebook.com/groups/transformerstcg/permalink/2591276550907826/?comment_id=2591285324240282 ).
+
+Qn: In Turbo, what do you do with battle cards costing 1 or more stars?
+
+Ans: You include them in your Turbo deck as usual. They do not apply to the cost of your deck in Turbo, so they do not affect the amount of damage taken before the game.
+
