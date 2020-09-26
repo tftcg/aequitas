@@ -591,8 +591,8 @@ Thus, that player earns 3 match points and 6 game points. A player’s byes are 
 
 For War for Cybertron: Siege I, the recommended booster mix for Limited tournaments is:
 
-Transformers TCG Sealed Deck – 6 (War for Cybertron: Siege I per player)
-Transformers TCG Booster Draft – 5 (War for Cybertron: Siege I per player)
+* Transformers TCG Sealed Deck – 6 (War for Cybertron: Siege I per player)
+* Transformers TCG Booster Draft – 5 (War for Cybertron: Siege I per player)
 
 == Appendix E — Recommended Number of Rounds in Swiss Tournaments
 
