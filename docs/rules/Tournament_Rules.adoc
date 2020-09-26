@@ -441,19 +441,13 @@ Players may not look at their drafted cards between or during picks at premier e
 After the first pack is drafted and the review period completed, players open the next battle card pack and draft in the same fashion, except that the direction of drafting is reversed—it now proceeds to the right. This process is repeated, reversing the direction of drafting for each booster pack until all cards in all booster packs are drafted.
 If a player is unable or unwilling to continue drafting, but wishes to remain in the tournament, they are suspended from drafting. For the remainder of the draft, a tournament official randomly makes picks instead of the suspended player.
 
-== Sanctioning
-=== Participation Minimums
-Sanctioned Transformers TCG tournaments require a minimum of four (4) players. If the participation minimum is not met, the tournament is no longer Officially Sanctioned and will not provide rating points. If participation minimums are not met for any Officially Sanctioned Transformers TCG tournament, the Tournament Organizer should report the tournament to WOTC as “Did Not Occur.”
+== Recommendations
+=== Participation & Rounds
+It is recommended that Transformers TCG tournaments require a minimum of four (4) players, and consist of a minimum of two rounds. 
 
-=== Number of Rounds
-Tournaments require a minimum of two rounds to be sanctioned. If the minimum number of rounds is not met, the tournament is no longer Officially Sanctioned and will not provide rating points. If the minimum number of rounds is not met for any Officially Sanctioned Transformers TCG tournament, the Tournament Organizer should report the tournament as “Did Not Occur.”
 The number of rounds should be announced at or before the beginning of the first round; once
 announced, it should not be changed. A variable number of rounds can be announced instead, with specific criteria for ending the tournament. For example, a tournament with 20 players can be announced as five rounds unless only one player has four match wins after four rounds.
 The recommended number of rounds for Swiss tournaments can be found in Appendix E.
-
-=== Invitation-Only Tournaments
-Invitation-only tournaments have additional qualification criteria for player participation. The invitation list for Premier tournaments is defined in the Transformers TCG Premier Event Invitation Policy.
-Tournament Organizers may hold and sanction invitation-only non-Premier tournaments normally, as long as they offer a sufficient number of qualifying tournaments in advance to ensure that all players have a chance to qualify.
 
 === Pairing Algorithm
 Unless otherwise announced, tournaments are assumed to follow the Swiss pairing algorithm. Some tournaments may proceed to single-elimination playoff rounds between the top 2, 4, or 8 (or other number) players after the Swiss rounds are over.
@@ -472,7 +466,6 @@ After the draft has concluded, the player in seat 1 plays the player in seat 5, 
 . Updating to cover the banning of Multi-Mission Gear.
 . Adding Wave 5 cards to the permitted list for Constructed events.
 . Adding FAQ Appendix.
-
 
 == Appendix B — Time Limits
 The required minimum time limit for any match is 40 minutes.
