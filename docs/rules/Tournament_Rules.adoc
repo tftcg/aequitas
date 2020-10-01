@@ -1,5 +1,5 @@
 = Transformer TCG Tournament Rules
-Aequias Committee <questions@tf-rules.info>
+Aequitas Committee <questions@tf-rules.info>
 :reproducible:
 :listing-caption: Listing
 :toc:
