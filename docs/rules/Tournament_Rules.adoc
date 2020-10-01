@@ -487,24 +487,17 @@ These time limits can be found in the tournament or tournament series fact sheet
 Booster Draft Timing
 Individual booster drafts have the following recommended time limits for each pick:
 
-
-Cards remaining in pack
-Time allotted
-7 cards
-40 seconds
-6 cards
-35 seconds
-5 cards
-30seconds
-4 cards
-25 seconds
-3 cards
-20 seconds
-2 cards
-10 seconds
-1 cards
-5 seconds
-
+[width="50%",cols="^m,^m",options="head"]
+|======================================
+|Cards remaining in pack |Time allotted
+|7 cards |40 seconds
+|6 cards |35 seconds
+|5 cards |30seconds
+|4 cards |25 seconds
+|3 cards |20 seconds
+|2 cards |10 seconds
+|1 cards |5 seconds
+|======================================
 
 The time for review after the first booster pack is 30 seconds. Each subsequent review period increases by 15 seconds.
 
