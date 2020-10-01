@@ -206,9 +206,9 @@ The default Authorized Cards are cards that, unaltered, meet the following condi
 
 * The card is genuine and published by Wizards of the Coast.
 * If a Battle Card, it has a standard Transformers TCG back.
-* The card is not damaged or modified in a way that might make it marked. See section 3.11 for rules about marked cards.
+* The card is not damaged or modified in a way that might make it marked. See section 3.6 for rules about marked cards.
 * The card is otherwise legal for the tournament as defined by the format.
-* The card is a proxy issued by the Head Judge of a tournament. See section 3.4 for rules about proxies.
+* The card is a proxy issued by the Head Judge of a tournament. See section 3.3 for rules about proxies.
 
 Players may use otherwise-legal non-English and/or misprinted cards provided they are not
 using them to create an advantage through misleading text, art, or other features.
