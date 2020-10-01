@@ -591,26 +591,19 @@ For War for Cybertron: Siege I, the recommended booster mix for Limited tourname
 
 The following number of Swiss rounds is often required for tournaments. It is included here for reference only.
 
-Players
-Rounds
-4
-2
-5-8
-3
-9-16
-4
-17-32
-5
-33-64
-6
-65-128
-7
-129-226
-8
-227-409
-9
-410+
-10
+[width="50%",cols="^m,^m",options="head"]
+|===============
+|# Players |# Rounds
+|4       |2
+|5-8     |3
+|9-16    |4
+|17-32   |5
+|33-64   |6
+|65-128  |7
+|129-226 |8
+|227-409 |9
+|410+    |10
+|===============
 
 == Appendix F — FAQ
 
