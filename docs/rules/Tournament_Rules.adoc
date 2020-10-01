@@ -156,8 +156,7 @@ If a player disagrees with a judge’s ruling, they may appeal the ruling to the
 
 === Dropping from a Tournament
 Players choosing to drop from a tournament must inform the Scorekeeper by the means provided for that tournament before the pairings for the next round are generated. Players wanting to drop after the Scorekeeper begins pairing for the next round will be paired for that round. If a player does not show up for their match, they will be automatically dropped from the tournament unless they report to the Scorekeeper. Players that repeatedly and/or intentionally drop from tournaments without informing the Scorekeeper may be the subject of penalties up to and including suspension.
-If a player drops from a tournament after a cut has been made, such as a cut to the top 8 in a
-Transformers TCG Premiere Tournament, no other player is advanced as a replacement. That player’s opponent receives a bye for the round. A cut is considered to have been made once the cut itself or pairings for the round following the cut have been posted or announced.
+If a player drops from a tournament after a cut has been made, such as a cut to the top 8, no other player is advanced as a replacement. That player’s opponent receives a bye for the round. A cut is considered to have been made once the cut itself or pairings for the round following the cut have been posted or announced.
 
 Players who have dropped may reenter a tournament at the discretion of the Head Judge. Players may not reenter a tournament after any cut has been made.
 Players may not drop from a tournament in exchange for or influenced by the offer of any reward or incentive. Doing so will be considered Bribery (see section 5.2).
@@ -239,9 +238,9 @@ Players may use plastic card sleeves or other protective devices on cards. If a 
 Players may use accessories that are meant to indicate which face of a triple-faced card is active as long as it does not mislead their opponent. The judge may request a player cease using such accessories.
 During a match, a player may request that a judge inspect an opponent’s card sleeves or accessories.
 The judge may disallow the card sleeves or accessories if they believe they are marked, worn, or otherwise in a condition or of a design that interferes with shuffling or game play. In the interest of efficiency, the judge may choose to delay any change of sleeves or accessories until the end of the match.
-Premier tournaments impose additional restrictions on sleeves or accessories. Highly reflective backs are not allowed. Sleeves with hologram patterns across some or all of the sleeve front or back are not allowed. Sleeves with artwork on their backs may be subjected to additional scrutiny, especially if there is no solid border around the edges.
 When using sleeves on double or triple-faced cards, sleeves must be completely transparent.
 Hard shell toploaders may be used to protect Character Cards provided they are transparent on both sides.
+Historically, official WotC tournaments imposed additional restrictions on sleeves or accessories. Tournaments may choose to do the same. In these situations, highly reflective backs are not allowed. Sleeves with hologram patterns across some or all of the sleeve front or back are not allowed. Sleeves with artwork on their backs may be subjected to additional scrutiny, especially if there is no solid border around the edges.
 The Head Judge is the final authority on what sleeves are allowed.
 
 === Marked Cards
@@ -418,7 +417,7 @@ The card pool consists of each character and battle card a player opens or draft
 tournament. Players participating in Limited tournaments may freely change the composition of their decks between matches (but not games) by exchanging cards from their deck for other cards in their card pool without being required to return their deck to its original composition before their next match. Players must ensure their deck has at least the minimum 25 battle cards after making any modifications.
 
 === Card Use in Limited Tournaments
-Cards must be received directly from tournament officials. This product must be new and previously unopened. Transformers TCG Premiere Tournaments may have had boosters opened in order to stamp them. Each player must be given exactly the same quantity and type of product as all other players participating in the tournament. For example, if one player receives three War for Cybertron: Siege I boosters for a booster draft, all other players must also receive three War for Cybertron: Siege I.
+Cards must be received directly from tournament officials. This product must be new and previously unopened. Each player must be given exactly the same quantity and type of product as all other players participating in the tournament. For example, if one player receives three War for Cybertron: Siege I boosters for a booster draft, all other players must also receive three War for Cybertron: Siege I.
 If the Tournament Organizer allows players to provide their own product, that product must be pooled with the rest of the product for the tournament and randomly distributed.
 Players may use only the cards they receive or draft provided by the Tournament Organizer. Players may ask a judge for permission to replace a card with another version of the same card.
 
@@ -430,7 +429,7 @@ In Sealed Deck tournaments, the Head Judge may require players to perform a deck
 
 === Draft Pod Assembly
 For Booster Draft tournaments, players assemble into random drafting circles (called pods) of roughly equal size at the direction of the Head Judge. Tournament officials then distribute identical sets of booster packs to each player.
-Players within a pod may play only against other players within that pod. In non-Premiere tournaments, the Tournament Organizer may elect to lift this restriction. This must be announced before the tournament starts.
+Typically players within a pod may play only against other players within that pod, however the Tournament Organizer may elect to lift this restriction. This must be announced before the tournament starts.
 Players may not communicate in any way with, or reveal hidden information to, other individuals during a draft, apart from tournament officials. This applies as soon as the draft pod pairings are posted and lasts until players hand in their decklists.
 
 === Booster Draft Procedures
@@ -483,7 +482,7 @@ The following additional time limits are recommended for Limited tournaments:
 
 The Head Judge of the tournament is the final authority on time limits for a tournament.
 However, any deviation from these recommendations must be announced prior to and during tournament registration.
-Transformers TCG Premier Tournaments may have different time limits. These time limits can be found in the tournament or tournament series fact sheet. In timed rounds, players must wait for the officially tracked time to begin before starting their match.
+These time limits can be found in the tournament or tournament series fact sheet. In timed rounds, players must wait for the officially tracked time to begin before starting their match.
 
 Booster Draft Timing
 Individual booster drafts have the following recommended time limits for each pick:
@@ -590,7 +589,7 @@ For War for Cybertron: Siege I, the recommended booster mix for Limited tourname
 
 == Appendix E — Recommended Number of Rounds in Swiss Tournaments
 
-The following number of Swiss rounds is often required for Premier tournaments. It may be used at the Tournament Organizer’s discretion for non-Premier tournaments. It is included here for reference only.
+The following number of Swiss rounds is often required for tournaments. It is included here for reference only.
 
 Players
 Rounds
