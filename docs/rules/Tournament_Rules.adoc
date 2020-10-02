@@ -550,18 +550,26 @@ Individual booster drafts have the following recommended time limits for each pi
 The time for review after the first booster pack is 30 seconds. Each subsequent review period increases by 15 seconds.
 
 == Appendix C — Tiebreaker Explanation
-Match Points
+*Match Points*
+
 Players earn 3 match points for each match win, 0 points for each match loss and 1 match point for each match ending in a draw. Players receiving byes are considered to have won the match.
+
 A player's record is 6–2–0 (Wins–Losses–Draws). That player has 18 match points (6*3, 2*0, 0*1). A player's record is 4–2–2. That player has 14 match points (4*3, 2*0, 2*1).
-Game Points
+
+*Game Points*
+
 Game points are similar to match points in that players earn 3 game points for each game they win and 1 point for each game that ends in a draw, and 0 points for any game lost. Unfinished games are considered draws. Unplayed games are worth 0 points.
 
 A player wins a match 2–0–0, so she earns 6 game points and her opponent receives 0 game points from the match. A player wins a match 2–1–0, so she earns 6 game points and her opponent earns 3 game points from the match.
+
 A player wins a match 2–0–1, so he earns 7 game points and his opponent earns 1 game point from the match.
 
-Match-win percentage
+*Match-win percentage*
+
 A player’s match-win percentage is that player’s accumulated match points divided by the total match points possible in those rounds (generally, 3 times the number of rounds played). If this number is lower than 0.33, use 0.33 instead. The minimum match-win percentage of 0.33 limits the effect low performances have when calculating and comparing opponents’ match-win percentage.
-Examples:
+
+*Examples:*
+
 These three players competed in an 8-round tournament, although only the first player completed all rounds.
 
 Tournament Record
@@ -595,13 +603,14 @@ Game Record by Match Game Points Round 1: 1 win and 2 losses (3 game points) 9 R
 Round 3: 2 losses (0 game points)
 Round 4: 1 win and 2 losses (3 game points)
 
-Opponents’ match-win percentage
+*Opponents’ match-win percentage*
 
 Games Played 11
 Game-win Percentage 9/(3*11) = 0.27, so 0.33 is used.
 
 A player’s opponents’ match-win percentage is the average match-win percentage of each opponent that player faced (ignoring those rounds for which the player received a bye). Use the match-win percentage definition listed above when calculating each individual opponent’s match-win percentage.
-Examples:
+
+*Examples:*
 
 A player’s record in an eight-round tournament is 6–2–0. Her opponents’ match records were: 4–4–0, 7–1–0, 1–3–1, 3– 3–1, 6–2–0, 5–2–1, 4–3–1, and 6–1–1, so her opponents’ match-win percentage is:
 
@@ -612,11 +621,12 @@ Another player’s record at the same tournament was 6–2–0. His opponents’
 With the individual match-win percentages added together, this equation becomes: This player’s
 opponents’ match-win percentage is 0.63.
 
-Opponents’ game-win percentages
+*Opponents’ game-win percentages*
 
 Similar to opponents’ match-win percentage, a player’s opponents’ game-win percentage is simply the average game- win percentage of all of that player’s opponents. And, as with opponents’ match-win percentage, each opponent has a minimum game-win percentage of 0.33.
 
-Byes
+*Byes*
+
 When a player is assigned a bye for a round, they are considered to have won the match 2–0.
 
 Thus, that player earns 3 match points and 6 game points. A player’s byes are ignored when computing their opponents’ match-win and opponents’ game-win percentages.
