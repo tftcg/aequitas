@@ -509,7 +509,7 @@ For tournaments that have a single-elimination playoff, the recommended pairing 
 
 For an 8-player playoff, the 1st place player plays the 8th place player, the 2nd place player plays the 7th place player, the 3rd place player plays the 6th place player, and the 4th place player plays the 5th place player. The winners of the 1st/8th place and 4th/5th place matches play each other in the next round of the playoff. The winners of the 2nd/7thplace and 3rd/6th place matches play each other in the next round of the playoff. The remaining players play in the last round of the playoff.
 
-image:: tournament-rules-1.png[]
+image::tournament-rules-1.png[]
 
 For a 4-player playoff, the 1st place player plays the 4th place player, and the 2nd place player plays the 3rd place player. The remaining players play in the last round of the playoff.
 
@@ -519,7 +519,7 @@ Use a random method to seat players around the draft table and conduct the draft
 
 After the draft has concluded, the player in seat 1 plays the player in seat 5, the player in seat 2 plays the player in seat 6, the player in seat 3 plays the player in seat 7, and the player in seat 4 plays the player in seat 8. The winners of the seat 1/5 and the 3/7 matches play each other in the next round of the playoff. The winners of the seat 2/6 and the seat 4/8 matches play each other in the next round of the playoff. The remaining players play in the last round of the playoff.
 
-image:: tournament-rules-2.png[]
+image::tournament-rules-2.png[]
 
 == Appendix A — Aequitas Changes From WoTC Rules
 
