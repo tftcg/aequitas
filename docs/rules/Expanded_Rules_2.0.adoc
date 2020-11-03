@@ -75,9 +75,9 @@ The attack is divided into three steps.
  
 ==== Attack Damage
 
-1. If the defender’s defense value is the same or larger than the attacker’s attack value, no attack damage is done (unless the attacker has Pierce, see below).
+. If the defender’s defense value is the same or larger than the attacker’s attack value, no attack damage is done (unless the attacker has Pierce, see below).
 
-2. If the attack value is larger, the attacker does attack damage to the defender equal to the difference.
+. If the attack value is larger, the attacker does attack damage to the defender equal to the difference.
 
 * Pierce
 
@@ -85,35 +85,28 @@ The attack is divided into three steps.
 ** If the attacker has Pierce and would do attack damage less than its pierce number, the amount of attack damage is raised to its pierce number or to its attack value, whichever is smaller.
 ** If the attacker has Pierce but would do as much as or more attack damage than its pierce number, Pierce has no effect during that attack.
 
-3. Apply any effects that modify the amount of attack damage that would be done (such as the effect of Force Field). If multiple effects could modify this damage, apply the attacking player’s effects first, one at a time in an order of their choice. Then apply the defending player’s effects one at a time in an order of that player’s choice.
+. Apply any effects that modify the amount of attack damage that would be done (such as the effect of Force Field). If multiple effects could modify this damage, apply the attacking player’s effects first, one at a time in an order of their choice. Then apply the defending player’s effects one at a time in an order of that player’s choice.
 
-4. Once the amount of attack damage is calculated, the defending player puts that many damage counters on the defender. If this causes the total number of damage counters on the defender to be equal to or greater than the character’s health, the character is KO’d.
+. Once the amount of attack damage is calculated, the defending player puts that many damage counters on the defender. If this causes the total number of damage counters on the defender to be equal to or greater than the character’s health, the character is KO’d.
 
  
 === Post-Attack
 
-1. After damage is done, any ability that happens “after the attack” happens, including the effects of green battle icons.
-
-2. If the defending player has any untapped characters, the game proceeds to the “5. Ending the Turn” phase, below.
-
-3. If the defending player has no untapped characters, and the attacking player has at least one untapped character, the attacking player gets an additional attack. The game returns to the “3. Attack” phase, above. The attacking player may receive multiple additional attacks this way during a turn. This is informally known as “attacking out.”
-
-4. If all characters on both sides are tapped, untap all characters. The game then proceeds to “5. Ending the Turn.”
+. After damage is done, any ability that happens “after the attack” happens, including the effects of green battle icons.
+. If the defending player has any untapped characters, the game proceeds to the “5. Ending the Turn” phase, below.
+. If the defending player has no untapped characters, and the attacking player has at least one untapped character, the attacking player gets an additional attack. The game returns to the “3. Attack” phase, above. The attacking player may receive multiple additional attacks this way during a turn. This is informally known as “attacking out.”
+. If all characters on both sides are tapped, untap all characters. The game then proceeds to “5. Ending the Turn.”
 
  
 === Ending the Turn
 
 Before the turn finally ends, a few things happen.
 
-1. Any ability that happens “at end of turn” resolves.
-
-2. All players put all face-up cards from their played area into their scrap pile. The defending player puts their face-down Secret Actions into their scrap pile face up. These Secret Actions have no effect.
-
-3. Any effect that lasts “until end of turn” wears off.
-
-4. If any of the above causes an ability to trigger or a character to be KO’d, repeat this phase until nothing is pending and all “until end of turn” effects have worn off.
-
-5. The turn ends. Hooray!
+. Any ability that happens “at end of turn” resolves.
+. All players put all face-up cards from their played area into their scrap pile. The defending player puts their face-down Secret Actions into their scrap pile face up. These Secret Actions have no effect.
+. Any effect that lasts “until end of turn” wears off.
+. If any of the above causes an ability to trigger or a character to be KO’d, repeat this phase until nothing is pending and all “until end of turn” effects have worn off.
+. The turn ends. Hooray!
 
  
 == Actions within Actions
