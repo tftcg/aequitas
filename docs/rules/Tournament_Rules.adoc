@@ -146,9 +146,9 @@ In the classic WotC Transformers TCG, matches cannot end in an unintentional dra
 
 If a player wins a game in extra time, bringing the match score to a tie, players present their teams and their decks (without sideboarding) as though they were about to start another game, and then resolve the tiebreaker procedure.
 
-===== Aequitas Alternative Recommendation
+==== Aequitas Alternative Tiebreaker Recommendation
 
-DRAFT: The Tiebreaker procedure was not updated for Wave 5 and both the health, and the Star count tie-breakers can easily be a negative play experience. An alternative, and recommended, approach is to simply allow unintentional draws to happen. If a cut is occurring, matches after the cut are played without a time limit until a player wins. More specifically, when time runs out, each player continues to play until the end of a turn in which all characters are tapped. If no one has won, the match ends in a draw.
+The Tiebreaker procedure was not updated for Wave 5 and both the health, and the Star count tie-breakers can easily be a negative play experience. An alternative, and recommended, approach is to simply allow unintentional draws to happen. If a cut is occurring, matches after the cut are played without a time limit until a player wins. More specifically, when time runs out, each player continues to play until the end of a turn in which all characters are tapped. If no one has won, the match ends in a draw.
 
 
 === Time Extensions
