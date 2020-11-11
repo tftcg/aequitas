@@ -39,7 +39,7 @@ On the first turn of the game, the player going first can’t play any cards fro
 
 === Attack
 
-The attack is divided into three steps. The attack may consume the turn’s required attack, or may use an extra attack supplied by a card.
+The attack is divided into three steps. [yellow-background]#The attack may consume the turn’s required attack, or may use an extra attack supplied by a card.#
 
 ==== Choose Combatants
 
@@ -93,7 +93,7 @@ The attack is divided into three steps. The attack may consume the turn’s requ
 === Post-Attack
 
 . After damage is done, any ability that happens “after the attack” happens, including the effects of green battle icons.
-. The attacking player returns to the “3. Attack” phase above, if they have mandatory extra attacks; or they have used only extra attacks thus far this turn, and they choose to return.
+. [yellow-background]#The attacking player returns to the “3. Attack” phase above, if they have mandatory extra attacks; or they have used only extra attacks thus far this turn, and they choose to return.#
 . If the defending player has any untapped characters, the game proceeds to the “5. Ending the Turn” phase, below.
 . If the defending player has no untapped characters, and the attacking player has at least one untapped character, the attacking player gets an additional attack. The game returns to the “3. Attack” phase, above. The attacking player may receive multiple additional attacks this way during a turn. This is informally known as “attacking out.”
 . If all characters on both sides are tapped, untap all characters. The game then proceeds to “5. Ending the Turn.”
@@ -167,9 +167,9 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 
 === All-Out Attack
 
-All-Out Attack was one of the earliest cards revealed by WotC and its language was clearly prototypical. In its original form, it is the only card to refer to a character as a "Transformer". While the latter Energon Edition version updated that to "character", its text is still a poor fit with the concept of an Extra Attack. It is Errata'd to have the following interpretation:
+[yellow-background]#All-Out Attack was one of the earliest cards revealed by WotC and its language was clearly prototypical. In its original form, it is the only card to refer to a character as a "Transformer". While the latter Energon Edition version updated that to "character", its text is still a poor fit with the concept of an Extra Attack. It is Errata'd to have the following interpretation:#
 
 All-Out Attack:: 
-Until end of turn -> When one of your characters attacks, you may attack with another untapped character that has not already attacked this turn.
+[yellow-background]#Until end of turn -> When one of your characters attacks, you may attack with another untapped character that has not already attacked this turn.#
 
-This intepretation should fit with the typical use of the card, and allows for more complicated situations to be evaluated within the rules of the game. 
+[yellow-background]#This intepretation should fit with the typical use of the card, and allows for more complicated situations to be evaluated within the rules of the game.#
