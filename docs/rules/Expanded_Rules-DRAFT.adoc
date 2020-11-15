@@ -93,7 +93,7 @@ The attack is divided into three steps. [yellow-background]#The attack may count
 === Post-Attack
 
 . After damage is done, any ability that happens “after the attack” happens, including the effects of green battle icons.
-. [yellow-background]#If, as a result of having extra attacks, the attacking player must, or may, attack again, they return to the “3. Attack” phase above.#
+. [yellow-background]#If, as a result of having extra attacks, the attacking player must, or may, attack again, they then return to the “3. Attack” phase above.#
 . If the defending player has any untapped characters, the game proceeds to the “5. Ending the Turn” phase, below.
 . If the defending player has no untapped characters, and the attacking player has at least one untapped character, the attacking player gets an additional attack. The game returns to the “3. Attack” phase, above. The attacking player may receive multiple additional attacks this way during a turn. This is informally known as “attacking out.”
 . If all characters on both sides are tapped, untap all characters. The game then proceeds to “5. Ending the Turn.”
