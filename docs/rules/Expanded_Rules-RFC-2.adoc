@@ -11,7 +11,7 @@ Aequitas Committee <questions@tf-rules.info>
 
 **RFC-2**
 
-This RFC introduces rules for Stratagem targets. 
+This RFC introduces rules identifying legal Stratagem Targets. See <<_stratagem_targets,Stratagem Targets>> for the new text. 
 
 **Introduction**
 
@@ -169,14 +169,14 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 
 == Stratagem Targets
 
-A player may include a stratagem in a deck when the named target of the stratagem is _present_ on a starting team.
+[yellow-background]#A player may include a stratagem in a deck when the named target of the stratagem is _present_ on a starting team.#
 
-Named targets may be.footnote[https://www.facebook.com/TransformersTCG/posts/2656285971159878?comment_id=2658387914283017&reply_comment_id=2658417707613371]:
+[yellow-background]#Named targets may be.footnote[https://www.facebook.com/TransformersTCG/posts/2656285971159878?comment_id=2658387914283017&reply_comment_id=2658417707613371]:#
 
-* A specifically named character on your starting team (i.e. "Optimus Prime - Battlefield Legend").
-* A generally named character on your starting team (i.e. "Optimus Prime").
-* A combiner that a character on your starting team could combine into.
-* A character your starting team could deploy.
-* A trait on any of the above.   [what about another mode???]
+* [yellow-background]#A specifically named character on your starting team (i.e. "Optimus Prime - Battlefield Legend").#
+* [yellow-background]#A generally named character on your starting team (i.e. "Optimus Prime").#
+* [yellow-background]#A combiner that a character on your starting team could combine into.#
+* [yellow-background]#A character your starting team could deploy.#
+* [yellow-background]#A trait on any of the above.   [what about another mode???]#
 
 A player may not have two stratagems with the same ‘named target’ on the battlefield at one time.
