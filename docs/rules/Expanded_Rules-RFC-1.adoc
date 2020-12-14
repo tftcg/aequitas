@@ -1,0 +1,179 @@
+= Transformers TCG: Expanded Rules 2.0
+Aequitas Committee <questions@tf-rules.info>
+:reproducible:
+:listing-caption: Listing
+:toc:
+:toc-placement: preamble
+:toclevels: 3
+:sectnums:
+:toc-title: Expanded Rules 2.0
+:imagesdir: ./images
+
+**RFC-1**
+
+This RFC introduces rules pertaining to when Upgrades are scrapped. 
+
+**Introduction**
+
+These expanded rules give you a detailed look inside some parts of the Transformers TCG. While they are not comprehensive rules, and they may not address every situation that may arise during gameplay, they can be used together with the previous Rule sets to handle most situations. For questions concerning tournament operations (and not gameplay), please see the Transformers TCG Floor Rules.
+
+== Turn Sequence
+
+There’s a lot of action (not to mention Actions) packed into each turn during a game. In this section, we’ll review the parts of a turn and what can happen during a turn. Remember, if a card’s instructions ever contradict these rules, what the card says takes precedence. The turn is divided into five phases, with most phases further divided into steps taken in a set order.
+
+=== Start of the Turn
+
+The following things happen at the start of every turn:
+
+. The player whose turn it is draws a card.
+
+. Any abilities that happen “at the start of your turn” (or “at the start of every turn” or similar) resolve.
+
+ 
+=== Main Phase
+
+The player whose turn it is may do each of the following during this phase, in any order:
+
+* Flip one of their characters from alt mode to bot mode, or vice versa; or from Alt Mode 1 to one of their other modes in the case of Triple Changers.
+* Play an Action card from their hand (including Secret Actions).
+* Play an Upgrade card from their hand.
+* Use the tap ability of one of their untapped characters.
+
+On the first turn of the game, the player going first can’t play any cards from their hand. They may flip one of their characters and use a tap ability, if possible. On the second turn of the game, the other player may play an Action OR an Upgrade, but not both.
+
+=== Attack
+
+The attack is divided into three steps.
+
+==== Choose Combatants
+
+. If the attacking player’s characters are all tapped, the attack immediately ends and the game proceeds to the Post-Attack phase.
+
+. The attacking player choose one of their untapped characters and taps it. For this combat, that character is the attacker.
+
+. Any ability that happens “after [a player] chooses an attacker and before they choose a defender” resolves.
+
+. The attacking player chooses one of the defending player’s tapped characters. If the defending player’s characters are all untapped, the attacking player chooses any of the defending player’s characters. That character is the defender.
+
+. Any ability that triggers “when this attacks,” “when this defends,” “when this battles,” or similar and doesn’t refer to the results of battle cards being flipped resolves.
+
+==== Flip Battle Cards
+
+. Any abilities that happen “before flipping battling cards,” like Focus, resolve.
+
+. Each player determines how many battle cards they will flip during this combat. By default, this number is two, although abilities like Bold and Tough can change this number. This number is locked in at this time. A character gaining or losing such an ability after this point won’t affect how many battle cards will be flipped.
+
+. The attacking player flips battle cards. To flip a battle card, the player takes the top card of their deck and puts it face up into their played area.
+
+* After the attacking player flips a card, the attacker gets +1 attack for each orange battle icon on that card. Similarly, the attacker gets Pierce 1 for each black battle icon that card. These bonuses are applied immediately, before the next card is flipped.
+* If the attacking player flips a white battle icon, they flip two additional cards. There is no additional bonus for additional white battle icons beyond the first.
+
+. Any abilities belonging to the attacking player that happen “after you flip battle cards and before defense flips” resolve, as well as any abilities that happen “when this attacks/battles” and refer to the results of the attacking player flipping battle cards.
+
+. The defending player flips battle cards, including the white battle icon “bonus flip,” if applicable.
+
+* After the defending player flips a card, the defender gets +1 defense for each blue battle icon on that card. This bonus is applied immediately, before the next card is flipped.
+
+. Any abilities that happen “when this attacks/defends/battles” and refer to the results of the defending player flipping battle cards or refer to the results of both players flipping battle cards.
+
+ 
+==== Attack Damage
+
+. If the defender’s defense value is the same or larger than the attacker’s attack value, no attack damage is done (unless the attacker has Pierce, see below).
+
+. If the attack value is larger, the attacker does attack damage to the defender equal to the difference.
+
+* Pierce
+
+** If the attacker has Pierce and wouldn’t otherwise do attack damage, it does attack damage equal to the pierce number or equal to its attack value, whichever is smaller.
+** If the attacker has Pierce and would do attack damage less than its pierce number, the amount of attack damage is raised to its pierce number or to its attack value, whichever is smaller.
+** If the attacker has Pierce but would do as much as or more attack damage than its pierce number, Pierce has no effect during that attack.
+
+. Apply any effects that modify the amount of attack damage that would be done (such as the effect of Force Field). If multiple effects could modify this damage, apply the attacking player’s effects first, one at a time in an order of their choice. Then apply the defending player’s effects one at a time in an order of that player’s choice.
+
+. Once the amount of attack damage is calculated, the defending player puts that many damage counters on the defender. If this causes the total number of damage counters on the defender to be equal to or greater than the character’s health, the character is KO’d.
+
+ 
+=== Post-Attack
+
+. After damage is done, any ability that happens “after the attack” happens, including the effects of green battle icons.
+. If the defending player has any untapped characters, the game proceeds to the “5. Ending the Turn” phase, below.
+. If the defending player has no untapped characters, and the attacking player has at least one untapped character, the attacking player gets an additional attack. The game returns to the “3. Attack” phase, above. The attacking player may receive multiple additional attacks this way during a turn. This is informally known as “attacking out.”
+. If all characters on both sides are tapped, untap all characters. The game then proceeds to “5. Ending the Turn.”
+
+ 
+=== Ending the Turn
+
+Before the turn finally ends, a few things happen.
+
+. Any ability that happens “at end of turn” resolves.
+. All players put all face-up cards from their played area into their scrap pile. The defending player puts their face-down Secret Actions into their scrap pile face up. These Secret Actions have no effect.
+. Any effect that lasts “until end of turn” wears off.
+. If any of the above causes an ability to trigger or a character to be KO’d, repeat this phase until nothing is pending and all “until end of turn” effects have worn off.
+. The turn ends. Hooray!
+
+ 
+== Actions within Actions
+
+Some Actions, such as Brainstorm, instruct you to play additional Actions as part of their effect.
+
+ 
+
+----
+Brainstorm
+[Blue] Action
+You may play an Action. Then you may play another Action.
+----
+
+ 
+
+If the first Action you play while Brainstorm is resolving causes abilities to trigger, those abilities become pending. Then you play the second Action, any abilities that trigger from the second Action also become pending. All these pending abilities then happen one at a time, starting with the ones that triggered most recently (usually from the second played Action). See “Triggered Abilities,” below, for more information.
+
+ 
+== Triggered Abilities
+
+What is a triggered ability?
+
+Triggered abilities are usually found on cards in the battlefield (characters and Upgrades). They each have a trigger condition and an effect. They are usually written “When [Trigger condition] -> [Effect].” The trigger condition can be any game event.
+
+In most cases, the effect of a triggered ability happens immediately after the trigger condition. If the trigger condition is an Action or Upgrade being played, the triggered ability waits until after that Action is complete or the Upgrade is put onto the character.
+
+ 
+== Handling Multiple Triggered Abilities
+
+Sometimes multiple triggered abilities are triggered at the same time. When a game event triggers multiple abilities at once the attacking player resolves all of their abilities that triggered from that game event in the order of their choice, then the defending player resolves any of their abilities that triggered from that game event in the order of their choice.
+
+_Example_: You attack with Megatron // Arrogant Ruler who is upgraded with Data Pad. You choose your opponent’s Omega Supreme (Base) as the defender. This causes all three of those cards’ triggered abilities to trigger. The attacking player controls two of those abilities: Megatron’s and Data Pad’s, so that player chooses one of them to happen, then the other. After the attacker’s abilities are both complete, the defending player uses Omega Supreme’s ability.
+
+In some more complex game situations, handling a triggered ability may itself cause other triggered abilities to trigger. The most recent ability to trigger is the one whose effect happens first. If multiple abilities trigger at the same time, and during the resolution of those abilities one or more new triggered abilities trigger, the remaining original triggered abilities wait until the newer abilities are all handled. Once an ability triggers, it will resolve even if the character with that ability flips or is KO’d, or even if the Upgrade with that ability leaves the battlefield.
+
+_Example_: You attack with Chop Shop // Sneaky Insecticon in bot mode while he’s upgraded with Anticipation Engine. This causes abilities of both cards to trigger. In this example, you choose to resolve Anticipation Engine’s ability first. This reveals Rapid Conversion, which you play to flip Chop Shop to alt mode. This causes the triggered ability of Chop Shop’s alt mode to trigger. It the most recent triggered ability, so it happens next. The pending ability from Chop Shop’s bot mode remains pending. Resolving the alt mode ability, you scrap Anticipation Engine, draw a card, and repair 1 damage from one of your Insecticons. Finally, you resolve the bot mode ability, which says you may move an Upgrade from one of your other characters to Chop Shop.
+
+ 
+== Shuffling Your Deck
+
+In most cases, as soon as your deck has no battle cards in it, shuffle your scrap pile. Those shuffled cards become your deck. This can happen at any time, including during the resolution of an Action or during the attack. There is one exception to that procedure: If you are in the middle of resolving an Action or a triggered ability, and there are any cards you put from your deck into your scrap pile earlier in that Action’s or that ability’s effect, don’t shuffle in those cards. They stay in your scrap pile while you finish resolving that Action or ability.
+
+_Example_: Your deck has 2 battle cards in it. You play Treasure Hunt, which says “Scrap the top 4 cards of your deck. Put all Upgrades scrapped this way into your hand.” You put Treasure Hunt into your played area and scrap the 2 cards in your deck. You then shuffle other cards in your scrap pile into your deck. Then you scrap the top 2 cards of your reshuffled deck, for a total of 4 cards. Then you return all Upgrades from among those 4 cards to your hand.
+
+ 
+== Duplicate Keywords
+
+Many keywords have numerical modifiers. In many cases, this means that their effects are additive. Here are details for each one.
+
+* **Bold and Tough**: These keywords modify how many cards are flipped during a battle. If a character has multiple instances of either keyword, their effects add together. For example, if a character with Bold 2 is upgraded with a weapon that gives it Bold 1, it will have a bold total of 3. It will flip three additional cards when attacking.
+* **Pierce**: Pierce sets a minimum amount of damage a character will do while attacking, with the exception that it can’t do more damage than its attack value. Pierce numbers add together, so if a character with Pierce 3 picks up a weapon that gives it Pierce 1, it will do at least 4 damage while attacking (or it will do damage equal to its attack value if that is lower).
+* **Focus**: Focus lets you look at the top of your deck just before flipping battle cards. If you don’t like what you see, you can scrap cards in the hopes of flipping better ones. Focus is a single action, so if a character has multiple instances of focus, add the numbers together to determine how many cards to look at. For example, if a character has Focus 1 and is upgraded with a utility that gives it another instance of Focus 1, look at the top two cards of your deck before flipping battle cards. You may scrap any number of them and put the rest back on top of your deck in any order.
+* **Plan**: Plan is a keyword action. Because you’ll never be instructed to plan more than once at the same time, plan numbers can’t add together.
+* **Safeguard**: Safeguard numbers add together, but be careful! A higher safeguard number actually makes the ability less powerful. For example, if a character with Safeguard 3 (like, say, oh I don’t know . . . Private Hot Rod) gets an armor that gives it Safeguard 3(like, say, oh I don’t know . . . Medic’s Protective Field), it will have Safeguard 6. But that means it can’t take more than 6 damage while undamaged, while if it didn’t have that armor it couldn’t take more than 3 damage. So maybe don’t play those cards together?
+
+== Upgrade Play ==
+
+Characters may only have Upgrades attached to them if they have the available Upgrade slots. 
+
+When Upgrades are played upon a character, events occur in the following order: 
+
+* If the character has the required type(s) of Upgrade slot, the Upgrade is attached to the character, filling those slot(s). 
+* If the character now has too many Upgrades in a particular upgrade slot, Upgrades previously on the character in that slot are scrapped until there are no longer too many Upgrades for any Upgrade slot.
+* The active player resolves any triggered abilities in the order of their choosing.
+* The inactive player resolves any triggered abilities in the order of their choosing.
