@@ -148,7 +148,7 @@ If a player wins a game in extra time, bringing the match score to a tie, player
 
 ==== Aequitas Tiebreaker Alternative
 
-The Tiebreaker procedure was not updated for Wave 5 and both the health, and the Star count tie-breakers can easily be a negative play experience. An alternative, and recommended, approach is to simply allow unintentional draws to happen. If a cut is occurring, matches after the cut are played without a time limit until a player wins. More specifically, when time runs out, each player continues to play until the end of a turn in which all characters are tapped. If no one has won, the match ends in a draw.
+The Tiebreaker procedure was not updated for Wave 5 and both the health, and the Star count tie-breakers can easily be a negative play experience. One alternative, and currently recommended, approach is to simply allow unintentional draws to happen. If a cut is occurring, matches after the cut are played without a time limit until a player wins. More specifically, when time runs out, each player continues to play until the end of a turn in which all characters are tapped. If no one has won, the match ends in a draw.
 
 
 === Time Extensions
@@ -685,4 +685,4 @@ You include them in your Turbo deck as usual. They do not apply to the cost of y
 
 === Does the loser of the previous game declare whether they are going first or second, before, or after, the two players sideboard?
 
-The rules above do not make this clear, merely stating that both actions happen after the previous game. Magic the Gathering tournaments have the losing player deciding first or second AFTER sideboarding happens. However - in the 2019 Energon Invitational, the head judge ruled that the losing player would decide first or second BEFORE sideboarding happens. Aequitas are investigating, but currently it is strongly recommended that TOs declare which is being used. The two primary online tournaments have opted on BEFORE, matching the Energon Invitational.
+The rules above do not make this clear, merely stating that both actions happen after the previous game. Magic the Gathering tournaments have the losing player deciding first or second AFTER sideboarding happens. However - in the 2019 Energon Invitational, the head judge ruled that the losing player would decide first or second BEFORE sideboarding happens. It is strongly recommended that TOs declare in their rules how this should be handled. The two primary online tournaments have opted on BEFORE, matching the Energon Invitational.
