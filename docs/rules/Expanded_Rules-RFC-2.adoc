@@ -9,9 +9,9 @@ Aequitas Committee <questions@tf-rules.info>
 :toc-title: Expanded Rules 2.0
 :imagesdir: ./images
 
-**RFC-1**
+**RFC-2**
 
-This RFC introduces rules pertaining to when Upgrades are scrapped. See <<_upgrade_play,Upgrade Play>> for the new text. 
+This RFC introduces rules for Stratagem targets. 
 
 **Introduction**
 
@@ -113,7 +113,7 @@ Before the turn finally ends, a few things happen.
 . The turn ends. Hooray!
 
  
-==Actions within Actions
+== Actions within Actions
 
 Some Actions, such as Brainstorm, instruct you to play additional Actions as part of their effect.
 
@@ -130,7 +130,7 @@ You may play an Action. Then you may play another Action.
 If the first Action you play while Brainstorm is resolving causes abilities to trigger, those abilities become pending. Then you play the second Action, any abilities that trigger from the second Action also become pending. All these pending abilities then happen one at a time, starting with the ones that triggered most recently (usually from the second played Action). See “Triggered Abilities,” below, for more information.
 
  
-==Triggered Abilities
+== Triggered Abilities
 
 What is a triggered ability?
 
@@ -139,7 +139,7 @@ Triggered abilities are usually found on cards in the battlefield (characters an
 In most cases, the effect of a triggered ability happens immediately after the trigger condition. If the trigger condition is an Action or Upgrade being played, the triggered ability waits until after that Action is complete or the Upgrade is put onto the character.
 
  
-==Handling Multiple Triggered Abilities
+== Handling Multiple Triggered Abilities
 
 Sometimes multiple triggered abilities are triggered at the same time. When a game event triggers multiple abilities at once the attacking player resolves all of their abilities that triggered from that game event in the order of their choice, then the defending player resolves any of their abilities that triggered from that game event in the order of their choice.
 
@@ -150,14 +150,14 @@ In some more complex game situations, handling a triggered ability may itself ca
 _Example_: You attack with Chop Shop // Sneaky Insecticon in bot mode while he’s upgraded with Anticipation Engine. This causes abilities of both cards to trigger. In this example, you choose to resolve Anticipation Engine’s ability first. This reveals Rapid Conversion, which you play to flip Chop Shop to alt mode. This causes the triggered ability of Chop Shop’s alt mode to trigger. It the most recent triggered ability, so it happens next. The pending ability from Chop Shop’s bot mode remains pending. Resolving the alt mode ability, you scrap Anticipation Engine, draw a card, and repair 1 damage from one of your Insecticons. Finally, you resolve the bot mode ability, which says you may move an Upgrade from one of your other characters to Chop Shop.
 
  
-==Shuffling Your Deck
+== Shuffling Your Deck
 
 In most cases, as soon as your deck has no battle cards in it, shuffle your scrap pile. Those shuffled cards become your deck. This can happen at any time, including during the resolution of an Action or during the attack. There is one exception to that procedure: If you are in the middle of resolving an Action or a triggered ability, and there are any cards you put from your deck into your scrap pile earlier in that Action’s or that ability’s effect, don’t shuffle in those cards. They stay in your scrap pile while you finish resolving that Action or ability.
 
 _Example_: Your deck has 2 battle cards in it. You play Treasure Hunt, which says “Scrap the top 4 cards of your deck. Put all Upgrades scrapped this way into your hand.” You put Treasure Hunt into your played area and scrap the 2 cards in your deck. You then shuffle other cards in your scrap pile into your deck. Then you scrap the top 2 cards of your reshuffled deck, for a total of 4 cards. Then you return all Upgrades from among those 4 cards to your hand.
 
  
-==Duplicate Keywords
+== Duplicate Keywords
 
 Many keywords have numerical modifiers. In many cases, this means that their effects are additive. Here are details for each one.
 
@@ -167,14 +167,16 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 * **Plan**: Plan is a keyword action. Because you’ll never be instructed to plan more than once at the same time, plan numbers can’t add together.
 * **Safeguard**: Safeguard numbers add together, but be careful! A higher safeguard number actually makes the ability less powerful. For example, if a character with Safeguard 3 (like, say, oh I don’t know . . . Private Hot Rod) gets an armor that gives it Safeguard 3(like, say, oh I don’t know . . . Medic’s Protective Field), it will have Safeguard 6. But that means it can’t take more than 6 damage while undamaged, while if it didn’t have that armor it couldn’t take more than 3 damage. So maybe don’t play those cards together?
 
-== Upgrade Play
+== Stratagem Targets
 
+A player may include a stratagem in a deck when the named target of the stratagem is _present_ on a starting team.
 
-[yellow-background]#Characters may only have Upgrades attached to them if they have the available Upgrade slots.#
+Named targets may be.footnote[https://www.facebook.com/TransformersTCG/posts/2656285971159878?comment_id=2658387914283017&reply_comment_id=2658417707613371]:
 
-[yellow-background]#When Upgrades are played upon a character, events occur in the following order:#
+* A specifically named character on your starting team (i.e. "Optimus Prime - Battlefield Legend").
+* A generally named character on your starting team (i.e. "Optimus Prime").
+* A combiner that a character on your starting team could combine into.
+* A character your starting team could deploy.
+* A trait on any of the above.   [what about another mode???]
 
-* [yellow-background]#If the character has the required type(s) of Upgrade slot, the Upgrade is attached to the character, filling those slot(s).#
-* [yellow-background]#If the character now has too many Upgrades in a particular upgrade slot, Upgrades previously on the character in that slot are scrapped until there are no longer too many Upgrades for any Upgrade slot.#
-* [yellow-background]#The active player resolves any triggered abilities in the order of their choosing.#
-* [yellow-background]#The inactive player resolves any triggered abilities in the order of their choosing.#
+A player may not have two stratagems with the same ‘named target’ on the battlefield at one time.
