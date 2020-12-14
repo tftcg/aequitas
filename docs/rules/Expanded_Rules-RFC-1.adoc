@@ -11,7 +11,7 @@ Aequitas Committee <questions@tf-rules.info>
 
 **RFC-1**
 
-This RFC introduces rules pertaining to when Upgrades are scrapped. See <<_upgrade_play,Upgrade Play>> for the new text. 
+[red-background]#This RFC introduces rules pertaining to when Upgrades are scrapped. See <<_upgrade_play,Upgrade Play>> for the new text.#
 
 **Introduction**
 

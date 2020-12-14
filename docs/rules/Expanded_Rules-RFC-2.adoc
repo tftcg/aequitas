@@ -11,7 +11,7 @@ Aequitas Committee <questions@tf-rules.info>
 
 **RFC-2**
 
-This RFC introduces rules identifying legal Stratagem Targets. See <<_stratagem_targets,Stratagem Targets>> for the new text. 
+[red-background]#This RFC introduces rules identifying legal Stratagem Targets. See <<_stratagem_targets,Stratagem Targets>> for the new text.#
 
 **Introduction**
 
