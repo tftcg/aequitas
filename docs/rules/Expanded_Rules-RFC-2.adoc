@@ -171,7 +171,7 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 
 [yellow-background]#A player may include a stratagem in a deck when the named target of the stratagem is _present_ on a starting team.#
 
-[yellow-background]#Named targets may be.footnote[https://www.facebook.com/TransformersTCG/posts/2656285971159878?comment_id=2658387914283017&reply_comment_id=2658417707613371]:#
+[yellow-background]#Named targets may be.footnote:[https://www.facebook.com/TransformersTCG/posts/2656285971159878?comment_id=2658387914283017&reply_comment_id=2658417707613371]:#
 
 * [yellow-background]#A specifically named character on your starting team (i.e. "Optimus Prime - Battlefield Legend").#
 * [yellow-background]#A generally named character on your starting team (i.e. "Optimus Prime").#
