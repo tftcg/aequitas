@@ -179,4 +179,4 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 * [yellow-background]#A character your starting team could deploy.#
 * [yellow-background]#A trait on any of the above.   [what about another mode???]#
 
-A player may not have two stratagems with the same ‘named target’ on the battlefield at one time.
+[yellow-background]#A player may not have two stratagems with the same ‘named target’ on the battlefield at one time.#
