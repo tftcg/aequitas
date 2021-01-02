@@ -169,7 +169,6 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 
 == Upgrade Play
 
-
 [yellow-background]#An Upgrade can only be put on a character if the character has a slot of the appropriate type.
 
 [yellow-background]#When an Upgrade is put on a character, events occur in the following order:#
