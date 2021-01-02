@@ -1,4 +1,4 @@
-= Transformers TCG: Expanded Rules 2.0.1
+= Transformers TCG: Expanded Rules 2.0
 Aequitas Committee <questions@tf-rules.info>
 :reproducible:
 :listing-caption: Listing
@@ -6,7 +6,7 @@ Aequitas Committee <questions@tf-rules.info>
 :toc-placement: preamble
 :toclevels: 3
 :sectnums:
-:toc-title: Expanded Rules 2.0.1
+:toc-title: Expanded Rules 2.0
 :imagesdir: ./images
 
 **RFC-3**
