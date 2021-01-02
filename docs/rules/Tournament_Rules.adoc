@@ -528,13 +528,15 @@ image::tournament-rules-2.png[]
 . Adding Wave 5 cards to the permitted list for Constructed events.
 . Adding FAQ Appendix.
 . Sanctioning section converted to Recommendations section.
+. Recommending 60 minutes for Wave 5.
 
 == Appendix B — Time Limits
 The required minimum time limit for any match is 40 minutes.
 The following time limits are recommended for each round of a tournament:
 
-* Constructed and Limited tournaments —50 minutes
-* Single-elimination playoff matches—No time limit
+* Constructed and Limited tournaments — 50 minutes
+** Note that with Wave 5 cards, Aequitas recommend 60 minutes instead of 50 minutes.
+* Single-elimination playoff matches — No time limit
 
 The following additional time limits are recommended for Limited tournaments:
 
