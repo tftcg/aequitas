@@ -173,10 +173,14 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 
 [yellow-background]#Named targets may be footnote:[https://www.facebook.com/TransformersTCG/posts/2656285971159878?comment_id=2658387914283017&reply_comment_id=2658417707613371]:#
 
-* [yellow-background]#A specifically named character on your starting team (i.e. "Optimus Prime - Battlefield Legend").#
+* [yellow-background]#A specifically named character on your starting team (i.e. "Optimus Prime, Battlefield Legend").#
 * [yellow-background]#A generally named character on your starting team (i.e. "Optimus Prime").#
-* [yellow-background]#A combiner that a character on your starting team could combine into.#
-* [yellow-background]#A character your starting team could deploy.#
-* [yellow-background]#A trait on any of the above.   [what about another mode???]#
+* [yellow-background]#A combiner that a character on your starting team could combine into (i.e. "Volcanicus, Fiery Champion").#
+* [yellow-background]#A faction on any of the above (in their starting mode).#
+* [yellow-background]#A trait on any of the above (in their starting mode).#
 
 [yellow-background]#A player may not have two stratagems with the same ‘named target’ on the battlefield at one time.#
+
+Open Questions.
+
+* WotC said, in Facebook comment, "which your starting team could deploy". Do we include this?
