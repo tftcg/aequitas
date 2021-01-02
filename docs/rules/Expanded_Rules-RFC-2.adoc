@@ -181,6 +181,6 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 
 [yellow-background]#A player may not have two stratagems with the same ‘named target’ on the battlefield at one time.#
 
-Open Questions.
+[red-background]#Open Questions:#
 
-* WotC said, in Facebook comment, "which your starting team could deploy". Do we include this?
+[red-background]#* WotC said, in Facebook comment, "which your starting team could deploy". Do we include this?#
