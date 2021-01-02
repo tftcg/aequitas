@@ -9,6 +9,10 @@ Aequitas Committee <questions@tf-rules.info>
 :toc-title: Expanded Rules 2.0.1
 :imagesdir: ./images
 
+**RFC-3**
+
+[red-background]#This RFC introduces rules clarifying how extra attacks work. See <<_attack,Attack>>, <<_post_attack,Post Attack>>, and <<_all_out_attack,All Out Attack errata>> for the new text.#
+
 **Introduction**
 
 These expanded rules give you a detailed look inside some parts of the Transformers TCG. While they are not comprehensive rules, and they may not address every situation that may arise during gameplay, they can be used together with the previous Rule sets to handle most situations. For questions concerning tournament operations (and not gameplay), please see the Transformers TCG Floor Rules.
@@ -170,6 +174,6 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 [yellow-background]#All-Out Attack was one of the earliest cards revealed by WotC and its language was clearly prototypical. In its original form, it is the only card to refer to a character as a "Transformer". While the latter Energon Edition version updated that to "character", its text is still a poor fit with the concept of an Extra Attack. It is Errata'd to have the following interpretation:#
 
 All-Out Attack:: 
-[yellow-background]#Until end of turn -> When one of your characters attacks, you may attack with another character that has not already attacked this turn.#
+[yellow-background]#Until end of turn -> When one of your characters attacks, you may attack with another (untapped?) character that has not already attacked this turn.#
 
 [yellow-background]#This intepretation should fit with the typical use of the card, and allows for more complicated situations to be evaluated within the rules of the game.#
