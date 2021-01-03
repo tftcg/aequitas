@@ -175,18 +175,19 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 
 * [yellow-background]#A specifically named character on your starting team (i.e. "Optimus Prime, Battlefield Legend").#
 * [yellow-background]#A generally named character on your starting team (i.e. "Optimus Prime").#
+** [yellow-background]#Does not include Better THings To DO Than Die - this was a printing error; only Autobot Springer
 * [yellow-background]#A combiner that a character on your starting team could combine into (i.e. "Volcanicus, Fiery Champion").#
-* [yellow-background]#A faction on any of the above (in their starting mode).#
-* [yellow-background]#A trait on any of the above (in their starting mode).#
+* [yellow-background]#A character on your starting team that may be deployed (i.e. "Clobber").#
+* [yellow-background]#A faction on any of the above (in their starting, deployed, or combined mode).#
+* [yellow-background]#A trait on any of the above (in their starting, deployed, or combined mode).#
 
 [yellow-background]#Named targets may not, for example, be:#
 
 * [yellow-background]#A battle card.#
 * [yellow-background]#A Stratagem.#
 
-[yellow-background]#A player may not have two stratagems with the same ‘named target’ on the battlefield at one time.#
-[yellow-background]#A named target may be plural, but it has no effect. For example, Heroic Spotlight says _Autobots_ but would still be playable with a starting team of only one Autobot and could have said _Autobot_.#
+[yellow-background]#Note that:#
 
-[red-background]#Open Questions:#
-
-[red-background]#* WotC said, in Facebook comment, "which your starting team could deploy". Do we include this?#
+* [yellow-background]#A player may not have two stratagems with the same named target on the battlefield at one time.#
+* [yellow-background]#A named target may be plural, but it has no effect. For example, Heroic Spotlight says "Autobots" but would still be playable with a starting team of only one Autobot and could have said "Autobot".#
+* [yellow-background]#To have a generalized stratagem, use a target of "Any Character".#
