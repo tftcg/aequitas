@@ -162,3 +162,35 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 * **Focus**: Focus lets you look at the top of your deck just before flipping battle cards. If you don’t like what you see, you can scrap cards in the hopes of flipping better ones. Focus is a single action, so if a character has multiple instances of focus, add the numbers together to determine how many cards to look at. For example, if a character has Focus 1 and is upgraded with a utility that gives it another instance of Focus 1, look at the top two cards of your deck before flipping battle cards. You may scrap any number of them and put the rest back on top of your deck in any order.
 * **Plan**: Plan is a keyword action. Because you’ll never be instructed to plan more than once at the same time, plan numbers can’t add together.
 * **Safeguard**: Safeguard numbers add together, but be careful! A higher safeguard number actually makes the ability less powerful. For example, if a character with Safeguard 3 (like, say, oh I don’t know . . . Private Hot Rod) gets an armor that gives it Safeguard 3(like, say, oh I don’t know . . . Medic’s Protective Field), it will have Safeguard 6. But that means it can’t take more than 6 damage while undamaged, while if it didn’t have that armor it couldn’t take more than 3 damage. So maybe don’t play those cards together?
+
+== Errata
+
+=== Brainstorm (W1-010)
+
+In reprinting Brainstorm, WotC decided to adjust the cards text. Wave 1 Brainstorm now matches the Wave 3 reprint's text and says:
+
+    "You may play an action. Then you play another action."
+
+=== All Out Attack (W1C-001)
+
+The original conference version of All Out Attack used the term Transformers instead of characters. This was fixed in the Energon Edition reprint, thus the original conference version now says:
+
+    "Each of your untapped characters can attack this turn."
+
+=== Grapple - Autobot Architect (W2-T26)
+
+Grapple used the term 'discard', which is not a TFTCG term. Instead this card's bot mode now says:
+
+    "When you flip to this mode -> You may scrap your hand. If you do and those cards have battle icons of exactly 4 different colors, do 4 damage to an enemy."
+
+=== Pep Talk (W3-041)
+
+Note that Wave 3's Pep Talk is not an Errata. Pep Talk is available in both Uncommon and Common versions.
+
+=== Infiltrate (W3-034), Jam Signals (W4-033), Overrule (W5-043), Speed Trap (W5-053)
+
+These cards say "Reveal -> When your opponent plays an Action". This is an issue in locking down the exact rules of the game as the inactive player is somehow prioritizing their reveal ahead of the active player's play. 
+
+Instead, they each now begin with:
+
+    "Reveal -> As your opponent plays an Action"
