@@ -178,4 +178,4 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 * [yellow-background]#Any triggered abilities of the active player resolve in the order of their choice.#
 * [yellow-background]#Any triggered abilities of the nonactive player resolve in the order of their choice.#
 
-[yellow-background]#_Example_: Your character with 10 HP has 11 damage and is equipped with a Minor Medic Kit (+2HP) You decide to upgrade the character with an Enhanced Power Cell (+3HP). The Power Cell is added to your character, then the Medic Kit is removed. Your character is not KO'd.#
+[yellow-background]#_Example_: Your character with 10 HP has 11 damage and is equipped with a Minor Medic Kit (+2HP). You decide to upgrade the character with an Enhanced Power Cell (+3HP). The Power Cell is added to your character, then the Medic Kit is removed. Your character is not KO'd.#
