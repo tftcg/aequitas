@@ -167,27 +167,40 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 * **Plan**: Plan is a keyword action. Because you’ll never be instructed to plan more than once at the same time, plan numbers can’t add together.
 * **Safeguard**: Safeguard numbers add together, but be careful! A higher safeguard number actually makes the ability less powerful. For example, if a character with Safeguard 3 (like, say, oh I don’t know . . . Private Hot Rod) gets an armor that gives it Safeguard 3(like, say, oh I don’t know . . . Medic’s Protective Field), it will have Safeguard 6. But that means it can’t take more than 6 damage while undamaged, while if it didn’t have that armor it couldn’t take more than 3 damage. So maybe don’t play those cards together?
 
-== Stratagem Targets
+== [yellow-background]#Stratagem Targets#
 
-[yellow-background]#A player may include a stratagem in a deck when the named target of the stratagem is _present_ on a starting team.#
+#A player may include a stratagem in a deck when the named target of the stratagem is _present_ on a starting team.#
 
-[yellow-background]#Named targets may be footnote:[https://www.facebook.com/TransformersTCG/posts/2656285971159878?comment_id=2658387914283017&reply_comment_id=2658417707613371]:#
+#Named targets may be footnote:[https://www.facebook.com/TransformersTCG/posts/2656285971159878?comment_id=2658387914283017&reply_comment_id=2658417707613371]:#
 
-* [yellow-background]#A specifically named character on your starting team (i.e. "Optimus Prime, Battlefield Legend").#
-* [yellow-background]#A generally named character on your starting team (i.e. "Optimus Prime").#
-** [yellow-background]#Does not include Better THings To DO Than Die - this was a printing error; only Autobot Springer
-* [yellow-background]#A combiner that a character on your starting team could combine into (i.e. "Volcanicus, Fiery Champion").#
-* [yellow-background]#A character on your starting team that may be deployed (i.e. "Clobber").#
-* [yellow-background]#A faction on any of the above (in their starting, deployed, or combined mode).#
-* [yellow-background]#A trait on any of the above (in their starting, deployed, or combined mode).#
+* #A specifically named character on your starting team (e.g. "Optimus Prime, Battlefield Legend").#
+* #A generally named character on your starting team (e.g. "Optimus Prime").#
+* #A combiner that a character on your starting team could combine into (e.g. "Volcanicus, Fiery Champion").#
+* #A character on your starting team that may be deployed (e.g. "Clobber").#
+* #A faction on any of the above (in their starting, deployed, or combined mode).#
+* #A trait on any of the above (in their starting, deployed, or combined mode).#
 
-[yellow-background]#Named targets may not, for example, be:#
+#Named targets may not, for example, be:#
 
-* [yellow-background]#A battle card.#
-* [yellow-background]#A Stratagem.#
+* #A battle card.#
+* #A Stratagem.#
+* #A character who was not on your starting team (e.g. "Slammer, Combat Drone" in a Metroplex deck).#
 
-[yellow-background]#Note that:#
+#Note that:#
 
-* [yellow-background]#A player may not have two stratagems with the same named target on the battlefield at one time.#
-* [yellow-background]#A named target may be plural, but it has no effect. For example, Heroic Spotlight says "Autobots" but would still be playable with a starting team of only one Autobot and could have said "Autobot".#
-* [yellow-background]#To have a generalized stratagem, use a target of "Any Character".#
+* #A player may not have two stratagems with the same named target on the battlefield at one time.#
+* #A named target may be plural, but it has no effect. For example, Heroic Spotlight says "Autobots" but would still be playable with a starting team of only one Autobot and could have said "Autobot".#
+* #To have a stratagem that works for all characters, use a target of "Any Character".#
+** #The Wave 5 Better Things To Do Than Die stratagem is intended to target Wave 2's Autobot Springer, Aerial Defense. Despite the slightly confusing naming, it does not target any different Springers.#
+
+== Errata
+
+=== [yellow-background]#Better Things To Do Than Die (W5-S03)#
+
+#The target of this card was a little vague. The lack of the Autobot prefix meant players were reasonably unsure as to whether it applied to Wave 4's Sergeant Springer. To fix this, the stratagem's target now reads:#
+
+    Autobot Springer, Aerial Defense
+
+#and the text of the strategem now reads:#
+
+    When your Autobot Springer, Aerial Defense is on the battlefield and you flip him to another mode -> Repair 1 damage from him.
