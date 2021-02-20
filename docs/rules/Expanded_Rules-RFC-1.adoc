@@ -13,6 +13,8 @@ Aequitas Committee <questions@tf-rules.info>
 
 [red-background]#This RFC introduces rules pertaining to when Upgrades are scrapped. See <<_upgrade_play,Upgrade Play>> for the new text.#
 
+[red-background]#PUBLISHED 2021-01-31#
+
 **Introduction**
 
 These expanded rules give you a detailed look inside some parts of the Transformers TCG. While they are not comprehensive rules, and they may not address every situation that may arise during gameplay, they can be used together with the previous Rule sets to handle most situations. For questions concerning tournament operations (and not gameplay), please see the Transformers TCG Floor Rules.
