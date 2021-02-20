@@ -177,8 +177,8 @@ Many keywords have numerical modifiers. In many cases, this means that their eff
 * #A generally named character on your starting team (e.g. "Optimus Prime").#
 * #A combiner that a character on your starting team could combine into (e.g. "Volcanicus, Fiery Champion").#
 * #A character on your starting team that may be deployed (e.g. "Clobber").#
-* #A faction on any of the above (in their starting, deployed, or combined mode).#
-* #A trait on any of the above (in their starting, deployed, or combined mode).#
+* #A faction on a character in their starting, deployed, or combined mode (e.g. "Autobots").#
+* #A trait on a character in their starting, deployed, or combined mode (e.g. "Weaponizer").#
 
 #Named targets may not, for example, be:#
 
