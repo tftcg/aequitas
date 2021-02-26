@@ -190,6 +190,16 @@ Its text is also a poor fit with the concept of an Extra Attack. It is Errata'd 
 
 This intepretation should fit with the typical use of the card, and allows for more complicated situations to be evaluated within the rules of the game.
 
+=== Slipstream - Strategic Seeker (W1C-T02)
+
+The original conference version of Slipstream used the phrase:
+
+    "you flip at least 3 different battle icons"
+
+In the Energon Edition reprint this was changed to:
+
+    "you flip battle icons of at least 3 different colors"
+
 === Brainstorm (W1-010)
 
 In reprinting Brainstorm, WotC decided to adjust the cards text. Wave 1 Brainstorm now matches the Wave 3 reprint's text and says:
