@@ -1,0 +1,121 @@
+= Transformers TCG: Rules 1.0
+Aequitas Committee <questions@tf-rules.info>
+:reproducible:
+:listing-caption: Listing
+:toc:
+:toc-placement: preamble
+:toclevels: 3
+:sectnums:
+:toc-title: Rules 1.0
+:imagesdir: ./images
+
+**Introduction**
+
+These are the standard player-supplied rules for Transformers TCG as provided by Wizards of the Coast.
+
+== TRANFORMERS TCG RULES
+=== BUILDING A TEAM AND DECK
+
+All character cards and some battle cards have a number of stars near the bottom of the cards.
+Make sure the total number of stars on your character cards and battle cards combined is 25 or less.
+As long as you don’t go over the 25-star limit, you can have as many characters on your team as
+you want. You can’t have more than 1 of each unique character (based on its full card name) on
+your team.
+You’ll also need a deck of at least 40 battle cards. Types of battle cards include Action cards and
+Upgrade cards. You can’t have more than 3 of the same battle card in your deck.
+
+=== WINNING THE GAME
+
+When your opponent’s characters are all KO’d (knocked out), you win!
+
+=== GETTING STARTED
+
+* Most characters have 2 modes: alt mode and bot mode. Put your character cards on your side of the battlefield in alt mode (or alt 1 mode). The mode that’s face up tells you a character’s current stats and abilities.
+* Shuffle your deck of battle cards. Put it face down off to the side.
+* Randomly decide who goes first. Switch who goes first for each new game.
+* Each player draws 3 battle cards. To draw a card, put the top card of your deck into your hand.
+
+=== TAPPING AND UNTAPPING CHARACTERS
+If you’re told to tap one of your characters, turn it sideways. To untap it, turn it back so
+it’s upright and facing you. Attacking will cause your characters to become tapped.
+Some cards can also tap or untap characters.
+=== TAKING A TURN
+At the start of your turn, draw a battle card. Then you can do the following in any order:
+
+* Flip 1 of your characters on the battlefield or in your KO area to its other mode.
+* Play 1 Action card from your hand.
+* Play 1 Upgrade card from your hand onto one of your characters.
+* Use 1 Tap ability of one of your characters.
+
+Exception: On the very first turn of the game, the player who goes first can’t play
+ Actions or Upgrades. On the second turn, the other player can play only one card, either
+an Action or an Upgrade.
+
+When you play an Action, do what the card says and then set it off to the side. You’ll put
+it into your scrap pile at the end of the turn. Your scrap pile sits next to your deck of
+battle cards and is where your used battle cards go during the game. If you’re told to
+scrap a card, put it there.
+
+A Secret Action is an Action you play face down. Reveal it when it says to reveal it, then use its
+ability. Put it into your scrap pile at the start of your next turn.
+
+An Upgrade stays on the battlefield attached to a character. There are 3 kinds of Upgrades:
+Weapons, Armor, and Utilities. Each character can have up to 1 of each kind. If you want to play
+an Upgrade on a character that already has one of that kind, scrap the old one.
+
+=== ATTACK
+
+Next, it’s time to attack!
+
+. Choose one of your untapped characters as the attacker.
+. Choose one of your opponent’s tapped characters as the defender. If none of your opponent’s characters are tapped, your character can attack any of them.
+. Tap your attacker.
+. Each player flips over the top 2 battle cards of their deck and sets them aside. If a player flips any white battle icons, that player flips 2 more cards. This bonus flip happens only once per player on each attack.
+. For the attacker, count the number of black battle icons flipped. The attacker gets Pierce 1 until end of turn for each of them. Pierce numbers add together.
+. For the attacker, count the number of orange attack battle icons flipped and add that to its Attack.
+. For the defender, count the number of blue defense battle icons flipped and add that to its Defense.
+. If the total Attack number is higher than the total Defense number, the attacker does damage to the defender equal to the difference. If the numbers are the same or the total Defense number is higher, no damage is done. However, an attacker that has Pierce does at least as much damage as its total Pierce number, but not more than its total Attack number.
+
+Some cards may affect how characters attack and defend. For example, a character's ability may allow a player to flip more cards when that character attacks or defends.
+
+After the attack, each player who flipped at least one card with a green battle icon may swap a card from their hand with one of their flipped green battle icon cards.
+
+Then, if your opponent has any untapped characters, your turn is over. If your opponent’s characters are all tapped, you can attack with a character again—but only if at least one of your characters is untapped. Keep attacking with your characters until all of them are tapped. Once all characters on both sides are tapped, untap them all and your turn is over.
+
+When your turn ends, put all battle cards you flipped for attacks during that turn into your scrap pile. Also put any Actions you played that turn into your scrap pile.
+
+=== DAMAGE AND KNOCKOUT
+
+When something does damage to a character, put that many damage counters on it. If the number of damage counters it has equals or is more than its Health, the character is KO’d.
+
+Move it off the battlefield to your KO area. Its abilities stop working, but you can still flip a KO'd
+character to its other mode during your turn.
+
+=== RESHUFFLING YOUR DECK
+
+If your deck ever runs out of battle cards, shuffle the cards in your scrap pile face down. Those shuffled cards become your deck. This can happen at any time, even in the middle of an attack!
+
+
+== APPENDIX: BASIC RULES
+
+For use with the AUTOBOTS STARTER SET
+
+These rules are for a basic version of the TRANSFORMERS Trading Card Game. When playing this basic version, ignore rules text on all the cards.
+
+=== SETUP
+* Start with 2 TRANSFORMERS character cards with alt-mode sides face up in front of each player.
+* Shuffle the battle cards and put the deck between the players. Reshuffle the deck if it runs out of cards during play.
+
+=== HOW TO WIN
+
+KO all your opponent’s character cards to win the game.
+
+Players take turns attacking each other’s character cards.
+
+=== ON YOUR TURN:
+. You may flip one of your character cards to its other mode.
+. Choose one of your character cards to be the attacker and one of your opponent’s character cards to be the defender. You can’t attack with the same character card 2 turns in a row unless your other one is KO’d.
+. Attack—Flip over 2 battle cards from the top of the deck. Add the number of orange rectangles in the upper right corners of those cards to the orange Attack number on the attacker.
+. Defense—Your opponent flips over 2 battle cards from the top of the deck and adds the number of blue rectangles in the upper right corners of those cards to the blue Defense number on the defender.
+. Damage—Subtract the Defense total from the Attack total. Put that many damage counters on the defender. The defender is KO’d and out of the game if the number of damage counters on it is greater than or equal to its red Health number.
+. End your turn.
