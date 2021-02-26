@@ -180,7 +180,7 @@ _Example_: Your character with 10 HP has 11 damage and is equipped with a Minor 
 
 == Errata
 
-=== All Out Attack (W1C-001)
+=== All-Out Attack (W1C-001)
 
 The original conference version of All Out Attack used the term Transformers instead of characters. This was fixed in the Energon Edition reprint.
 
