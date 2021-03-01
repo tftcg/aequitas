@@ -63,7 +63,7 @@ def write_faq(faq_node, faq_template, output_dir, filename):
     page = faq_template.render(faq_node=faq_node, f_prepare_text=prepare_text, filename=filename, path=path[5:])
     #page = leaf_template.render(f_safe_name=safe_name, f_prepare_text=prepare_text, entries=found_entries, faq_name=leaf_name, f_source_label=source_label, parent_stack=parent_stack, tag_node=tag_node, filename=filename[len(TOP_OUTPUT_DIR)+1:], pretty_path=pretty_path, f_build_image_path=build_image_path, faq_db=faq_db )
 
-    page = re.sub('<tftcg-note>', '<span class="aequitas-note">', page)
+    page = re.sub('<tftcg-note>', '<span class="tftcg-note">', page)
     page = re.sub('</tftcg-note>', '</span>', page)
 
     f = open( path, 'w' )

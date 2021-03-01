@@ -142,6 +142,19 @@ p, ul, ol, figcaption {
     padding-left: 3em;
 }
 
+.tftcg-note:before {
+    content: "Aequitas Note: ";
+}
+
+.tftcg-note {
+    background-color: red;
+    color: white;
+    width: 80%;
+    padding: 0.5em;
+    margin-top: 1em;
+    font-size: smaller;
+}
+
 @media (min-width: 850px) {
   p, ul, ol {
     font-size: 21px;
