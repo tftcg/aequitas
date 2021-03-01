@@ -178,6 +178,32 @@ When an Upgrade is put on a character, events occur in the following order:
 
 _Example_: Your character with 10 HP has 11 damage and is equipped with a Minor Medic Kit (+2HP). You decide to Upgrade the character with an Enhanced Power Cell (+3HP). The Power Cell is added to your character, then the Medic Kit is removed. Your character is not KO'd.
 
+== Stratagem Targets
+
+A player may include a stratagem in a deck when the named target of the stratagem is _present_ on a starting team.
+
+Named targets may be footnote:[https://www.facebook.com/TransformersTCG/posts/2656285971159878?comment_id=2658387914283017&reply_comment_id=2658417707613371]:
+
+* A specifically named character on your starting team (e.g. "Optimus Prime, Battlefield Legend").
+* A generally named character on your starting team (e.g. "Optimus Prime").
+* A combiner that a character on your starting team could combine into (e.g. "Volcanicus, Fiery Champion").
+* A character on your starting team that may be deployed (e.g. "Clobber").
+* A faction on a character in their starting, deployed, or combined mode (e.g. "Autobots").
+* A trait on a character in their starting, deployed, or combined mode (e.g. "Weaponizer").
+
+Named targets may not, for example, be:
+
+* A battle card.
+* A Stratagem.
+* A character who was not on your starting team (e.g. "Slammer, Combat Drone" in a Metroplex deck).
+
+Note that:
+
+* A player may not have two stratagems with the same named target on the battlefield at one time.
+* A named target may be plural, but it has no effect. For example, Heroic Spotlight says "Autobots" but would still be playable with a starting team of only one Autobot and could have said "Autobot".
+* To have a stratagem that works for all characters, use a target of "Any Character".
+* Stratagems that relate to a character are expected to use the same artwork as the card they relate to.
+
 == Errata
 
 === All-Out Attack (W1C-001)
@@ -223,3 +249,14 @@ These cards say "Reveal -> When your opponent plays an Action". This is an issue
 Instead, they each now begin with:
 
     "Reveal -> As your opponent plays an Action"
+
+=== Better Things To Do Than Die (W5-S03)
+
+The target of this card was a little vague. The lack of the Autobot prefix meant players were reasonably unsure as to whether it applied to Wave 4's Sergeant Springer, though the image on the card is a strong sign that it relates only to the Wave 2 Autobot Springer. To fix this, the stratagem's target now reads:
+
+    "Autobot Springer, Aerial Defense"
+
+and the text of the strategem now reads:
+
+    "When your Autobot Springer, Aerial Defense is on the battlefield and you flip him to another mode -> Repair 1 damage from him."
+
