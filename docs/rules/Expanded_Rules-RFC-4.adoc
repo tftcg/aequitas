@@ -11,7 +11,7 @@ Aequitas Committee <questions@tf-rules.info>
 
 **RFC-4**
 
-[red-background]#This RFC adjusts the rule on Focus, relying on communication with WotC right at the game's end, along with the general norm of how the majority have been playing, suggesting the current rule text is the less simple path. See <<_flip_battle_cards,Flip Battle Cards>>. #
+[red-background]#This RFC adjusts the rule on Focus, based on communication with WotC around the game's end. Additionally, the general norm of how the majority have been playing suggests this is the simple and expected approach. See <<_flip_battle_cards,Flip Battle Cards>>. #
 
 **Introduction**
 
