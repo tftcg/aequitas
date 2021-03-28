@@ -14,3 +14,4 @@ asciidoctor-pdf docs/rules/Expanded_Rules-draft.adoc
 #asciidoctor docs/rules/Expanded_Rules-RFC-2.adoc 
 #asciidoctor docs/rules/Expanded_Rules-RFC-3.adoc 
 asciidoctor docs/rules/Expanded_Rules-RFC-4.adoc 
+asciidoctor docs/rules/Expanded_Rules-RFC-5.adoc 
