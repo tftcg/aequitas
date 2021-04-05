@@ -9,7 +9,7 @@ Aequitas Committee <questions@tf-rules.info>
 :toc-title: Expanded Rules 2.0
 :imagesdir: ./images
 
-**RFC-N**
+**RFC-5**
 
 [red-background]#This RFC identifies end of game requirements.  See <<_ending_the_game,Ending the Game>>.#
 
