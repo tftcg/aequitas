@@ -45,7 +45,7 @@ The attack is divided into three steps. The attack may count as the turn’s req
 
 . If the attacking player’s characters are all tapped, the attack immediately ends and the game proceeds to the Post-Attack phase.
 
-. The attacking player choose one of their untapped characters and taps it. For this combat, that character is the attacker.
+. The attacking player chooses one of their untapped characters and taps it. For this combat, that character is the attacker.
 
 . Any ability that happens “after [a player] chooses an attacker and before they choose a defender” resolves.
 
