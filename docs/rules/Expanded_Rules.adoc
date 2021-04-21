@@ -55,20 +55,21 @@ The attack is divided into three steps. The attack may count as the turn’s req
 
 ==== Flip Battle Cards
 
-. Any abilities that happen “before flipping battling cards,” like Focus, resolve.
+. <deleted>
 
 . Each player determines how many battle cards they will flip during this combat. By default, this number is two, although abilities like Bold and Tough can change this number. This number is locked in at this time. A character gaining or losing such an ability after this point won’t affect how many battle cards will be flipped.
 
-. The attacking player flips battle cards. To flip a battle card, the player takes the top card of their deck and puts it face up into their played area.
+. The attacking player flips battle cards. Before flipping, any abilities that happen “before flipping battling cards,” like Focus, resolve. To flip a battle card, the player takes the top card of their deck and puts it face up into their played area.
 
 * After the attacking player flips a card, the attacker gets +1 attack for each orange battle icon on that card. Similarly, the attacker gets Pierce 1 for each black battle icon that card. These bonuses are applied immediately, before the next card is flipped.
 * If the attacking player flips a white battle icon, they flip two additional cards. There is no additional bonus for additional white battle icons beyond the first.
 
 . Any abilities belonging to the attacking player that happen “after you flip battle cards and before defense flips” resolve, as well as any abilities that happen “when this attacks/battles” and refer to the results of the attacking player flipping battle cards.
 
-. The defending player flips battle cards, including the white battle icon “bonus flip,” if applicable.
+. The defending player flips battle cards. Before flipping, any abilities that happen “before flipping battling cards,” like Focus, resolve.
 
 * After the defending player flips a card, the defender gets +1 defense for each blue battle icon on that card. This bonus is applied immediately, before the next card is flipped.
+* If the defending player flips a white battle icon, they flip two additional cards. There is no additional bonus for additional white battle icons beyond the first.
 
 . Any abilities that happen “when this attacks/defends/battles” and refer to the results of the defending player flipping battle cards or refer to the results of both players flipping battle cards.
 
@@ -108,6 +109,14 @@ Before the turn finally ends, a few things happen.
 . Any effect that lasts “until end of turn” wears off.
 . If any of the above causes an ability to trigger or a character to be KO’d, repeat this phase until nothing is pending and all “until end of turn” effects have worn off.
 . The turn ends. Hooray!
+
+=== Ending the Game
+
+The game ends when a player has knocked out all of their opponent's characters, or when they fulfill the win conditions on a card.
+
+At the end of the game, each player:
+
+. Reveals all face down Secret Actions.
 
  
 == Actions within Actions
