@@ -173,6 +173,7 @@ p, ul, ol, figcaption {
   }
 }
 
+/*
 @media (min-width: 1600px) {
   #homecontent {
     width: 1600px;
@@ -181,3 +182,4 @@ p, ul, ol, figcaption {
      display: initial;
   }
 }
+*/
